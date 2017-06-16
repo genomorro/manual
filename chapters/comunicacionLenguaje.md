@@ -1,5 +1,5 @@
 <div id="table-of-contents">
-<h2>Table of Contents</h2>
+<h2>Contenidos</h2>
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#sec-1">1. Comunicación y lenguaje</a>
@@ -47,7 +47,7 @@ Los elementos del circuito comunicativo son:
 -   Contacto. Ligado a la función fática.
 -   Mensaje. Ligado a la función poética.
 
-![img](im/circuito.png)
+![img](../im/circuito.png)
 
 ### Principio de cooperación<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
@@ -62,7 +62,7 @@ una serie de máximas que pueden o no ser acatadas.
 ## Lenguaje: definición, tipos y características<a id="sec-1-2" name="sec-1-2"></a>
 
 El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden de contenidos y
-orden de la expresión,  esto hace al lenguaje biplanar.
+orden de la expresión,  esto hace al lenguaje biplanar.[^1]
 
 ### Características<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
@@ -85,7 +85,7 @@ en uso.
 
 La lengua escrita es la expresión psíquica directa del pensamiento.
 
-## Estructura y función gramatical de palabras y oraciones<a id="sec-1-5" name="sec-1-5"></a>
+## Estructura y función gramatical de palabras y oraciones<a id="sec-1-5" name="sec-1-5"></a>[^2]
 
 ### Terminología<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
@@ -129,8 +129,8 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 5.  Preposiciones
 
     Toman una FN  como término o complemento: a,  ante, bajo, cabe(cerca de, junto  a), con, contra,
-    de, desde,  durante, en, entre,  hacia, hasta, mediante,  para, por, según,  sin, so(bajo,
-    debajo de), sobre, tras, vía(por, pasando por, haciendo escala en)
+    de, desde,  durante[^3], en, entre,  hacia, hasta, mediante[^4],  para, por, según,  sin, so(bajo,
+    debajo de), sobre, tras, vía[^5](por, pasando por, haciendo escala en)
 
 6.  Determinantes
 
@@ -192,20 +192,12 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 -   Enunciado, oración, clausula y finitud.
 -   Ambigüedad y sus tipos.
 
-<div id="footnotes">
-<h2 class="footnotes">Footnotes: </h2>
-<div id="text-footnotes">
+[^1]: Los detalles sobre este tema se abarcan en cite:simone2001fundamentos.
 
-<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> Los detalles sobre este tema se abarcan en [@simone2001fundamentos].</div>
+[^2]: Para explicaciones más detalladas es importante leer [@espanola2009nueva; @de2007gramatica].
 
-<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum" href="#fnr.2">2</a></sup> Para explicaciones más detalladas es importante leer [@espanola2009nueva; @de2007gramatica].</div>
+[^3]: Tiene valor prepositivo, no es en realidad una preposición.
 
-<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum" href="#fnr.3">3</a></sup> Tiene valor prepositivo, no es en realidad una preposición.</div>
+[^4]: Tiene valor prepositivo, no es en realidad una preposición.
 
-<div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum" href="#fnr.4">4</a></sup> Tiene valor prepositivo, no es en realidad una preposición.</div>
-
-<div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum" href="#fnr.5">5</a></sup> Tiene valor prepositivo, no es en realidad una preposición.</div>
-
-
-</div>
-</div>
+[^5]: Tiene valor prepositivo, no es en realidad una preposición.

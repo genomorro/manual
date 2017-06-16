@@ -134,53 +134,14 @@ persuadir, movilizar o suscitar una acción.
     Refiere a la siguiente tabla de verdad:
     A -> B (Se lee *Si A entonces B*)
     
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="left" />
-    
-    <col  class="left" />
-    
-    <col  class="left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="left">A</th>
-    <th scope="col" class="left">B</th>
-    <th scope="col" class="left">A->B</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="left">V</td>
-    <td class="left">V</td>
-    <td class="left">V</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="left">V</td>
-    <td class="left">F</td>
-    <td class="left">F</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="left">F</td>
-    <td class="left">V</td>
-    <td class="left">V</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="left">F</td>
-    <td class="left">F</td>
-    <td class="left">V</td>
-    </tr>
-    </tbody>
-    </table>
+	|---+---+------|
+	| A | B | A->B |
+	|:--+:--+:----:|
+	| V | V | V    |
+	| V | F | F    |
+	| F | V | V    |
+	| F | F | V    |
+	|---+---+------|
     
     Se dice que:
     -   A es suficiente para B
@@ -191,7 +152,7 @@ persuadir, movilizar o suscitar una acción.
     -   Relación necesaria: Solo si&#x2026;
     -   Relación necesaria y suficiente: Si y solo si&#x2026;
 
-### "Creating A Research Space" **CARS** model<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### "Creating A Research Space" **CARS** model<a id="sec-1-3-3" name="sec-1-3-3"></a>[^1]
 
 1.  Movimiento 1: Establecer un territorio
 
@@ -228,13 +189,6 @@ persuadir, movilizar o suscitar una acción.
     
     -   Paso 4: Evaluar los descubrimientos principales.
 
-<div id="footnotes">
-<h2 class="footnotes">Footnotes: </h2>
-<div id="text-footnotes">
 
-<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> Para una explicación  detallada sobre el modelo **CARS** se recomienda  leer [el handout con
-ejemplos (en inglés)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).</div>
-
-
-</div>
-</div>
+[^1]: Para una explicación detallada sobre el modelo **CARS** se recomienda leer [el handout con
+ejemplos (en inglés)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).
