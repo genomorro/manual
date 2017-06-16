@@ -135,7 +135,7 @@ persuadir, movilizar o suscitar una acción.
     A -> B (Se lee *Si A entonces B*)
     
 	| A | B | A->B |
-	|:--|:--|:----:|
+	|:---|:---|:----:|
 	| V | V | V    |
 	| V | F | F    |
 	| F | V | V    |
