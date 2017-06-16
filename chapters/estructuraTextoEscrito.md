@@ -134,50 +134,13 @@ persuadir, movilizar o suscitar una acción.
     Refiere a la siguiente tabla de verdad:
     A -> B (Se lee *Si A entonces B*)
     
-    | A | B | A->B |
-    |---|---|:----:|
-    | V | V |   V  |
-    | V | F |   F  |
-    | F | V |   V  |
-    | F | F |   V  |
+| A | B | A->B |
+|---|---|:----:|
+| V | V |   V  |
+| V | F |   F  |
+| F | V |   V  |
+| F | F |   V  |
     
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    <colgroup>
-    <col  class="left" />
-    <col  class="left" />
-    <col  class="left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="left">A</th>
-    <th scope="col" class="left">B</th>
-    <th scope="col" class="left">A->B</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <td class="left">V</td>
-    <td class="left">V</td>
-    <td class="left">V</td>
-    </tr>
-    <tr>
-    <td class="left">V</td>
-    <td class="left">F</td>
-    <td class="left">F</td>
-    </tr>
-    <tr>
-    <td class="left">F</td>
-    <td class="left">V</td>
-    <td class="left">V</td>
-    </tr>
-    <tr>
-    <td class="left">F</td>
-    <td class="left">F</td>
-    <td class="left">V</td>
-    </tr>
-    </tbody>
-    </table>
-
     Se dice que:
     -   A es suficiente para B
     -   B es necesario para A
