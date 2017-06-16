@@ -120,19 +120,17 @@ Se debe tener en cuenta:
 Justifica una  opinión para convencer a  otro sobre la  tesis que se sustenta.  Busca convencer,
 persuadir, movilizar o suscitar una acción.
 
-1.  Argumentación analógica
+#### Argumentación analógica
 
-    -   Compara dos hechos o situaciones.
-    -   Se trata de establecer una comparación entre el caso  o la opinión que se defiende y otro caso
-        o situación similar.
-    -   Lo válido en A también debe ser válido y aceptado en B.
+-   Compara dos hechos o situaciones.
+-   Se trata de establecer una comparación entre el caso  o la opinión que se defiende y otro caso o situación similar.
+-   Lo válido en A también debe ser válido y aceptado en B.
 
-2.  Argumentación causa-efecto
+#### Argumentación causa-efecto
 
-    Se usa cuando un fenómeno entraña a otro en función del conocimiento científico o empírico.
+Se usa cuando un fenómeno entraña a otro en función del conocimiento científico o empírico.
     
-    Refiere a la siguiente tabla de verdad:
-    A -> B (Se lee *Si A entonces B*)
+Refiere a la siguiente tabla de verdad: A -> B (Se lee *Si A entonces B*)
     
 | A | B | A->B |
 |---|---|:----:|
@@ -141,14 +139,14 @@ persuadir, movilizar o suscitar una acción.
 | F | V |   V  |
 | F | F |   V  |
     
-    Se dice que:
-    -   A es suficiente para B
-    -   B es necesario para A
+Se dice que:
+-   A es suficiente para B
+-   B es necesario para A
     
-    Expresiones:
-    -   Relación suficiente: Si&#x2026;
-    -   Relación necesaria: Solo si&#x2026;
-    -   Relación necesaria y suficiente: Si y solo si&#x2026;
+Expresiones:
+-   Relación suficiente: Si&#x2026;
+-   Relación necesaria: Solo si&#x2026;
+-   Relación necesaria y suficiente: Si y solo si&#x2026;
 
 ### "Creating A Research Space" **CARS** model<a id="sec-1-3-3" name="sec-1-3-3"></a>[^1]
 
