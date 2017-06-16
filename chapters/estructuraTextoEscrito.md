@@ -11,8 +11,8 @@
 </li>
 <li><a href="#sec-1-2">1.2. Párrafo: características y clasificación</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. Características de un párrafo:</a></li>
-<li><a href="#sec-1-2-2">1.2.2. Tipos de párrafo:</a></li>
+<li><a href="#sec-1-2-1">1.2.1. Características de un párrafo</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Tipos de párrafo</a></li>
 <li><a href="#sec-1-2-3">1.2.3. Oraciones dentro de los párrafos</a></li>
 </ul>
 </li>
@@ -54,7 +54,7 @@ Estas características del texto a su vez forman el estilo del mismo.
 
 Un párrafo es un conjunto de oraciones que tratan de un mismo tema.
 
-### Características de un párrafo:<a id="sec-1-2-1" name="sec-1-2-1"></a>
+### Características de un párrafo<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
 -   Coherencia: Todas las oraciones tienen el mismo referente.
 -   Cohesión: Las  ideas expresadas  están relacionadas correctamente  unas con
@@ -74,7 +74,7 @@ explicada, detallada,  ejemplificada, argumentada  y desarrollada a  lo largo
 del párrafo.  A esta  oración se  le llama *oración  tópico* y  puede estar
 explicita o implícita en el párrafo.
 
-### Tipos de párrafo:<a id="sec-1-2-2" name="sec-1-2-2"></a>
+### Tipos de párrafo<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
 -   Descriptivo: Explica, aclara, detalla,  ilustra, ejemplifica o argumenta la
     oración tópico.
