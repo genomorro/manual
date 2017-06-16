@@ -218,5 +218,4 @@ persuadir, movilizar o suscitar una acción.
     -   Paso 4: Evaluar los descubrimientos principales.
 
 
-[^1]:   Para   una   explicación   detallada    sobre   el   modelo   **CARS**   se   recomienda
-    leer [el handout con ejemplos (en inglés)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).
+[^1]:   Para   una   explicación   detallada    sobre   el   modelo   **CARS**   se   recomienda leer [el handout con ejemplos (en inglés)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).
