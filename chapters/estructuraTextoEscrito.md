@@ -134,14 +134,12 @@ persuadir, movilizar o suscitar una acción.
     Refiere a la siguiente tabla de verdad:
     A -> B (Se lee *Si A entonces B*)
     
-	|---+---+------|
 	| A | B | A->B |
 	|:--+:--+:----:|
 	| V | V | V    |
 	| V | F | F    |
 	| F | V | V    |
 	| F | F | V    |
-	|---+---+------|
     
     Se dice que:
     -   A es suficiente para B
