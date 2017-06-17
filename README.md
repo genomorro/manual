@@ -1,3 +1,6 @@
-# My Awesome Book
+# Introducción
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Estos  apuntes sirven  como prueba  para  la posible  creación de  un  manual de  la materia  de
+*Redacción y exposición de temas de ingeniería* en formato Markdown con Gitbook.
+
+El original de los Markdown esta en formato Org-Mode.

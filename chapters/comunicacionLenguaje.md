@@ -134,15 +134,15 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 
 6.  Determinantes
 
-    - Artículos: El, la, un, una, los, las&#x2026;
-    - Cuantificadores: Pocos, muchos ninguno, todas, tantos&#x2026;
-    - Numerales: Uno, dos, tres&#x2026;
-    - Posesivos: Mi, tu, su&#x2026;
-    - Demostrativos: Este, ese, aquellos&#x2026;
+    - Artículos: El, la, un, una, los, las...
+    - Cuantificadores: Pocos, muchos ninguno, todas, tantos...
+    - Numerales: Uno, dos, tres...
+    - Posesivos: Mi, tu, su...
+    - Demostrativos: Este, ese, aquellos...
 
 7.  Conjunciones:
 
-    y, u, ni, pero&#x2026;
+    y, u, ni, pero...
 
 8.  Complementantes
 

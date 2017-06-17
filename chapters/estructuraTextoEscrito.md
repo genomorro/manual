@@ -139,9 +139,9 @@ Se dice que:
 - B es necesario para A
     
 Expresiones:
-- Relación suficiente: Si&#x2026;
-- Relación necesaria: Solo si&#x2026;
-- Relación necesaria y suficiente: Si y solo si&#x2026;
+- Relación suficiente: Si...
+- Relación necesaria: Solo si...
+- Relación necesaria y suficiente: Si y solo si...
 
 ### "Creating A Research Space" **CARS** model<a id="sec-1-3-3" name="sec-1-3-3"></a>[^1]
 

@@ -30,7 +30,7 @@
 - Contar con información suficiente, precisa y veraz para comunicarla en forma escrita.
 - Conocer y saber aplicar las reglas básicas de ortografía y morfosintaxis.
 - Antes de escribir, realizar un proceso de reflexión  sobre lo que se va a escribir: qué, cómo,
-  por qué, a quién&#x2026;
+  por qué, a quién...
 - Utilizar  siempre un  buen diccionario  para  resolver las  dudas ortográficas  que surjan  al
   escribir.
 - Leer  constantemente y  cuando se  desconozca  algún término  de  la lectura,  anotarlo en  un
