@@ -28,7 +28,7 @@
 </ul>
 </div>
 </div>
-
+___
 # Estructura de un texto escrito<a id="sec-1" name="sec-1"></a>
 
 ## Texto: estructura y propiedades. Marcadores discursivos<a id="sec-1-1" name="sec-1-1"></a>
@@ -179,6 +179,5 @@ Expresiones:
     paso depende nuevamente del desarrollo de la investigación en el momento de escribir el texto.
     
     - Paso 4: Evaluar los descubrimientos principales.
-
-
+___
 [^1]:   Para   una   explicación   detallada    sobre   el   modelo   **CARS**   se   recomienda leer [el handout con ejemplos (en inglés)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).

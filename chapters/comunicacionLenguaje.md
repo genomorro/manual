@@ -29,7 +29,7 @@
 </ul>
 </div>
 </div>
-
+___
 # Comunicación y lenguaje<a id="sec-1" name="sec-1"></a>
 
 ## Proceso de comunicación<a id="sec-1-1" name="sec-1-1"></a>
@@ -191,7 +191,7 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 - Noción de palabra.
 - Enunciado, oración, clausula y finitud.
 - Ambigüedad y sus tipos.
-
+___
 [^1]: Los detalles sobre este tema se abarcan en cite:simone2001fundamentos.
 
 [^2]: Para explicaciones más detalladas es importante leer [@espanola2009nueva; @de2007gramatica].

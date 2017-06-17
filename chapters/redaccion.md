@@ -22,7 +22,7 @@
 </ul>
 </div>
 </div>
-
+___
 # La redacción<a id="sec-1" name="sec-1"></a>
 
 ## Características de una buena redacción<a id="sec-1-1" name="sec-1-1"></a>
