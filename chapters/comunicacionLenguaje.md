@@ -143,8 +143,7 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 * Enunciado, oración, clausula y finitud.
 * Ambigüedad y sus tipos.
 
----
-
+___
 [^1]: Los detalles sobre este tema se abarcan en cite:simone2001fundamentos.
 
 [^2]: Para explicaciones más detalladas es importante leer \[@espanola2009nueva; @de2007gramatica\].
