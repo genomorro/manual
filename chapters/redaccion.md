@@ -1,31 +1,6 @@
-<div id="table-of-contents">
-<h2>Contenidos</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">1. La redacción</a>
-<ul>
-<li><a href="#sec-1-1">1.1. Características de una buena redacción</a></li>
-<li><a href="#sec-1-2">1.2. Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación</a>
-<ul>
-<li><a href="#sec-1-2-1">1.2.1. Citas para un trabajo de investigación</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-3">1.3. Errores y deficiencias comunes en la redacción</a>
-<ul>
-<li><a href="#sec-1-3-1">1.3.1. El uso del gerundio</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Generalidades sobre tiempo y persona en un escrito</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-4">1.4. Reglas básicas de ortografía</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-___
-# La redacción<a id="sec-1" name="sec-1"></a>
+# La redacción
 
-## Características de una buena redacción<a id="sec-1-1" name="sec-1-1"></a>
+## Características de una buena redacción
 
 - Contar con información suficiente, precisa y veraz para comunicarla en forma escrita.
 - Conocer y saber aplicar las reglas básicas de ortografía y morfosintaxis.
@@ -39,9 +14,9 @@ ___
   actividad imprescindible.
 - Usa un corrector automático que contenga un buen tesauro.
 
-## Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación<a id="sec-1-2" name="sec-1-2"></a>
+## Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación
 
-### Citas para un trabajo de investigación<a id="sec-1-2-1" name="sec-1-2-1"></a>
+### Citas para un trabajo de investigación
 
 Es  muy  recomendable  hacer  las  fichas  o referencias  bibliográficas  de  todos  los  libros
 consultados. De  igual forma, es necesario  colocar referencias a  lo largo del trabajo  en cada
@@ -75,26 +50,23 @@ Adicionalmente, también es importante tener en cuenta:
 Finalmente,  cuando existan  referencias  electrónicas, se  debe agregar  el  tipo de  documento
 (audio, video, etc.) y la forma de publicación del mismo.
 
-## Errores y deficiencias comunes en la redacción<a id="sec-1-3" name="sec-1-3"></a>
+## Errores y deficiencias comunes en la redacción
 
-### El uso del gerundio<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### El uso del gerundio
 
 El gerundio es una forma verbal impersonal con terminación -ando -endo.
 
-1.  Uso correcto
+1. Uso correcto
+   - Con el verbo *estar*, cuando una oreación relata una acción progresiva.
+   - Con otros verbos cuando hay una simultaneidad en una oración finita.
+   - Frases que se refieren al mismo sujeto directamente.
+   - Si está en posición de objeto, cuando el verbo principal sea de percepción.
+2. Uso incorrecto
+   - Cuando es consecuencia de una acción.
+   - Cuando se usa como adjetivo, salvo los verbos hervir y arder.
+   - No une oraciones yuxtapuestas.
 
-    - Con el verbo *estar*, cuando una oreación relata una acción progresiva.
-    - Con otros verbos cuando hay una simultaneidad en una oración finita.
-    - Frases que se refieren al mismo sujeto directamente.
-    - Si está en posición de objeto, cuando el verbo principal sea de percepción.
-
-2.  Uso incorrecto
-
-    - Cuando es consecuencia de una acción.
-    - Cuando se usa como adjetivo, salvo los verbos hervir y arder.
-    - No une oraciones yuxtapuestas.
-
-### Generalidades sobre tiempo y persona en un escrito<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### Generalidades sobre tiempo y persona en un escrito
 
 - El tiempo presente funciona para reavivar una  narración. Sin embargo, en una narración su uso
   constante transmite falsedad, no todo puede pasar en un mismo tiempo.
@@ -109,7 +81,7 @@ El gerundio es una forma verbal impersonal con terminación -ando -endo.
 - La tercera  persona es el eje en  una narración. Otorga el distanciamiento  necesario para una
   descripción eficiente.
 
-## Reglas básicas de ortografía<a id="sec-1-4" name="sec-1-4"></a>
+## Reglas básicas de ortografía
 
 Las  reglas  de  ortografía   para  el  curso  se  encuentran  en  su   totalidad  en  el  libro
 [@espanola2012ortografia].

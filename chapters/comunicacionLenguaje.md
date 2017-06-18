@@ -1,38 +1,6 @@
-<div id="table-of-contents">
-<h2>Contenidos</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">1. Comunicación y lenguaje</a>
-<ul>
-<li><a href="#sec-1-1">1.1. Proceso de comunicación</a>
-<ul>
-<li><a href="#sec-1-1-1">1.1.1. Principio de cooperación</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-2">1.2. Lenguaje: definición, tipos y características</a>
-<ul>
-<li><a href="#sec-1-2-1">1.2.1. Características</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-3">1.3. Relación entre lenguaje, lengua y habla</a></li>
-<li><a href="#sec-1-4">1.4. Diferencias entre lengua oral y lengua escrita</a></li>
-<li><a href="#sec-1-5">1.5. Estructura y función gramatical de palabras y oraciones</a>
-<ul>
-<li><a href="#sec-1-5-1">1.5.1. Terminología</a></li>
-<li><a href="#sec-1-5-2">1.5.2. Clases de palabras</a></li>
-<li><a href="#sec-1-5-3">1.5.3. Relaciones Gramaticales</a></li>
-<li><a href="#sec-1-5-4">1.5.4. Otros puntos a tratar</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-___
-# Comunicación y lenguaje<a id="sec-1" name="sec-1"></a>
+# Comunicación y lenguaje
 
-## Proceso de comunicación<a id="sec-1-1" name="sec-1-1"></a>
+## Proceso de comunicación
 
 La comunicación es el cálculo constante de intensiones. El modelo inferencial de la comunicación
 consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los
@@ -40,6 +8,7 @@ hablantes  en el  intercambio  comunicativo se  selecciona como  significado  de
 [@grice1975logic]
 
 Los elementos del circuito comunicativo son:
+
 - Emisor. Ligado a la función emotiva.
 - Receptor. Ligado a la función conativa.
 - Contexto. Ligado a la función referencial.
@@ -49,7 +18,7 @@ Los elementos del circuito comunicativo son:
 
 ![img](../im/circuito.png)
 
-### Principio de cooperación<a id="sec-1-1-1" name="sec-1-1-1"></a>
+### Principio de cooperación
 
 El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en
 una serie de máximas que pueden o no ser acatadas.
@@ -59,12 +28,12 @@ una serie de máximas que pueden o no ser acatadas.
 - Relación (relevancia),
 - Manera (claridad).
 
-## Lenguaje: definición, tipos y características<a id="sec-1-2" name="sec-1-2"></a>
+## Lenguaje: definición, tipos y características
 
 El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden de contenidos y
 orden de la expresión,  esto hace al lenguaje biplanar.[^1]
 
-### Características<a id="sec-1-2-1" name="sec-1-2-1"></a>
+### Características
 
 - Congénito: Se nace con la capacidad.
 - Relativa inmutabilidad: No se altera con el tiempo.
@@ -75,19 +44,19 @@ orden de la expresión,  esto hace al lenguaje biplanar.[^1]
 - Límites: A las posibilidades de asociar expresión y contenido. La forma de la gramática de las
   lenguas la impone la naturaleza del lenguaje.
 
-## Relación entre lenguaje, lengua y habla<a id="sec-1-3" name="sec-1-3"></a>
+## Relación entre lenguaje, lengua y habla
 
 El lenguaje es la capacidad. La lengua es el  producto social de la facultad del lenguaje, es la
 suma de todas las  imágenes verbales almacenadas en todos los individuos. El  habla es la lengua
 en uso.
 
-## Diferencias entre lengua oral y lengua escrita<a id="sec-1-4" name="sec-1-4"></a>
+## Diferencias entre lengua oral y lengua escrita
 
 La lengua escrita es la expresión psíquica directa del pensamiento.
 
-## Estructura y función gramatical de palabras y oraciones<a id="sec-1-5" name="sec-1-5"></a>[^2]
+## Estructura y función gramatical de palabras y oraciones[^2]
 
-### Terminología<a id="sec-1-5-1" name="sec-1-5-1"></a>
+### Terminología
 
 - Morfología: Afijos que toma (morfemas).
 - Distribución: Posición sintáctica del elemento. A que otros elementos modifica.
@@ -97,91 +66,67 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 - Argumento: Número  de participantes  que requiere  un elemento  (principalmente verbos)  para
   manifestar plenamente su significado.
 
-### Clases de palabras<a id="sec-1-5-2" name="sec-1-5-2"></a>
+### Clases de palabras
 
-1.  Nombres
+1. Nombres
+ - Cuantificadores: Pocos, muchos ninguno, todas, tantos...
+ - Morfología: Genero, número, caso, diminutivo, aumentativo
+ - Función sintáctica: Son argumentos, objetos y  complemento de preposición. Aparecen después de
+   determinantes y antes de adjetivos.
+ - Distribución: Hay [N]
+2. Verbo
+ - Morfología: Persona, número, tiempo, aspecto, modo, voz
+ - Función  sintáctica: Solo funcionan  como predicados,  modificados por adverbios,  pueden ser
+   negados, toman argumentos, pueden acompañarse de auxiliares.
+ - Distribución: 1) Cambiar a infinitivo. 2) Hay que [V], Hay que [V] eso
+3. Adjetivo
+ - Morfología: Número, genero, grado (superlativo, comparativo, positivo)
+ - Función  sintáctica:   Aparecen  entre  el  determinante  y  el   nombre  o  después  del
+   nombre. Modificados por intensificadores o adverbios. Funcionan como predicados.
+ - Distribución: Esta muy [A], Es muy [A]
+4. Adverbios
+ - Morfología: Derivan de adjetivos por medio de -mente
+ - Función sintáctica:  Modifican verbos y adjetivos. Aparecen antes  de adjetivos. Modifican
+   otros adverbios. En ciertos contextos se comportan como adjetivos.
+5. Preposiciones
+   Toman una FN como término o complemento: a, ante, bajo, cabe(cerca de, junto a), con, contra,
+   de, desde,  durante[^3], en,  entre, hacia,  hasta, mediante[^4], para,  por, según,  sin, so
+   (bajo, debajo de), sobre, tras, vía[^5] (por, pasando por, haciendo escala en)
+6. Determinantes
+ - Artículos: El, la, un, una, los, las...
+ - Numerales: Uno, dos, tres...
+ - Posesivos: Mi, tu, su...
+ - Demostrativos: Este, ese, aquellos...
+7. Conjunciones
+   - y, u, ni, pero...
+8. Complementantes
+   - que, si, donde.
 
-    - Morfología: Genero, número, caso, diminutivo, aumentativo
-    - Función sintáctica: Son argumentos, objetos y  complemento de preposición. Aparecen después de
-      determinantes y antes de adjetivos.
-    - Distribución: Hay [N]
+### Relaciones Gramaticales
 
-2.  Verbo
-
-    - Morfología: Persona, número, tiempo, aspecto, modo, voz
-    - Función  sintáctica: Solo  funcionan como  predicados, modificados  por adverbios,  pueden ser
-      negados, toman argumentos, pueden acompañarse de auxiliares.
-    - Distribución: 1) Cambiar a infinitivo. 2) Hay que [V], Hay que [V] eso
-
-3.  Adjetivo
-
-    - Morfología: Número, genero, grado (superlativo, comparativo, positivo)
-    - Función  sintáctica:   Aparecen  entre  el  determinante  y  el   nombre  o  después  del
-      nombre. Modificados por intensificadores o adverbios. Funcionan como predicados.
-    - Distribución: Esta muy [A], Es muy [A]
-
-4.  Adverbios
-
-    - Morfología: Derivan de adjetivos por medio de -mente
-    - Función sintáctica:  Modifican verbos y adjetivos. Aparecen antes  de adjetivos. Modifican
-      otros adverbios. En ciertos contextos se comportan como adjetivos.
-
-5.  Preposiciones
-
-    Toman una FN  como término o complemento: a,  ante, bajo, cabe(cerca de, junto  a), con, contra,
-    de, desde,  durante[^3], en, entre,  hacia, hasta, mediante[^4],  para, por, según,  sin, so(bajo,
-    debajo de), sobre, tras, vía[^5](por, pasando por, haciendo escala en)
-
-6.  Determinantes
-
-    - Artículos: El, la, un, una, los, las...
-    - Cuantificadores: Pocos, muchos ninguno, todas, tantos...
-    - Numerales: Uno, dos, tres...
-    - Posesivos: Mi, tu, su...
-    - Demostrativos: Este, ese, aquellos...
-
-7.  Conjunciones:
-
-    y, u, ni, pero...
-
-8.  Complementantes
-
-    que, si, donde.
-
-### Relaciones Gramaticales<a id="sec-1-5-3" name="sec-1-5-3"></a>
-
-1.  Sujeto
-
-    - Concuerda con el verbo
-    - Sustituible por pronombre de sujeto
-    - Puede omitirse siempre
-    - Se degrada en voz pasiva a complemento agente
-    - Responde a preguntas eco: ¿Quién [FV]?, ¿Qué [FV]?
-
-2.  Objeto
-
-    - Sustituible por clítico de objeto
-    - Llevan marca de acusativo cuando es +animado y definido
-    - Se pone en posición de foco y se duplica con clítico de objeto
-    - Responde a preguntas: ¿Qué es lo [Vparticipio]?
-    - Voz pasiva: se promueve a sujeto
-
-3.  Oblicuos
-
-    - Requieren marca especial (preposición)
-    
-    1.  Objetos indirectos
-    
-        - Son argumentos del verbo
-        - Sustituibles por clítico de dativo
-        - El clítico coexiste con la FP que es OI
-        - Usan la preposición 'a' (meta) y 'para' (benefactivo)
-        - Responden  preguntas: ¿A quién [V]?, ¿Para quién es lo [V]?
-    
-    2.  Adjuntos
-    
-        - No son requeridos por el verbo
-        - Tipos: de razón-motivo, modo, tiempo, instrumento, lugar
+1. Sujeto
+ - Concuerda con el verbo
+ - Sustituible por pronombre de sujeto
+ - Puede omitirse siempre
+ - Se degrada en voz pasiva a complemento agente
+ - Responde a preguntas eco: ¿Quién [FV]?, ¿Qué [FV]?
+2. Objeto
+ - Sustituible por clítico de objeto
+ - Llevan marca de acusativo cuando es +animado y definido
+ - Se pone en posición de foco y se duplica con clítico de objeto
+ - Responde a preguntas: ¿Qué es lo [Vparticipio]?
+ - Voz pasiva: se promueve a sujeto
+3. Oblicuos
+ - Requieren marca especial (preposición)
+  1. Objetos indirectos
+	- Son argumentos del verbo
+	- Sustituibles por clítico de dativo
+	- El clítico coexiste con la FP que es OI
+	- Usan la preposición 'a' (meta) y 'para' (benefactivo)
+	- Responden  preguntas: ¿A quién [V]?, ¿Para quién es lo [V]?
+  2. Adjuntos
+	- No son requeridos por el verbo
+    - Tipos: de razón-motivo, modo, tiempo, instrumento, lugar
 
 ### Otros puntos a tratar<a id="sec-1-5-4" name="sec-1-5-4"></a>
 
@@ -191,7 +136,9 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 - Noción de palabra.
 - Enunciado, oración, clausula y finitud.
 - Ambigüedad y sus tipos.
-___
+
+***
+
 [^1]: Los detalles sobre este tema se abarcan en cite:simone2001fundamentos.
 
 [^2]: Para explicaciones más detalladas es importante leer [@espanola2009nueva; @de2007gramatica].
