@@ -2,17 +2,17 @@
 
 ## Características de una buena redacción
 
-- Contar con información suficiente, precisa y veraz para comunicarla en forma escrita.
-- Conocer y saber aplicar las reglas básicas de ortografía y morfosintaxis.
-- Antes de escribir, realizar un proceso de reflexión  sobre lo que se va a escribir: qué, cómo,
+* Contar con información suficiente, precisa y veraz para comunicarla en forma escrita.
+* Conocer y saber aplicar las reglas básicas de ortografía y morfosintaxis.
+* Antes de escribir, realizar un proceso de reflexión  sobre lo que se va a escribir: qué, cómo,
   por qué, a quién...
-- Utilizar  siempre un  buen diccionario  para  resolver las  dudas ortográficas  que surjan  al
+* Utilizar  siempre un  buen diccionario  para  resolver las  dudas ortográficas  que surjan  al
   escribir.
-- Leer  constantemente y  cuando se  desconozca  algún término  de  la lectura,  anotarlo en  un
+* Leer  constantemente y  cuando se  desconozca  algún término  de  la lectura,  anotarlo en  un
   cuaderno y recurrir al diccionario.
-- Una  vez realizado  el  escrito, revisarlo,  corregirlo  y leerlo  en voz  alta.  Esta es  una
+* Una  vez realizado  el  escrito, revisarlo,  corregirlo  y leerlo  en voz  alta.  Esta es  una
   actividad imprescindible.
-- Usa un corrector automático que contenga un buen tesauro.
+* Usa un corrector automático que contenga un buen tesauro.
 
 ## Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación
 
@@ -35,17 +35,17 @@ existen  muy variados  estándares  de cita,  siempre  será necesario  elegir  
 puntualmente. En general, la información necesaria para la creación de una bibliografía completa
 es la siguiente:
 
-- Autor: Nombre completo y sin abreviaturas.
-- Título de la obra: En caso de existir, también el subtítulo.
-- Fecha  de publicación: Siempre es preferente el año de la primera edición.
+* Autor: Nombre completo y sin abreviaturas.
+* Título de la obra: En caso de existir, también el subtítulo.
+* Fecha  de publicación: Siempre es preferente el año de la primera edición.
 
 Adicionalmente, también es importante tener en cuenta:
 
-- Nombre, número y/o volumen de la colección.
-- Edición de la obra.
-- Editorial.
-- Lugar de la publicación de la obra.
-- Páginas citadas.
+* Nombre, número y/o volumen de la colección.
+* Edición de la obra.
+* Editorial.
+* Lugar de la publicación de la obra.
+* Páginas citadas.
 
 Finalmente,  cuando existan  referencias  electrónicas, se  debe agregar  el  tipo de  documento
 (audio, video, etc.) y la forma de publicación del mismo.
@@ -57,28 +57,28 @@ Finalmente,  cuando existan  referencias  electrónicas, se  debe agregar  el  t
 El gerundio es una forma verbal impersonal con terminación -ando -endo.
 
 1. Uso correcto
-   - Con el verbo *estar*, cuando una oreación relata una acción progresiva.
-   - Con otros verbos cuando hay una simultaneidad en una oración finita.
-   - Frases que se refieren al mismo sujeto directamente.
-   - Si está en posición de objeto, cuando el verbo principal sea de percepción.
+   * Con el verbo *estar*, cuando una oreación relata una acción progresiva.
+   * Con otros verbos cuando hay una simultaneidad en una oración finita.
+   * Frases que se refieren al mismo sujeto directamente.
+   * Si está en posición de objeto, cuando el verbo principal sea de percepción.
 2. Uso incorrecto
-   - Cuando es consecuencia de una acción.
-   - Cuando se usa como adjetivo, salvo los verbos hervir y arder.
-   - No une oraciones yuxtapuestas.
+   * Cuando es consecuencia de una acción.
+   * Cuando se usa como adjetivo, salvo los verbos hervir y arder.
+   * No une oraciones yuxtapuestas.
 
 ### Generalidades sobre tiempo y persona en un escrito
 
-- El tiempo presente funciona para reavivar una  narración. Sin embargo, en una narración su uso
+* El tiempo presente funciona para reavivar una  narración. Sin embargo, en una narración su uso
   constante transmite falsedad, no todo puede pasar en un mismo tiempo.
-- El tiempo pasado es  el tiempo eje de una narración. Es ideal  para el texto académico.  Tiene
+* El tiempo pasado es  el tiempo eje de una narración. Es ideal  para el texto académico.  Tiene
   el inconveniente de ser plano, en otras palabras, es aburrido para contar eventos.
-- El tiempo futuro da  al lector la percepción que tiene el escritor  sobre las cosas que pueden
+* El tiempo futuro da  al lector la percepción que tiene el escritor  sobre las cosas que pueden
   suceder. Sirve  para hacer suposiciones  y predicciones basadas  en hechos y  conocimientos ya
   establecidos.
-- La primera persona es la visión limitada del narrador.
-- La segunda  persona  es  útil en  textos  cortos  para condicionar  al  lector  porque le  da
+* La primera persona es la visión limitada del narrador.
+* La segunda  persona  es  útil en  textos  cortos  para condicionar  al  lector  porque le  da
   instrucciones: *harás*, *dirás*, etc.
-- La tercera  persona es el eje en  una narración. Otorga el distanciamiento  necesario para una
+* La tercera  persona es el eje en  una narración. Otorga el distanciamiento  necesario para una
   descripción eficiente.
 
 ## Reglas básicas de ortografía
