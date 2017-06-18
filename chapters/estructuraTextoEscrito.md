@@ -98,7 +98,7 @@ Se usa cuando un fenómeno entraña a otro en función del conocimiento científ
 Refiere a la tabla de verdad A -> B (Se lee *Si A entonces B*)
     
 | A | B | A->B |
-|---|---|:----:|
+|:---:|:---:|:----:|
 | V | V |   V  |
 | V | F |   F  |
 | F | V |   V  |
@@ -113,33 +113,27 @@ Expresiones:
 - Relación necesaria: Solo si...
 - Relación necesaria y suficiente: Si y solo si...
 
-### "Creating A Research Space" **CARS** model[fn:1]
+### "Creating A Research Space" **CARS** model[^1]
 
 1. Movimiento 1: Establecer un territorio
-
    Se refiere a plantear la situación. Este movimiento  se divide en tres pasos. Todos los pasos
    son optativos, debe seleccionarse al menos uno.
-   
    - Paso 1: Establecer la importancia del tema.
    - Paso 2: Hacer generalizaciones sobre el tema.
    - Paso 3: Revisar elementos de investigaciones previas.
 
 2. Movimiento 2: Establecer un nicho
-
    Se refiere a establecer  el problema que se atenderá en el escrito.  Consiste en un solo paso
-   de puede abordarse de cuatro maneras diferentes. Debe escogerse solo una de estas opciones.
-   
+   de puede abordarse de cuatro maneras diferentes. Debe escogerse solo una de estas opciones.   
    - Paso 1A: Encontrar un contraejemplo.
    - Paso 1B: Indicar un vacío (en las investigaciones previas).
    - Paso 1C: Surgir una pregunta (sobre las investigaciones previas).
    - Paso 1D: Continuar una tradición.
 
 3. Movimiento 3: Ocupar el nicho
-
    Se trata de establecer la solución al problema planteado en el movimiento anterior.  Se deben
    seguir tres pasos. El  primer paso puede escribirse de dos formas,  cuya elección depende del
    avance de la investigación en el momento de escribir el texto.
-   
    - Paso 1A: Definir propósitos (¿Porqué?).
    - Paso 1B: Anunciar la presente investigación (¿Qué?, ¿Cómo?).
    - Paso 2: Anunciar las observaciones principales.
@@ -151,4 +145,4 @@ Expresiones:
    
    - Paso 4: Evaluar los descubrimientos principales.
 ___
-[fn:1]:   Para   una   explicación   detallada    sobre   el   modelo   **CARS**   se   recomienda leer [el handout con ejemplos (en inglés)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).
+[^1]:   Para   una   explicación   detallada    sobre   el   modelo   **CARS**   se   recomienda leer [el handout con ejemplos (en inglés)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).
