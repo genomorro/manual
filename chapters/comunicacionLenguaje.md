@@ -2,7 +2,7 @@
 plugins:
   - puml
   - bibtex
-bibliography: /Users/chris/Dropbox/writing/library.bib
+bibliography: ../bibilografia.bib
 ---
 
 # Comunicación y lenguaje
