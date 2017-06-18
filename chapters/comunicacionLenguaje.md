@@ -1,10 +1,3 @@
----
-plugins:
-  - puml
-  - bibtex
-bibliography: ../bibilografia.bib
----
-
 # Comunicación y lenguaje
 
 ## Proceso de comunicación
@@ -30,10 +23,10 @@ Los elementos del circuito comunicativo son:
 El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en  
 una serie de máximas que pueden o no ser acatadas.
 
-* Cantidad \(informatividad\),
-* Calidad \(verdad\),
-* Relación \(relevancia\),
-* Manera \(claridad\).
+* Cantidad (informatividad),
+* Calidad (verdad),
+* Relación (relevancia),
+* Manera (claridad).
 
 ## Lenguaje: definición, tipos y características
 
