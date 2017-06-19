@@ -1,3 +1,11 @@
 {
-
+    "plugins": [
+        "bibtex"
+    ],
+    "pluginsConfig": {
+      "bibtex": {
+        "bibliography": "main.bib"
+      }
+    }
 }
+

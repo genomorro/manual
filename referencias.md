@@ -48,3 +48,5 @@ UR  - https://books.google.com.mx/books?id=XZENRQAACAAJ
 Y1  - 2010
 PB  - Espasa Libros
 ER  - 
+
+{% references %} {% endreferences %}
