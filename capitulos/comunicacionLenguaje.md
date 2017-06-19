@@ -33,7 +33,7 @@ una serie de máximas que pueden o no ser acatadas.
 El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden de contenidos y
 orden de la expresión, esto hace al lenguaje biplanar.[^1]
 
-### Características
+### Características {#caracteristicas}
 
 * Congénito: Se nace con la capacidad.
 * Relativa inmutabilidad: No se altera con el tiempo.
