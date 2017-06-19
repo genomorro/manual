@@ -1,0 +1,6 @@
+# -*- mode: org; -*-
+
+#+OPTIONS:      html-postamble:nil H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+INFOJS_OPT:   toc:t ltoc:above view:info mouse:underline buttons:nil
+
+#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="styles/solarized-dark/solarized-light.min.css" />

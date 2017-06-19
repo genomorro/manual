@@ -1,0 +1,25 @@
+#+TITLE:        Manual de Redacción y exposición de temas de ingeniería
+#+AUTHOR:       Edgar Uriel Domínguez Espinoza
+#+EMAIL:        edgar_uriel84 AT mailoo DOT org
+#+DESCRIPTION:  Manual de la materia Redacción y exposición de temas de ingeniería, FI UNAM
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="styles/css/extra.css" />
+#+STARTUP:      align fold nodlcheck hidestars oddeven lognotestate
+#+LANGUAGE:     es
+
+#+SEQ_TODO:     TODO(t) IN-PROGRESS(i) | DONE(d) CANCELED(c@)
+#+TAGS:         Write(w) Update(u) Fix(f) Check(c)
+#+PRIORITIES:   A C B
+#+CATEGORY:     worg
+#+KEYWORDS:     redaccion, exposicion, ortografia
+
+#+INCLUDE:  setup/theme-bigblow-local.setup
+
+#+INCLUDE: capitulos/comunicacionLenguaje.org :minlevel 1
+#+INCLUDE: capitulos/estructuraTextoEscrito.org :minlevel 1
+#+INCLUDE: capitulos/redaccion.org :minlevel 1
+# #+INCLUDE: capitulos/exposicionOral.org :minlevel 1
+
+* Bibliografía
+bibliographystyle:apalike
+bibliography:main.bib
