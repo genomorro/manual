@@ -5,7 +5,7 @@
   * [Proceso de comunicación](capitulos/comunicacionLenguaje.md#proceso-comunicacion)
     * [Proceso de comunicación](capitulos/comunicacionLenguaje.md#principio-cooperacion)
   * [Lenguaje: definción, tipos y características](capitulos/comunicacionLenguaje.md#lenguaje)
-    * [Características](/capitulos/comunicacionLenguaje.md#caracteristicas "Características")
+    * [Características del lenguaje](/capitulos/comunicacionLenguaje.md#caracteristicas "Características")
 * [Estructura de un texto escrito](capitulos/estructuraTextoEscrito.md)
   * [CARS](/capitulos/estructuraTextoEscrito.md#cars)
 * [La redacción](capitulos/redaccion.md)
