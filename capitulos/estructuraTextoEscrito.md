@@ -1,6 +1,6 @@
 # Estructura de un texto escrito
 
-## Texto: estructura y propiedades. Marcadores discursivos
+## Texto: estructura y propiedades. Marcadores discursivos {#131}
 
 * Estructura interna: Se realiza por medio de un  proceso mental que se da antes de escribir. En
   este  proceso  se  obtienen el  objetivo,  el  destinatario,  el  asunto, la  selección  y  la
@@ -29,8 +29,8 @@ Un párrafo es un conjunto de oraciones que tratan de un mismo tema.
 * Coherencia: Todas las oraciones tienen el mismo referente.
 * Cohesión: Las ideas expresadas están relacionadas  correctamente unas con otras y por lo tanto
   el texto es comprensible.
-* Adecuación: Las expresiones son las correctas para conseguir el objetivo del texto (persuadir,
-  demostrar, explicar, conmover).  Debe tomarse en cuenta un público lector en particular.
+* Adecuación: Las expresiones son las correctas para conseguir el objetivo del texto \(persuadir,
+  demostrar, explicar, conmover\).  Debe tomarse en cuenta un público lector en particular.
 * Dirección: Ver los ordenes del párrafo.
 * Concreción: Se refiere a la relevancia de la información.
 * Claridad.
@@ -38,18 +38,18 @@ Un párrafo es un conjunto de oraciones que tratan de un mismo tema.
 * Interés.
 * Originalidad: El párrafo debe reflejar la personalidad del autor.
 
-Cada párrafo  puede reescribirse  por medio  de una  sola oración  que es  explicada, detallada,
-ejemplificada, argumentada y  desarrollada a lo largo  del párrafo.  A esta oración  se le llama
-*oración tópico* y puede estar explicita o implícita en el párrafo.
+Cada párrafo  puede reescribirse  por medio  de una  sola oración  que es  explicada, detallada,  
+ejemplificada, argumentada y  desarrollada a lo largo  del párrafo.  A esta oración  se le llama  
+_oración tópico_ y puede estar explicita o implícita en el párrafo.
 
 ### Tipos de párrafo
 
 * Descriptivo: Explica, aclara, detalla, ilustra, ejemplifica o argumenta la oración tópico.
-* Comparativo: Confronta dos objetos. Su oración tópico puede tomar la forma *A es más X que B*.
+* Comparativo: Confronta dos objetos. Su oración tópico puede tomar la forma _A es más X que B_.
 * Agrupador o enumerativo: Caracteriza un objeto.  Lista las características del mismo por medio
   de viñetas o con otros recursos ortográficos.
 * Problema/solución: Ambos elementos están presentes en el párrafo.  La oración tópico es causal
-  por lo que puede expresarse como *Si A entonces B*.
+  por lo que puede expresarse como _Si A entonces B_.
 
 ### Oraciones dentro de los párrafos
 
@@ -70,18 +70,20 @@ ejemplificada, argumentada y  desarrollada a lo largo  del párrafo.  A esta ora
 Responde implícita o explícitamente a estas preguntas: ¿Qué es?, ¿Cómo funciona?, ¿Por qué?
 
 Explicar puede ser:
+
 * Definir una palabra, fenómeno o estructura.
 * Describir una serie de fenómenos o un mecanismo mostrando su funcionamiento, sus causas, sus efectos.
 * Respetar una cronología y una lógica.
 
 Se debe tener en cuenta:
+
 * Conocimientos del receptor.
 * El lenguaje especializado a utilizar.
 * Registro de lengua.
 
 ### La argumentación
 
-Justifica una  opinión para convencer a  otro sobre la  tesis que se sustenta.  Busca convencer,
+Justifica una  opinión para convencer a  otro sobre la  tesis que se sustenta.  Busca convencer,  
 persuadir, movilizar o suscitar una acción.
 
 #### Argumentación analógica
@@ -94,54 +96,63 @@ persuadir, movilizar o suscitar una acción.
 #### Argumentación causa-efecto
 
 Se usa cuando un fenómeno entraña a otro en función del conocimiento científico o empírico.
-    
-Refiere a la tabla de verdad A -> B (Se lee *Si A entonces B*)
-    
-|  A  |  B  | A->B |
-|:---:|:---:|:----:|
-|  V  |  V  |   V  |
-|  V  |  F  |   F  |
-|  F  |  V  |   V  |
-|  F  |  F  |   V  |
-    
+
+Refiere a la tabla de verdad A -&gt; B \(Se lee _Si A entonces B_\)
+
+| A | B | A-&gt;B |
+| :---: | :---: | :---: |
+| V | V | V |
+| V | F | F |
+| F | V | V |
+| F | F | V |
+
 Se dice que:
+
 * A es suficiente para B
 * B es necesario para A
-    
+
 Expresiones:
+
 * Relación suficiente: Si...
 * Relación necesaria: Solo si...
 * Relación necesaria y suficiente: Si y solo si...
 
-### "Creating A Research Space" **CARS** model[^1]
+### "Creating A Research Space" **CARS** model[^1] {#cars}
 
-1. Movimiento 1: Establecer un territorio
-   Se refiere a plantear la situación. Este movimiento  se divide en tres pasos. Todos los pasos
+1. Movimiento 1: Establecer un territorio  
+   Se refiere a plantear la situación. Este movimiento  se divide en tres pasos. Todos los pasos  
    son optativos, debe seleccionarse al menos uno.
+
    * Paso 1: Establecer la importancia del tema.
    * Paso 2: Hacer generalizaciones sobre el tema.
    * Paso 3: Revisar elementos de investigaciones previas.
 
-2. Movimiento 2: Establecer un nicho
-   Se refiere a establecer  el problema que se atenderá en el escrito.  Consiste en un solo paso
+2. Movimiento 2: Establecer un nicho  
+   Se refiere a establecer  el problema que se atenderá en el escrito.  Consiste en un solo paso  
    de puede abordarse de cuatro maneras diferentes. Debe escogerse solo una de estas opciones.
+
    * Paso 1A: Encontrar un contraejemplo.
-   * Paso 1B: Indicar un vacío (en las investigaciones previas).
-   * Paso 1C: Surgir una pregunta (sobre las investigaciones previas).
+   * Paso 1B: Indicar un vacío \(en las investigaciones previas\).
+   * Paso 1C: Surgir una pregunta \(sobre las investigaciones previas\).
    * Paso 1D: Continuar una tradición.
 
-3. Movimiento 3: Ocupar el nicho
-   Se trata de establecer la solución al problema planteado en el movimiento anterior.  Se deben
-   seguir tres pasos. El  primer paso puede escribirse de dos formas,  cuya elección depende del
+3. Movimiento 3: Ocupar el nicho  
+   Se trata de establecer la solución al problema planteado en el movimiento anterior.  Se deben  
+   seguir tres pasos. El  primer paso puede escribirse de dos formas,  cuya elección depende del  
    avance de la investigación en el momento de escribir el texto.
-   * Paso 1A: Definir propósitos (¿Porqué?).
-   * Paso 1B: Anunciar la presente investigación (¿Qué?, ¿Cómo?).
+
+   * Paso 1A: Definir propósitos \(¿Porqué?\).
+   * Paso 1B: Anunciar la presente investigación \(¿Qué?, ¿Cómo?\).
    * Paso 2: Anunciar las observaciones principales.
    * Paso 3: Indicar la estructura del texto.
-   
-   Opcionalmente, en  este movimiento es  posible agregar un cuarto  paso. La escritura  de este
-   cuarto paso depende nuevamente  del desarrollo de la investigación en  el momento de escribir
+
+   Opcionalmente, en  este movimiento es  posible agregar un cuarto  paso. La escritura  de este  
+   cuarto paso depende nuevamente  del desarrollo de la investigación en  el momento de escribir  
    el texto.
+
    * Paso 4: Evaluar los descubrimientos principales.
-___
-[^1]:   Para   una   explicación   detallada    sobre   el   modelo   **CARS**   se   recomienda leer [el handout con ejemplos (en inglés)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).
+
+---
+
+[^1]:   Para   una   explicación   detallada    sobre   el   modelo   **CARS**   se   recomienda leer [el handout con ejemplos \(en inglés\)](http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf).
+
