@@ -1,6 +1,6 @@
 # Comunicación y lenguaje
 
-## Proceso de comunicación {#proceso-comunicacion}
+## Proceso de comunicación {#procesoComunicacion}
 
 La comunicación es el cálculo constante de intensiones. El modelo inferencial de la comunicación
 consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los
@@ -18,7 +18,7 @@ Los elementos del circuito comunicativo son:
 
 ![img](../im/circuito.png)
 
-### Principio de cooperación {#principio-cooperacion}
+### Principio de cooperación {#principioCooperacion}
 
 El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en
 una serie de máximas que pueden o no ser acatadas.
@@ -34,7 +34,6 @@ El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden
 orden de la expresión, esto hace al lenguaje biplanar.[^1]
 
 ### Características {#caracteristicas}
-
 * Congénito: Se nace con la capacidad.
 * Relativa inmutabilidad: No se altera con el tiempo.
 * Universalidad: No existe pueblo que no tenga esta facultad.
@@ -44,19 +43,19 @@ orden de la expresión, esto hace al lenguaje biplanar.[^1]
 * Límites: A las posibilidades de asociar expresión y contenido. La forma de la gramática de las
   lenguas la impone la naturaleza del lenguaje.
 
-## Relación entre lenguaje, lengua y habla
+## Relación entre lenguaje, lengua y habla {#relacion}
 
 El lenguaje es la capacidad. La lengua es el  producto social de la facultad del lenguaje, es la
 suma de todas las  imágenes verbales almacenadas en todos los individuos. El  habla es la lengua
 en uso.
 
-## Diferencias entre lengua oral y lengua escrita
+## Diferencias entre lengua oral y lengua escrita {#diferencias}
 
 La lengua escrita es la expresión psíquica directa del pensamiento.
 
-## Estructura y función gramatical de palabras y oraciones[^2]
+## Estructura y función gramatical de palabras y oraciones[^2] {#estructura}
 
-### Terminología
+### Terminología {#terminologia}
 
 * Morfología: Afijos que toma \(morfemas\).
 * Distribución: Posición sintáctica del elemento. A que otros elementos modifica.
@@ -66,7 +65,7 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 * Argumento: Número  de participantes  que requiere  un elemento  \(principalmente verbos\)  para
   manifestar plenamente su significado.
 
-### Clases de palabras
+### Clases de palabras {#clases}
 
 1. Nombres
    * Cuantificadores: Pocos, muchos ninguno, todas, tantos...
@@ -102,7 +101,7 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 8. Complementantes
    * que, si, donde.
 
-### Relaciones Gramaticales
+### Relaciones Gramaticales {#relaciones}
 
 1. Sujeto
    * Concuerda con el verbo
@@ -128,7 +127,7 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
    * No son requeridos por el verbo
    * Tipos: de razón-motivo, modo, tiempo, instrumento, lugar
 
-### Otros puntos a tratar
+### Otros puntos a tratar {#otros}
 
 * Definición de núcleo y principio de endocentrismo.
 * Lengua pro-drop.
