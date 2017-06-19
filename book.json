@@ -1,7 +1,7 @@
 {
     "plugins": [
         "bibtex",
-        "puml"
+        "plantuml"
     ],
     "pluginsConfig": {
       "bibtex": {

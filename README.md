@@ -5,4 +5,17 @@ Estos  apuntes sirven  como prueba  para  la posible  creación de  un  manual d
 
 Los archivos originales estaban en formato Org-Mode.
 
+```uml
+@startuml
 
+    Class Stage
+    Class Timeout {
+        +constructor:function(cfg)
+        +timeout:function(ctx)
+        +overdue:function(ctx)
+        +stage: Stage
+    }
+     Stage <|-- Timeout
+
+@enduml
+```
