@@ -141,7 +141,7 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 
 [^1]: Los detalles sobre este tema se abarcan en {{ "simone2001fundamentos" | cite }}.
 
-[^2]: Para explicaciones más detalladas es importante leer {{ "espanola2009nueva | cite }} y {{ "de2007gramatica" | cite }}.
+[^2]: Para explicaciones más detalladas es importante leer {{ "espanola2009nueva | cite }}.
 
 [^3]: Tiene valor prepositivo, no es en realidad una preposición.
 
