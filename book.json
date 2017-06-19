@@ -8,7 +8,7 @@
         "bibliography": "main.bib"
       }
       "uml": {
-        format: 'png',
+        format: "png",
         nailgun: false
       }
     }
