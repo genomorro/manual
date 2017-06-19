@@ -1,6 +1,6 @@
 # Comunicación y lenguaje
 
-## Proceso de comunicación
+## Proceso de comunicación {#proceso-comunicacion}
 
 La comunicación es el cálculo constante de intensiones. El modelo inferencial de la comunicación
 consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los
@@ -18,7 +18,7 @@ Los elementos del circuito comunicativo son:
 
 ![img](../im/circuito.png)
 
-### Principio de cooperación
+### Principio de cooperación {#principio-cooperacion}
 
 El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en
 una serie de máximas que pueden o no ser acatadas.
@@ -28,7 +28,7 @@ una serie de máximas que pueden o no ser acatadas.
 * Relación \(relevancia\),
 * Manera \(claridad\).
 
-## Lenguaje: definición, tipos y características
+## Lenguaje: definición, tipos y características {#lenguaje}
 
 El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden de contenidos y
 orden de la expresión, esto hace al lenguaje biplanar.[^1]

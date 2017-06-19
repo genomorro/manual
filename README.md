@@ -5,17 +5,28 @@ Estos  apuntes sirven  como prueba  para  la posible  creación de  un  manual d
 
 Los archivos originales estaban en formato Org-Mode.
 
-```uml
-@startuml
-
-    Class Stage
-    Class Timeout {
-        +constructor:function(cfg)
-        +timeout:function(ctx)
-        +overdue:function(ctx)
-        +stage: Stage
-    }
-     Stage <|-- Timeout
-
-@enduml
-```
+{% plantuml %}
+                                      +-------------------+
+                                      |     Contexto      |
++-------------------------------------+Función referencial+-------------------------------------+
+|                                     |       c9AA        |                                     |
+|                                     +-------------------+                                     |
+|                                  +-------------------------+                                  |
+|                                  |         Mensaje         |                                  |
+|                                  |     Función poética     |                                  |
+|+---------------+                 |/-----------------------\|                +----------------+|
+||    Emisor     |                 ||        Código         ||                |    Receptor    ||
+||Función emotiva+---------------->||Función metalingüística|+--------------->|Función conativa||
+||    cBLK       |        :        ||         c9AA          ||       :        |     cBLK       ||
+|+---------------+        |        |\-----------------------/|       |        +----------------+|
+|                         |        |          cBLK           |       |                          |
+|                         |        +-------------------------+       |                          |
+|                         |                                          |                          |
+|                         |             /--------------\             |                          |
+|                         |             |   Contacto   |             |                          |
+|                         +-------------+Función fática+-------------+                          |
+|                                       |     c9AA     |                                        |
+|                                       \--------------/                                        |
+|                                             cFFF                                              |
++-----------------------------------------------------------------------------------------------+
+{% endplantuml %}
