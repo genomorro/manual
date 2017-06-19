@@ -2,9 +2,10 @@
 
 ## Proceso de comunicación
 
-La comunicación es el cálculo constante de intensiones. El modelo inferencial de la comunicación  
-consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los  
-hablantes  en el  intercambio  comunicativo se  selecciona como  significado  del mensaje.  Leer [Grice, 1975](/referencias.md)
+La comunicación es el cálculo constante de intensiones. El modelo inferencial de la comunicación
+consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los
+hablantes  en  el   intercambio  comunicativo  se  selecciona  como   significado  del  mensaje.
+Leer [Grice, 1975](/referencias.md)
 
 Los elementos del circuito comunicativo son:
 
@@ -19,7 +20,7 @@ Los elementos del circuito comunicativo son:
 
 ### Principio de cooperación
 
-El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en  
+El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en
 una serie de máximas que pueden o no ser acatadas.
 
 * Cantidad \(informatividad\),
@@ -29,8 +30,8 @@ una serie de máximas que pueden o no ser acatadas.
 
 ## Lenguaje: definición, tipos y características
 
-El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden de contenidos y  
-orden de la expresión,  esto hace al lenguaje biplanar.[^1]
+El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden de contenidos y
+orden de la expresión, esto hace al lenguaje biplanar.[^1]
 
 ### Características
 
@@ -45,8 +46,8 @@ orden de la expresión,  esto hace al lenguaje biplanar.[^1]
 
 ## Relación entre lenguaje, lengua y habla
 
-El lenguaje es la capacidad. La lengua es el  producto social de la facultad del lenguaje, es la  
-suma de todas las  imágenes verbales almacenadas en todos los individuos. El  habla es la lengua  
+El lenguaje es la capacidad. La lengua es el  producto social de la facultad del lenguaje, es la
+suma de todas las  imágenes verbales almacenadas en todos los individuos. El  habla es la lengua
 en uso.
 
 ## Diferencias entre lengua oral y lengua escrita

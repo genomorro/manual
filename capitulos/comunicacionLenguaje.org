@@ -138,7 +138,7 @@ que, si, donde.
 *** Otros puntos a tratar
 - Definición de núcleo y principio de endocentrismo.
 - Lengua pro-drop.
-- Orden de la lengua española (SVO).
+- Orden de la lengua española (/SVO/).
 - Noción de palabra.
 - Enunciado, oración, clausula y finitud.
 - Ambigüedad y sus tipos.
