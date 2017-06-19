@@ -6,10 +6,6 @@
     "pluginsConfig": {
       "bibtex": {
         "bibliography": "main.bib"
-      },
-      "uml": {
-        format: "png",
-        nailgun: false
       }
     }
 }
