@@ -5,34 +5,4 @@ Estos  apuntes sirven  como prueba  para  la posible  creación de  un  manual d
 
 Los archivos originales estaban en formato Org-Mode.
 
-{% plantuml %}
-@startditaa
-                                      +-------------------+
-                                      |     Contexto      |
-+-------------------------------------+Función referencial+-------------------------------------+
-|                                     |       c9AA        |                                     |
-|                                     +-------------------+                                     |
-|                                  +-------------------------+                                  |
-|                                  |         Mensaje         |                                  |
-|                                  |     Función poética     |                                  |
-|+---------------+                 |/-----------------------\|                +----------------+|
-||    Emisor     |                 ||        Código         ||                |    Receptor    ||
-||Función emotiva+---------------->||Función metalingüística|+--------------->|Función conativa||
-||    cBLK       |        :        ||         c9AA          ||       :        |     cBLK       ||
-|+---------------+        |        |\-----------------------/|       |        +----------------+|
-|                         |        |          cBLK           |       |                          |
-|                         |        +-------------------------+       |                          |
-|                         |                                          |                          |
-|                         |             /--------------\             |                          |
-|                         |             |   Contacto   |             |                          |
-|                         +-------------+Función fática+-------------+                          |
-|                                       |     c9AA     |                                        |
-|                                       \--------------/                                        |
-|                                             cFFF                                              |
-+-----------------------------------------------------------------------------------------------+
-@endditaa
-
-{% endplantuml %}
-
-
 
