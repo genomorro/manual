@@ -22,10 +22,10 @@ Los elementos del circuito comunicativo son:
 El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en  
 una serie de máximas que pueden o no ser acatadas.
 
-* Cantidad (informatividad),
-* Calidad (verdad),
-* Relación (relevancia),
-* Manera (claridad).
+* Cantidad \(informatividad\),
+* Calidad \(verdad\),
+* Relación \(relevancia\),
+* Manera \(claridad\).
 
 ## Lenguaje: definición, tipos y características
 
@@ -136,7 +136,8 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 * Enunciado, oración, clausula y finitud.
 * Ambigüedad y sus tipos.
 
-___
+---
+
 [^1]: Los detalles sobre este tema se abarcan en [Simone, 2001](/referencias.md).
 
 [^2]: Para explicaciones más detalladas es importante leer [RAE, 2010](/referencias.md).
