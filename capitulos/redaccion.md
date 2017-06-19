@@ -83,7 +83,7 @@ El gerundio es una forma verbal impersonal con terminación -ando -endo.
 
 ## Reglas básicas de ortografía
 
-Las  reglas  de  ortografía   para  el  curso  se  encuentran  en  su   totalidad  en  el  libro [RAE, 2012](/referencias.md).
+Las  reglas  de  ortografía   para  el  curso  se  encuentran  en  su   totalidad  en  el  libro {{ "espanola2012ortografia" | cite }}.
 
 Se recomienda la lectura del libro y la elaboración de un acordeón de una hoja tamaño carta o A4
 que  contenga al  menos el  uso de  los  signos de  puntuación y  la escritura  correcta de  los
