@@ -5,7 +5,7 @@
 La comunicación es el cálculo constante de intensiones. El modelo inferencial de la comunicación
 consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los
 hablantes  en  el   intercambio  comunicativo  se  selecciona  como   significado  del  mensaje.
-Leer [Grice, 1975](/referencias.md)
+Leer {{ "grice1975logic" | cite }}
 
 Los elementos del circuito comunicativo son:
 
@@ -139,9 +139,9 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
 
 ---
 
-[^1]: Los detalles sobre este tema se abarcan en [Simone, 2001](/referencias.md).
+[^1]: Los detalles sobre este tema se abarcan en {{ "simone2001fundamentos" | cite }}.
 
-[^2]: Para explicaciones más detalladas es importante leer [RAE, 2010](/referencias.md).
+[^2]: Para explicaciones más detalladas es importante leer {{ "espanola2009nueva | cite }} y {{ "de2007gramatica" | cite }}.
 
 [^3]: Tiene valor prepositivo, no es en realidad una preposición.
 
