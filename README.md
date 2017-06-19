@@ -5,6 +5,9 @@ Estos  apuntes sirven  como prueba  para  la posible  creación de  un  manual d
 
 Los archivos originales estaban en formato Org-Mode.
 
+{% plantuml %}
+Bob->Alice : hello
+{% endplantuml %}
 
 
 
