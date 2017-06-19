@@ -6,6 +6,7 @@ Estos  apuntes sirven  como prueba  para  la posible  creación de  un  manual d
 Los archivos originales estaban en formato Org-Mode.
 
 {% plantuml %}
+@startditaa
                                       +-------------------+
                                       |     Contexto      |
 +-------------------------------------+Función referencial+-------------------------------------+
@@ -29,4 +30,5 @@ Los archivos originales estaban en formato Org-Mode.
 |                                       \--------------/                                        |
 |                                             cFFF                                              |
 +-----------------------------------------------------------------------------------------------+
+@endditaa
 {% endplantuml %}
