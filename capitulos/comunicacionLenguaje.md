@@ -1,5 +1,4 @@
 # Comunicación y lenguaje
-tags: tag1, tag2
 
 ## Proceso de comunicación {#procesoComunicacion}
 

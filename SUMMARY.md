@@ -33,7 +33,6 @@
 	* [Generalidades sobre tiempo y persona en un escrito](capitulos/redaccion.md#tiempo)
   * [Reglas básicas de ortografía](capitulos/redaccion.md#ortografia)
 5. [Referencias](referencias.md)
-6. [Etiquetas](tags.md "Etiquetas")
 
 
 
