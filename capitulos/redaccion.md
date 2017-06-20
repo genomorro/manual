@@ -1,6 +1,6 @@
 # La redacción
 
-## Características de una buena redacción
+## Características de una buena redacción {#caracteristicas}
 
 * Contar con información suficiente, precisa y veraz para comunicarla en forma escrita.
 * Conocer y saber aplicar las reglas básicas de ortografía y morfosintaxis.
@@ -14,9 +14,9 @@
   actividad imprescindible.
 * Usa un corrector automático que contenga un buen tesauro.
 
-## Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación
+## Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación {#operaciones}
 
-### Citas para un trabajo de investigación
+### Citas para un trabajo de investigación {#citas}
 
 Es  muy  recomendable  hacer  las  fichas  o referencias  bibliográficas  de  todos  los  libros
 consultados. De  igual forma, es necesario  colocar referencias a  lo largo del trabajo  en cada
@@ -50,9 +50,9 @@ Adicionalmente, también es importante tener en cuenta:
 Finalmente,  cuando existan  referencias  electrónicas, se  debe agregar  el  tipo de  documento
 (audio, video, etc.) y la forma de publicación del mismo.
 
-## Errores y deficiencias comunes en la redacción
+## Errores y deficiencias comunes en la redacción {#errores}
 
-### El uso del gerundio
+### El uso del gerundio {#gerundio}
 
 El gerundio es una forma verbal impersonal con terminación -ando -endo.
 
@@ -66,7 +66,7 @@ El gerundio es una forma verbal impersonal con terminación -ando -endo.
    * Cuando se usa como adjetivo, salvo los verbos hervir y arder.
    * No une oraciones yuxtapuestas.
 
-### Generalidades sobre tiempo y persona en un escrito
+### Generalidades sobre tiempo y persona en un escrito {#tiempo}
 
 * El tiempo presente funciona para reavivar una  narración. Sin embargo, en una narración su uso
   constante transmite falsedad, no todo puede pasar en un mismo tiempo.
@@ -81,7 +81,7 @@ El gerundio es una forma verbal impersonal con terminación -ando -endo.
 * La tercera  persona es el eje en  una narración. Otorga el distanciamiento  necesario para una
   descripción eficiente.
 
-## Reglas básicas de ortografía
+## Reglas básicas de ortografía {#ortografía}
 
 Las  reglas  de  ortografía   para  el  curso  se  encuentran  en  su   totalidad  en  el  libro {{ "espanola2012ortografia" | cite }}.
 

@@ -1,6 +1,6 @@
 # Estructura de un texto escrito
 
-## Texto: estructura y propiedades. Marcadores discursivos {#131}
+## Texto: estructura y propiedades. Marcadores discursivos {#texto}
 
 * Estructura interna: Se realiza por medio de un  proceso mental que se da antes de escribir. En
   este  proceso  se  obtienen el  objetivo,  el  destinatario,  el  asunto, la  selección  y  la
@@ -9,7 +9,7 @@
   determinada por los  recursos de los que dispone  quien va a emitir el  mensaje. Los elementos
   que la constituyen son: el orden, el lenguaje, el estilo y el entorno.
 
-### Características
+### Características {#textoCaracteristicas}
 
 Estas características del texto a su vez forman el estilo del mismo.
 
@@ -20,11 +20,11 @@ Estas características del texto a su vez forman el estilo del mismo.
 * Concisión.
 * Sencillez.
 
-## Párrafo: características y clasificación
+## Párrafo: características y clasificación {#parrafo}
 
 Un párrafo es un conjunto de oraciones que tratan de un mismo tema.
 
-### Características de un párrafo
+### Características de un párrafo {#caracteristicasParrafo}
 
 * Coherencia: Todas las oraciones tienen el mismo referente.
 * Cohesión: Las ideas expresadas están relacionadas  correctamente unas con otras y por lo tanto
@@ -42,7 +42,7 @@ Cada párrafo  puede reescribirse  por medio  de una  sola oración  que es  exp
 ejemplificada, argumentada y  desarrollada a lo largo  del párrafo.  A esta oración  se le llama  
 _oración tópico_ y puede estar explicita o implícita en el párrafo.
 
-### Tipos de párrafo
+### Tipos de párrafo {#tiposParrafo}
 
 * Descriptivo: Explica, aclara, detalla, ilustra, ejemplifica o argumenta la oración tópico.
 * Comparativo: Confronta dos objetos. Su oración tópico puede tomar la forma _A es más X que B_.
@@ -51,7 +51,7 @@ _oración tópico_ y puede estar explicita o implícita en el párrafo.
 * Problema/solución: Ambos elementos están presentes en el párrafo.  La oración tópico es causal
   por lo que puede expresarse como _Si A entonces B_.
 
-### Oraciones dentro de los párrafos
+### Oraciones dentro de los párrafos {#orden}
 
 * Orden lógico: De  uso frecuente en la narración, en el recuento  de eventos, en la explicación
   de procesos y direcciones.
@@ -63,9 +63,9 @@ _oración tópico_ y puede estar explicita o implícita en el párrafo.
 * Orden cronológico:  De uso  frecuente en  la narración,  en el  recuento de  eventos, en  la
   explicación de procesos y direcciones, etc.
 
-## Tipos de textos descriptivos-argumentativos: informe técnico, artículo científico, ensayo y tesis
+## Tipos de textos descriptivos-argumentativos: informe técnico, artículo científico, ensayo y tesis {#tipos}
 
-### La explicación
+### La explicación {#explicacion}
 
 Responde implícita o explícitamente a estas preguntas: ¿Qué es?, ¿Cómo funciona?, ¿Por qué?
 
@@ -81,7 +81,7 @@ Se debe tener en cuenta:
 * El lenguaje especializado a utilizar.
 * Registro de lengua.
 
-### La argumentación
+### La argumentación {#argumentacion}
 
 Justifica una  opinión para convencer a  otro sobre la  tesis que se sustenta.  Busca convencer,  
 persuadir, movilizar o suscitar una acción.
