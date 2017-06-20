@@ -1,5 +1,4 @@
 # Comunicación y lenguaje
-tags: lenguaje, lengua, habla, comunicación
 
 ## Proceso de comunicación {#procesoComunicacion}
 
