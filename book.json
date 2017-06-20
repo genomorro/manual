@@ -1,7 +1,7 @@
 {
     "plugins": [
         "bibtex",
-        "puml"
+        "tags"
     ],
     "pluginsConfig": {
       "bibtex": {
