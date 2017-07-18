@@ -50,6 +50,16 @@ Adicionalmente, también es importante tener en cuenta:
 Finalmente,  cuando existan  referencias  electrónicas, se  debe agregar  el  tipo de  documento
 (audio, video, etc.) y la forma de publicación del mismo.
 
+#### Normas
+
+- ISO 960
+- American Psychological Association (APA).
+- Modern Language Association (MLA).
+- IEEE
+  - The Chicago Manual of Style
+
+Sitio web de ayuda: [Citation Machine](http://www.citationmachine.net)
+
 ## Errores y deficiencias comunes en la redacción {#errores}
 
 ### El uso del gerundio {#gerundio}
