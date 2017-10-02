@@ -2,7 +2,7 @@
 
 ## Proceso de comunicación {#procesoComunicacion}
 
-La comunicación es el cálculo constante de intensiones. El modelo inferencial de la comunicación
+La comunicación es el cálculo constante de intenciones. El modelo inferencial de la comunicación
 consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los
 hablantes  en  el   intercambio  comunicativo  se  selecciona  como   significado  del  mensaje.
 Leer {{ "grice1975logic" | cite }}
