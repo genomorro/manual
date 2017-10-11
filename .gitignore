@@ -16,3 +16,9 @@ _book
 *.pdf
 *.html
 *.tex
+
+# LaTeX output
+*.aux
+*.log
+*.out
+*.toc

@@ -146,7 +146,7 @@ que, si, donde.
 
 [fn:1] Los detalles sobre este tema se abarcan en [[cite:simone2001fundamentos]].
 
-[fn:2] Para explicaciones más detalladas es importante leer [[cite:espanola2009nueva]],[[cite:de2007gramatica]].
+[fn:2] Para explicaciones más detalladas es importante leer [[cite:espanola2009nueva]] [[cite:de2007gramatica]].
 
 [fn:3] Tiene valor prepositivo, no es en realidad una preposición.
 
