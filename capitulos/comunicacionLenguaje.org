@@ -3,7 +3,7 @@
 La comunicación es el cálculo constante de intenciones. El modelo inferencial de la comunicación
 consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los
 hablantes  en el  intercambio  comunicativo se  selecciona como  significado  del mensaje.  Leer
-cite:grice1975logic
+[[cite:grice1975logic]]
 
 Los elementos del circuito comunicativo son:
 - Emisor. Ligado a la función emotiva.
@@ -144,9 +144,9 @@ que, si, donde.
 - Ambigüedad y sus tipos.
 * Notas al Pie
 
-[fn:1] Los detalles sobre este tema se abarcan en cite:simone2001fundamentos.
+[fn:1] Los detalles sobre este tema se abarcan en [[cite:simone2001fundamentos]].
 
-[fn:2] Para explicaciones más detalladas es importante leer cite:espanola2009nueva,de2007gramatica.
+[fn:2] Para explicaciones más detalladas es importante leer [[cite:espanola2009nueva]],[[cite:de2007gramatica]].
 
 [fn:3] Tiene valor prepositivo, no es en realidad una preposición.
 

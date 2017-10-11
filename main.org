@@ -13,13 +13,11 @@
 #+CATEGORY:     worg
 #+KEYWORDS:     redaccion, exposicion, ortografia
 
-#+INCLUDE:  setup/theme-solarized-light.setup
+#+INCLUDE:  setup/theme-bigblow-local.setup
 
 #+INCLUDE: capitulos/comunicacionLenguaje.org :minlevel 1
 #+INCLUDE: capitulos/estructuraTextoEscrito.org :minlevel 1
 #+INCLUDE: capitulos/redaccion.org :minlevel 1
 # #+INCLUDE: capitulos/exposicionOral.org :minlevel 1
 
-* Bibliografía
-bibliographystyle:apalike
-bibliography:main.bib
+#+BIBLIOGRAPHY: bib plain

@@ -1,0 +1,51 @@
+* Fundamentos de lingüística
+:PROPERTIES:
+:TITLE:    Fundamentos de lingüística
+:BTYPE:    book
+:CUSTOM_ID: simone2001fundamentos
+:AUTHOR:   Simone, R.
+:ISBN:     9788434482494
+:SERIES:   Ariel lingüística
+:URL:      https://books.google.com.mx/books?id=g9UuOwAACAAJ
+:YEAR:     2001
+:PUBLISHER: Ariel
+:END:
+* Logic and conversation
+:PROPERTIES:
+:TITLE:    Logic and conversation
+:BTYPE:    article
+:CUSTOM_ID: grice1975logic
+:AUTHOR:   Grice, H Paul
+:JOURNAL:  1975
+:PAGES:    41--58
+:YEAR:     1975
+:END:
+* Ortografía básica de la lengua española
+:PROPERTIES:
+:TITLE:    Ortografía básica de la lengua española
+:BTYPE:    book
+:CUSTOM_ID: espanola2012ortografia
+:AUTHOR:   Española, Real Academia
+:YEAR:     2012
+:PUBLISHER: Espasa
+:END:
+* Gramática moderna de la lengua española
+:PROPERTIES:
+:TITLE:    Gramática moderna de la lengua española
+:BTYPE:    book
+:CUSTOM_ID: de2007gramatica
+:AUTHOR:   de la Corte, J.L.F.
+:ISBN:     9789681821845
+:URL:      https://books.google.com.mx/books?id=JsVkoX31vvoC
+:YEAR:     2007
+:PUBLISHER: Limusa
+:END:
+* Nueva gramática de la lengua española
+:PROPERTIES:
+:TITLE:    Nueva gramática de la lengua española
+:BTYPE:    book
+:CUSTOM_ID: espanola2009nueva
+:AUTHOR:   Española, Real Academia
+:YEAR:     2009
+:PUBLISHER: Espasa Libros
+:END:
