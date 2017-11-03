@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
       "bibtex": {
-        "bibliography": "main.bib"
+        "bibliography": "papers.bib"
       }
     }
 }
