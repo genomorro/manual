@@ -49,3 +49,16 @@
 :YEAR:     2009
 :PUBLISHER: Espasa Libros
 :END:
+* Lengua Espa{\~n}ola IV
+:PROPERTIES:
+:TITLE:    Lengua Espa{\~n}ola IV
+:BTYPE:    book
+:CUSTOM_ID: gomez2000lengua
+:AUTHOR:   Gomez, M.R.D. and Lima, M.E.H. and Sampieri, F.G.Z.
+:ISBN:     9786077440673
+:SERIES:   Serie Bachiller
+:URL:      https://books.google.com.mx/books?id=kJuEBgAAQBAJ
+:YEAR:     2000
+:PUBLISHER: Grupo Editorial Patria
+:END:
+
