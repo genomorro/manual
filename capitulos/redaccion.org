@@ -28,7 +28,7 @@ dicho texto.
 Debemos tener presente  que la elaboración de  bibliografías es convencional, razón  por la cual
 existen  muy variados  estándares  de cita,  siempre  será necesario  elegir  alguno y  seguirlo
 puntualmente. En general, la información necesaria para la creación de una bibliografía completa
-es la siguiente:
+es la siguiente [[cite:gomez2000lengua]]:
 
 - Autor: Nombre completo y sin abreviaturas.
 - Título de la obra: En caso de existir, también el subtítulo.
