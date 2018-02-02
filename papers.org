@@ -49,9 +49,9 @@
 :YEAR:     2009
 :PUBLISHER: Espasa Libros
 :END:
-* Lengua Espa{\~n}ola IV
+* Lengua Española IV
 :PROPERTIES:
-:TITLE:    Lengua Espa{\~n}ola IV
+:TITLE:    Lengua Española IV
 :BTYPE:    book
 :CUSTOM_ID: gomez2000lengua
 :AUTHOR:   Gomez, M.R.D. and Lima, M.E.H. and Sampieri, F.G.Z.
@@ -61,13 +61,13 @@
 :YEAR:     2000
 :PUBLISHER: Grupo Editorial Patria
 :END:
-* Estructura en un perfil de competencia ling{\"u}{\'\i}stica
+* Estructura en un perfil de competencia lingüística
 :PROPERTIES:
-:TITLE:    Estructura en un perfil de competencia ling{\"u}{\'\i}stica
+:TITLE:    Estructura en un perfil de competencia lingüística
 :BTYPE:    article
 :CUSTOM_ID: echeverria1997estructura
-:AUTHOR:   Echeverr{\'\i}a, Max Sergio and Veliz de Vos, M{\'o}nica and Mu{\~n}oz, Gloria and Valdivieso, Humberto
+:AUTHOR:   Echeverría, Max Sergio and Veliz de Vos, Mónica and Muñoz, Gloria and Valdivieso, Humberto
 :URL:      http://hdl.handle.net/10017/7398
 :YEAR:     1997
-:PUBLISHER: Universidad de Alcal{\'a}. Servicio de Publicaciones
+:PUBLISHER: Universidad de Alcalá. Servicio de Publicaciones
 :END:
