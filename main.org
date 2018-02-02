@@ -13,7 +13,7 @@
 #+CATEGORY:     worg
 #+KEYWORDS:     redaccion, exposicion, ortografia
 
-#+INCLUDE:  setup/theme-solarized-light.setup
+#+INCLUDE:  setup/theme-bigblow-local.setup
 
 #+INCLUDE: capitulos/comunicacionLenguaje.org :minlevel 1
 #+INCLUDE: capitulos/estructuraTextoEscrito.org :minlevel 1
