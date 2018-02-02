@@ -162,13 +162,13 @@ por cada error posterior se restará medio punto. Un error puede implicar la exi
 
 ### R3
 
-| Criterio                         |   |
-|----------------------------------|---|
-| Tema justificado correctamente   |   |
-| Presentó un guión o escaleta     |   |
-| Presentó un texto de desarrollo  |   |
-| La voz en el video es del alumno |   |
-| El alumno está en el video       |   |
+| Criterio                         |     |
+| -------------------------------- | --- |
+| Tema justificado correctamente   |     |
+| Presentó un guión o escaleta     |     |
+| Presentó un texto de desarrollo  |     |
+| La voz en el video es del alumno |     |
+| El alumno está en el video       |     |
 
 ### R4
 

@@ -32,7 +32,9 @@
     * [El uso del gerundio](capitulos/redaccion.md#gerundio)
 	* [Generalidades sobre tiempo y persona en un escrito](capitulos/redaccion.md#tiempo)
   * [Reglas básicas de ortografía](capitulos/redaccion.md#ortografia)
-5. [Referencias](referencias.md)
+5. [La exposición oral](capitulos/exposicionOral.md)
+  * [Pautas para una expresión adecuada](capitulos/exposicionOral.md#pautas)
+6. [Referencias](referencias.md)
 
 
 

@@ -61,4 +61,13 @@
 :YEAR:     2000
 :PUBLISHER: Grupo Editorial Patria
 :END:
-
+* Estructura en un perfil de competencia ling{\"u}{\'\i}stica
+:PROPERTIES:
+:TITLE:    Estructura en un perfil de competencia ling{\"u}{\'\i}stica
+:BTYPE:    article
+:CUSTOM_ID: echeverria1997estructura
+:AUTHOR:   Echeverr{\'\i}a, Max Sergio and Veliz de Vos, M{\'o}nica and Mu{\~n}oz, Gloria and Valdivieso, Humberto
+:URL:      http://hdl.handle.net/10017/7398
+:YEAR:     1997
+:PUBLISHER: Universidad de Alcal{\'a}. Servicio de Publicaciones
+:END:

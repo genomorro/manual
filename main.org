@@ -18,6 +18,6 @@
 #+INCLUDE: capitulos/comunicacionLenguaje.org :minlevel 1
 #+INCLUDE: capitulos/estructuraTextoEscrito.org :minlevel 1
 #+INCLUDE: capitulos/redaccion.org :minlevel 1
-# #+INCLUDE: capitulos/exposicionOral.org :minlevel 1
+#+INCLUDE: capitulos/exposicionOral.org :minlevel 1
 
 #+BIBLIOGRAPHY: papers apalike option:-d
