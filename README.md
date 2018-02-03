@@ -132,7 +132,7 @@ consistiría en la exposición de un tema.
 
 ### R1
 
-| Criterio                       |     |
+| Criterio                       |  ✓  |
 | -----------------------------  | --- |
 | Tema justificado correctamente |     |
 | Movimiento 1 del método CARS   |     |
@@ -162,7 +162,7 @@ por cada error posterior se restará medio punto. Un error puede implicar la exi
 
 ### R3
 
-| Criterio                         |     |
+| Criterio                         |  ✓  |
 | -------------------------------- | --- |
 | Tema justificado correctamente   |     |
 | Presentó un guión o escaleta     |     |
