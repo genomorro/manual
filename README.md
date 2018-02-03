@@ -154,7 +154,7 @@ La  calificación esta determinada por los errores anotados en la siguiente tabl
 | Concordancias                 |         |              |                                          |
 | Conjugación T.A.M.            |         |              |                                          |
 | Separación sintáctica         |         |              |                                          |
-| Formación de oraciones        |         |              |                                          |
+| Citas y bibliografía          |         |              |                                          |
 | Norma ortográfica             |         |              |                                          |
 
 La calificación máxima es diez.  Si se cometen dos errores en algún criterio se resta un punto,
@@ -183,8 +183,8 @@ La  calificación esta determinada por los errores anotados en la siguiente tabl
 | Información          |         |              |                                             |
 | Relevancia           |         |              |                                             |
 | Claridad             |         |              |                                             |
-| Seguridad            |         |              |                                             |
-| Cortes en el video   |         |              |                                             |
+| Bibliografía         |         |              |                                             |
+| Edición de video     |         |              |                                             |
 | Cierre               |         |              |                                             |
 
 La calificación máxima es diez.  Si se cometen dos errores en algún criterio se resta un punto,
