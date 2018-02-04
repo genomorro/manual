@@ -16,6 +16,7 @@
 3. [Estructura de un texto escrito](capitulos/estructuraTextoEscrito.md)
   * [Texto: Estructura y propiedades](capitulos/estructuraTextoEscrito.md#texto)
     * [Características](capitulos/estructuraTextoEscrito.md#textoCaracteristicas)
+	* [Marcadores discursivos](capitulos/estructuraTextoEscrito.md#marcadoresDiscursivos)
   * [Párrafo: características y clasificación](capitulos/estructuraTextoEscrito.md#parrafo)
     * [Características de un párrafo](capitulos/estructuraTextoEscrito.md#caracteristicasParrafo)
 	* [Tipos de párrafo](capitulos/estructuraTextoEscrito.md#tiposParrafo)

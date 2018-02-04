@@ -20,6 +20,29 @@ Estas características del texto a su vez forman el estilo del mismo.
 * Concisión.
 * Sencillez.
 
+### Marcadores discursivos adverbiales {#marcadoresDiscursivos}
+- Aditivos y  de presición o  particularización: a  decir verdad, además,  análogamente, aparte,
+  asimismo, de hecho,  encima, en el fondo, en  realidad, es más, por añadidura,  por otro lado,
+  por si fuera poco, sobre todo.
+- Adversativos y contraargumentativos: ahora bien, (antes)  al contrario, antes bien, después de
+  todo,  empero, en  cambio,  eso  sí, no  obstante,  por el  contrario,  sin  embargo, todo  lo
+  contrario.
+- Concesivos: así y todo, aun así, con  todo, de cualquier manera, de todas {formas~maneras}, de
+  todos modos, en cualquier caso.
+- Consecutivos e  ilativos: así  pues, consiguientemente, de  {este~ese} modo,  en consecuencia,
+  entonces, por consiguiente, por ende, por lo tanto, por tanto, pues.
+- Explicativos: a saber, es decir, esto es, o sea.
+- Reformuladores:  dicho   en  otras  palabras,  dicho  en  otros   términos,  dicho  de  otra
+  {forma~manera}, de otro modo, más claramente, más llanamente, hablando en plata.
+- Rectificativos: más bien, mejor dicho, por mejor decir.
+- Ejemplificativos: así, así por ejemplo, así tenemos, por ejemplo, verbigracia.
+- Recapitulativos: a fin de cuentas, al fin y  al cabo, en conclusión, en definitiva, en fin, en
+  resumen, en resumidas cuentas, en síntesis, en suma, en una palabra, resumiendo, total.
+- De   ordenación:   a   continuación,   antes   {de~que}  nada,   de   {una~otra}   parte,   en
+  {primer~segundo...} lugar~término, finalmente, para empezar, para terminar, primeramente.
+- De apoyo argumentativo: así las cosas, dicho esto, en vista de ello, pues bien.
+- De digresión: a propósito, a todo esto, dicho sea de paso, entre paréntesis, por cierto.
+
 ## Párrafo: características y clasificación {#parrafo}
 
 Un párrafo es un conjunto de oraciones que tratan de un mismo tema.
