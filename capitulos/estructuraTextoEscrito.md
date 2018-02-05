@@ -21,7 +21,8 @@ Estas características del texto a su vez forman el estilo del mismo.
 * Sencillez.
 
 ### Marcadores discursivos adverbiales {#marcadoresDiscursivos}
-- Aditivos y  de presición o  particularización: a  decir verdad, además,  análogamente, aparte,
+
+- Aditivos y de presición o particularización: a decir verdad, además, análogamente, aparte,
   asimismo, de hecho,  encima, en el fondo, en  realidad, es más, por añadidura,  por otro lado,
   por si fuera poco, sobre todo.
 - Adversativos y contraargumentativos: ahora bien, (antes)  al contrario, antes bien, después de
