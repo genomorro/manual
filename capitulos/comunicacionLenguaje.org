@@ -79,7 +79,7 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
   manifestar plenamente su significado.
 *** Clases de palabras
 **** Nombres
-- Morfología: Genero, número, caso, diminutivo, aumentativo
+- Morfología: Género, número, caso, diminutivo, aumentativo
 - Función sintáctica: Son argumentos, objetos y  complemento de preposición. Aparecen después de
   determinantes y antes de adjetivos.
 - Distribución: Hay [N]
@@ -89,7 +89,7 @@ La lengua escrita es la expresión psíquica directa del pensamiento.
   negados, toman argumentos, pueden acompañarse de auxiliares.
 - Distribución: 1) Cambiar a infinitivo. 2) Hay que [V], Hay que [V] eso
 **** Adjetivo
-- Morfología: Número, genero, grado (superlativo, comparativo, positivo)
+- Morfología: Número, género, grado (superlativo, comparativo, positivo)
 - Función   sintáctica:  Aparecen   entre   el  determinante   y  el   nombre   o  después   del
   nombre. Modificados por intensificadores o adverbios. Funcionan como predicados.
 - Distribución: Esta muy [A], Es muy [A]
