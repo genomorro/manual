@@ -16,6 +16,10 @@
 #+CATEGORY:     worg
 #+KEYWORDS:     redaccion, exposicion, ortografia
 
+#+OPTIONS:      h:4 toc:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [paper=letter,oneside,DIV=8]
+
 #+INCLUDE:  setup/theme-solarized-dark.setup
 
 #+INCLUDE: capitulos/comunicacionLenguaje.org :minlevel 1

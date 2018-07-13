@@ -22,3 +22,6 @@ _book
 *.log
 *.out
 *.toc
+*.bbl
+*.blg
+*.synctex.gz
