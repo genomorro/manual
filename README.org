@@ -1,5 +1,7 @@
 # Contenido
 
+la versión PDF debe ir en ~assets/manual.pdf~ y la versión HTML en ~manual.html~.
+
 # Compilación a Latex
 
 Una vez creado el archivo tex se debe borrar la línea que crea la TOC manualmente
@@ -9,4 +11,8 @@ Una vez creado el archivo tex se debe borrar la línea que crea la TOC manualmen
 Es  productivo leer  [CSS for  Org-exported HTML](https://gongzhitaao.org/orgcss/  "A Clean  and
 Comfort Stylesheet") 
 
+Los 3 ~</div>~ deben ir antes de la sección de bibliografía.
+
 # Bibliografía
+
+Se usa ox-bibtex

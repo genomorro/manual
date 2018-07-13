@@ -1,3 +1,0 @@
-# Referencias
-
-{% references %} {% endreferences %}
