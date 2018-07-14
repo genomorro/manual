@@ -1,0 +1,21 @@
+# -*- mode: org; -*-
+#
+# This setup stack represents the following configuration:
+#
+#  {
+#   "table-of-contents": true,
+#   "section-numbers": false,
+#   "postamble": true,
+#   "fancy-lists": true,
+#   "fancy-icons": true,
+#   "back-to-top": true,
+#   "collection": {
+#     "enabled": true,
+#     "avatar": "",
+#     "title": "Redacción y exposición de temas de ingeniería",
+#     "url": "/index.html"
+#   }
+# }
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/org-minimal/css/bundle.min.css"/>
+#+HTML_HEAD: <script src="styles/org-minimal/js/bundle.min.js" type="text/javascript" ></script>
