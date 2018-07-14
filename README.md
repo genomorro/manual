@@ -10,13 +10,13 @@ Una vez creado el archivo tex se debe borrar la línea que crea la TOC manualmen
 
 # Compilación a HTML
 
-Es  productivo leer [[CSS for  Org-exported HTML][https://gongzhitaao.org/orgcss/]] 
+Es  productivo leer [CSS for  Org-exported HTML](https://gongzhitaao.org/orgcss/)
 
-Los 3 ~</div>~ deben ir antes de la sección de bibliografía.
+Los 3 `</div>` deben ir antes de la sección de bibliografía.
 
 Los elementos links de la hoja de evaluación deben ser corregidos
 
-Copiar las carpetas ~assets~, ~im~ y ~styles~ en el sitio.
+Copiar las carpetas `assets`, `im` y `styles` en el sitio.
 
 # Bibliografía
 
