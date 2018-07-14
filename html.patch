@@ -1,0 +1,25 @@
+--- main.html	2018-07-13 17:14:19.186903620 -0500
++++ main-b.html	2018-07-13 17:17:34.386892823 -0500
+@@ -1065,6 +1065,9 @@
+ los tres puntos anteriores.</li>
+ <li>Nitidez en el timbre vocálico. Evita la distorsión de los sonidos.</li>
+ </ul>
++</div>
++</div>
++</div>
+ 
+ <div id="bibliography">
+ <h2>Referencias</h2>
+@@ -1168,11 +1171,8 @@
+ </tr>
+ </table>
+ </div>
+-</div>
+-</div>
+-</div>
+ <div id="footnotes">
+-<h2 class="footnotes">Nota al pie de p&aacute;gina: </h2>
++<h2 class="footnotes">Nota al pie de p&aacute;gina</h2>
+ <div id="text-footnotes">
+ 
+ <div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
