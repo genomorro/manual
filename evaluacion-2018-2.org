@@ -17,6 +17,9 @@ profesor los explique durante la clase.
 La guía esta disponible en  formato [[file:assets/manual.pdf][PDF]] y [[file:manual.html][HTML]]. Es recomendable que tengas  una copia de la guía
 durante la clase.
 
+Las fuentes  de este sitio  pueden encontrarse en [[https://gitlab.com/genomorro/manual][gitlab]],  eres libre de  copiarlo, consultarlo,
+modificarlo, corregirlo.
+
 ** Elementos del curso
 
 *** Horarios de clase
@@ -230,7 +233,9 @@ La calificación esta determinada por los errores anotados en la siguiente tabla
 La calificación máxima es diez.  Si se cometen tres errores en algún criterio se resta un punto,
 por cada error posterior se restará medio punto. Un error puede implicar la existencia de otro.
 
-** Otros elementos útiles para tu calificación
+* Otros elementos útiles para tu calificación
+
+** Latex
 
 Latex es un lenguaje  de marcado útil para escribir textos. Puedes aprender  Latex por tu cuenta
 viendo videos en internet o leyendo manuales. Si  no quieres instalar Latex en tu computadora te
