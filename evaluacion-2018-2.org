@@ -1,3 +1,12 @@
+#+TITLE:        Evaluación Redacción y exposición de temas de ingeniería
+#+AUTHOR:       Edgar Uriel Domínguez Espinoza
+#+EMAIL:        edgar_uriel84 AT genomorro DOT name
+#+DATE:         2018
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="http://www.rodrigofranco.com/theme/orgmin.css"/>
+# #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://gongzhitaao.org/orgcss/org.css"/>
+#+LANGUAGE:     es
+
 * Evaluación para el semestre 2018-2
 
 ** Guía del curso
@@ -6,7 +15,7 @@ El curso tiene una guía de elementos mínimos  que debes conocer para aprobar l
 el único  que tiene la  obligación de revisar  cuales son dichos  elementos y asegurarte  que el
 profesor los explique durante la clase.
 
-La guía esta disponible en  formato [[assets/manual.pdf][PDF]] y [[manual.html][HTML]]. Es recomendable que tengas  una copia de la guía
+La guía esta disponible en  formato [[file:assets/manual.pdf][PDF]] y [[file:manual.html][HTML]]. Es recomendable que tengas  una copia de la guía
 durante la clase.
 
 ** Elementos del curso
@@ -76,10 +85,10 @@ los documentos del trabajo escrito y después los documentos del trabajo de expo
 
 La calificación del curso se obtendrá de la siguiente manera:
 
-1. Si no se entrega ningún trabajo: NP.
-2. Si se entrega un trabajo se calificará ese trabajo en escala de cero a diez.
-3. Si  se entregan dos trabajos  se calificarán ambos  trabajos en escala  de cero a diez.  A la
-   calificación más alta se le sumará la mitad de la calificación más baja.
++ Si no se entrega ningún trabajo: NP.
++ Si se entrega un trabajo se calificará ese trabajo en escala de cero a diez.
++ Si  se entregan dos trabajos  se calificarán ambos  trabajos en escala  de cero a diez.   A la
+  calificación más alta se le sumará la mitad de la calificación más baja.
 
 *** Actividades optativas
 
@@ -164,20 +173,20 @@ redondeada si es aprobatoria y los decimales mayor o igual a punto cinco.
 
 *** R1
 
-| Criterio                       |  ✓  |
-| -----------------------------  | --- |
-| Tema justificado correctamente |     |
-| Movimiento 1 del método CARS   |     |
-| Movimiento 2 del método CARS   |     |
-| Movimiento 3 del método CARS   |     |
-| Presentación en Latex          |     |
+| Criterio                       | ✓ |
+|--------------------------------+---|
+| Tema justificado correctamente |   |
+| Movimiento 1 del método CARS   |   |
+| Movimiento 2 del método CARS   |   |
+| Movimiento 3 del método CARS   |   |
+| Presentación en Latex          |   |
 
 *** R2
 
 La calificación esta determinada por los errores anotados en la siguiente tabla:
 
 | Criterio                      | Errores | Puntos menos | Otras observaciones acerca la puntuación |
-| ----------------------------- | ------- | ------------ | ---------------------------------------- |
+|-------------------------------+---------+--------------+------------------------------------------|
 | Coherencia y cohesión         |         |              |                                          |
 | Longitud                      |         |              |                                          |
 | Oraciones tópico              |         |              |                                          |
@@ -194,20 +203,20 @@ por cada error posterior se restará medio punto. Un error puede implicar la exi
 
 *** R3
 
-| Criterio                         |  ✓  |
-| -------------------------------- | --- |
-| Tema justificado correctamente   |     |
-| Presentó un guión o escaleta     |     |
-| Presentó un texto de desarrollo  |     |
-| La voz en el video es del alumno |     |
-| El alumno está en el video       |     |
+| Criterio                         | ✓ |
+|----------------------------------+---|
+| Tema justificado correctamente   |   |
+| Presentó un guión o escaleta     |   |
+| Presentó un texto de desarrollo  |   |
+| La voz en el video es del alumno |   |
+| El alumno está en el video       |   |
 
 *** R4
 
 La calificación esta determinada por los errores anotados en la siguiente tabla:
 
 | Criterio             | Errores | Puntos menos | Otras observaciones acerca de la puntuación |
-| -------------------- | ------- | ------------ | ------------------------------------------- |
+|----------------------+---------+--------------+---------------------------------------------|
 | Presentación         |         |              |                                             |
 | Registro             |         |              |                                             |
 | Dicción y entonación |         |              |                                             |
@@ -226,9 +235,9 @@ por cada error posterior se restará medio punto. Un error puede implicar la exi
 
 Latex es un lenguaje  de marcado útil para escribir textos. Puedes aprender  Latex por tu cuenta
 viendo videos en internet o leyendo manuales. Si  no quieres instalar Latex en tu computadora te
-recomiendo usar [[www.overleaf.com][Overleaf]] que es un buen editor en línea.
+recomiendo usar [[https://www.overleaf.com][Overleaf]] que es un buen editor en línea.
 
 Algunos recursos recomendados son:
 
 - [[https://en.wikibooks.org/wiki/LaTeX][Guía de Wikibooks sobre Latex]] (en inglés).
-- Libro: [[assets/Edicion_de_textos_cientificos_LaTeX.pdf][Edición de textos científicos con Latex]]
+- Libro: [[file:assets/Edicion_de_textos_cientificos_LaTeX.pdf][Edición de textos científicos con Latex]]

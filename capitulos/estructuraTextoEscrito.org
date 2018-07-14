@@ -125,31 +125,31 @@ Expresiones:
 Se refiere a plantear la situación. Este movimiento se divide en tres pasos. Todos los pasos son
 optativos, debe seleccionarse al menos uno.
 
-- Paso 1: Establecer la importancia del tema.
-- Paso 2: Hacer generalizaciones sobre el tema.
-- Paso 3: Revisar elementos de investigaciones previas.
+- Paso 1 :: Establecer la importancia del tema.
+- Paso 2 :: Hacer generalizaciones sobre el tema.
+- Paso 3 :: Revisar elementos de investigaciones previas.
 **** Movimiento 2: Establecer un nicho
 Se refiere a establecer el  problema que se atenderá en el escrito. Consiste  en un solo paso de
 puede abordarse de cuatro maneras diferentes. Debe escogerse solo una de estas opciones.
 
-- Paso 1A: Encontrar un contraejemplo.
-- Paso 1B: Indicar un vacío (en las investigaciones previas).
-- Paso 1C: Surgir una pregunta (sobre las investigaciones previas).
-- Paso 1D: Continuar una tradición.
+- Paso 1A :: Encontrar un contraejemplo.
+- Paso 1B :: Indicar un vacío (en las investigaciones previas).
+- Paso 1C :: Surgir una pregunta (sobre las investigaciones previas).
+- Paso 1D :: Continuar una tradición.
 **** Movimiento 3: Ocupar el nicho
 Se trata de  establecer la solución al  problema planteado en el movimiento  anterior.  Se deben
 seguir tres  pasos. El primer  paso puede  escribirse de dos  formas, cuya elección  depende del
 avance de la investigación en el momento de escribir el texto.
 
-- Paso 1A: Definir propósitos (¿Porqué?).
-- Paso 1B: Anunciar la presente investigación (¿Qué?, ¿Cómo?).
-- Paso 2: Anunciar las observaciones principales.
-- Paso 3: Indicar la estructura del texto.
+- Paso 1A :: Definir propósitos (¿Porqué?).
+- Paso 1B :: Anunciar la presente investigación (¿Qué?, ¿Cómo?).
+- Paso 2 :: Anunciar las observaciones principales.
+- Paso 3 :: Indicar la estructura del texto.
 
 Opcionalmente, en este movimiento es posible agregar un cuarto paso. La escritura de este cuarto
 paso depende nuevamente del desarrollo de la investigación en el momento de escribir el texto.
 
-- Paso 4: Evaluar los descubrimientos principales.
+- Paso 4 :: Evaluar los descubrimientos principales.
 * Notas al Pie
 
 [fn:6] Para una explicación  detallada sobre el modelo *CARS* se recomienda  leer [[http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf][el handout con

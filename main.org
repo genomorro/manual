@@ -5,7 +5,6 @@
 #+UID:          http://reti.genomorro.name
 #+DESCRIPTION:  Manual de la materia Redacción y exposición de temas de ingeniería, FI UNAM
 #+HTML_DOCTYPE: html5
-#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="styles/css/extra.css" />
 #+STARTUP:      align fold nodlcheck hidestars oddeven lognotestate
 #+LANGUAGE:     es
 #+LICENSE:      CC-BY-SA
@@ -16,11 +15,11 @@
 #+CATEGORY:     worg
 #+KEYWORDS:     redaccion, exposicion, ortografia
 
-#+OPTIONS:      h:4 toc:nil
-#+LATEX_CLASS: article
+#+OPTIONS:      H:4 toc:2
+#+LATEX_CLASS:  article
 #+LATEX_CLASS_OPTIONS: [paper=letter,oneside,DIV=8]
 
-#+INCLUDE:  setup/theme-solarized-dark.setup
+#+INCLUDE:  setup/theme-readtheorg-local.setup
 
 #+INCLUDE: capitulos/comunicacionLenguaje.org :minlevel 1
 #+INCLUDE: capitulos/estructuraTextoEscrito.org :minlevel 1
