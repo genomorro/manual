@@ -3,8 +3,7 @@
 #+EMAIL:        edgar_uriel84 AT genomorro DOT name
 #+DATE:         2018
 #+HTML_DOCTYPE: html5
-#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="http://www.rodrigofranco.com/theme/orgmin.css"/>
-# #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://gongzhitaao.org/orgcss/org.css"/>
+#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="http://gongzhitaao.org/orgcss/org.css"/>
 #+LANGUAGE:     es
 
 * Evaluación para el semestre 2018-2
