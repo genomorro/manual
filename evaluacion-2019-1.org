@@ -6,7 +6,7 @@
 #+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="http://gongzhitaao.org/orgcss/org.css"/>
 #+LANGUAGE:     es
 
-* Evaluación para el semestre 2018-2
+* Evaluación para el semestre 2019-1
 
 ** Guía del curso
 
@@ -26,9 +26,9 @@ modificarlo, corregirlo.
 
 Los horarios de clase son:
 
-1. Lunes y jueves 10:00 a 13:00 (solo alumnos de nuevo ingreso)
-2. Lunes y miércoles 17:00 a 19:00
-3. Lunes y miércoles 19:00 a 21:00
+1. Lunes y jueves 10:00 a 13:00 (solo alumnos de nuevo ingreso). Salón I303
+2. Lunes y miércoles 17:00 a 19:00. Salón A105
+3. Lunes y miércoles 19:00 a 21:00. Salón A102
 
 Al primer horario solo pueden asistir alumnos de nuevo ingreso.
 
@@ -36,9 +36,9 @@ Si no eres alumno de nuevo ingreso y tomando en cuenta que las clases podrían n
 tienes el derecho a  asistir en cualquiera de los horarios vespertinos.   Toma en cuenta también
 que si tomas la clase en un grupo que no te corresponde podría afectar tus participaciones.
 
-En  cualquier caso:  **Memoriza  tu  número de  grupo**.  El grupo  al  que  perteneces te  será
-solicitado en los exámenes  y no será permitido preguntarlo ni levantarse a  ver los horarios en
-la puerta del salón.
+En  cualquier caso:  **Memoriza  tu número  de  grupo**.  El  grupo al  que  perteneces te  será
+solicitado en los exámenes  u otras actividades y no será permitido  preguntarlo ni levantarse a
+ver los horarios en la puerta del salón.
 
 *** Participaciones
 
@@ -58,13 +58,13 @@ semestre, puedes conseguirlas mediante estas opciones:
 Tienes dos opciones para aprobar la materia de forma ordinaria:
 
 1. Trabajo escrito. Escogerás un tema relacionado con las materias que haz aprobado o que cursas
-   durante el semestre  2018-2.  Tu expediente, tira  de materias y temario  de asignatura serán
+   durante el semestre  2019-1.  Tu expediente, tira  de materias y temario  de asignatura serán
    las pruebas de  que haz seleccionado correctamente  el tema.  Escribirás un  trabajo de dicho
    tema. El  trabajo deberá  aprobar la rúbrica  R1 y  será calificado con  la rúbrica  R2.  Los
    avances de tu trabajo podrán ser revisados las  veces que quieras, si entre revisiones no hay
    mejoras considerables este derecho podrá suspenderse.
 2. Trabajo de exposición. Escogerás un tema relacionado  con las materias que haz aprobado o que
-   cursas durante el semestre  2018-2.  Tu expediente, tira de materias  y temario de asignatura
+   cursas durante el semestre  2019-1.  Tu expediente, tira de materias  y temario de asignatura
    serán las pruebas de que haz seleccionado correctamente el tema. Realizarás al menos un video
    en el  que expliques  el tema con  claridad.  El video  deberá aprobar  la rúbrica R3  y será
    calificado con la rúbrica R4.
@@ -78,10 +78,14 @@ constará de un folder con los siguientes elementos y en este orden:
 - Una copia engrapada del trabajo final (solo trabajo escrito).
 - Una copia digital del trabajo en un CD o DVD correctamente rótulado con tu nombre y tu grupo.
 
-**Importante**: No serán admisibles estos documentos si tienen textos escritos a mano.
+**Importante**: No serán admisibles estos documentos si  tienen textos escritos a mano por parte
+del alumno.
 
 Se pueden entregar dos  trabajos en el mismo folder, en ese caso  será necesario colocar primero
 los documentos del trabajo escrito y después los documentos del trabajo de exposición.
+
+**Nota para alumnos de  nuevo ingreso**: En caso de no encontrar un  tema adecuado, será posible
+extender las opciones de selección de tema, previo acuerdo con el profesor.
 
 **** Calificación
 
@@ -90,7 +94,8 @@ La calificación del curso se obtendrá de la siguiente manera:
 + Si no se entrega ningún trabajo: NP.
 + Si se entrega un trabajo se calificará ese trabajo en escala de cero a diez.
 + Si  se entregan dos trabajos  se calificarán ambos  trabajos en escala  de cero a diez.   A la
-  calificación más alta se le sumará la mitad de la calificación más baja.
+  calificación más alta se le sumará la mitad de la calificación más baja y el resultado será la
+  calificación final.
 
 *** Actividades optativas
 
@@ -102,7 +107,14 @@ La calificación del curso se obtendrá de la siguiente manera:
 2. Debes ir a cualquier evento cultural publicado en la gaceta universitaria, concierto, obra de
    teatro o  conferencia realizada en  cualquier facultad distinta  a Ingeniería.  En  el evento
    debes participar en al menos una de las actividades.  Terminada la actividad, seleccionarás a
-   otra persona asistente que no conozcas y grabarás en video un diálogo que tú iniciarás.
+   otra  persona   asistente  que  no   conozcas  y  grabarás  en   video  un  diálogo   que  tú
+   iniciarás.
+
+3.  Asiste a la [[https://site.inali.gob.mx/Micrositios/flin_2018/][FLIN 2018]] del 9 al 12 de agosto.  Mientras disfrutas de la feria tomarás nota de
+   los eventos  que acontecen  a tu  alrededor. Posteriormente escribirás  sobre los  hechos que
+   viviste durante la feria, seleccionarás un título llamativo y breve para tu texto. Durante el
+   texto  darás cuenta  de los  hechos de  forma clara  y posteriormente  darás tu  percepción u
+   opinión sobre los mismos.
 
 3. Podrán agregarse actividades o tareas a lo largo del semestre.
 
@@ -245,3 +257,7 @@ Algunos recursos recomendados son:
 
 - [[https://en.wikibooks.org/wiki/LaTeX][Guía de Wikibooks sobre Latex]] (en inglés).
 - Libro: [[file:assets/Edicion_de_textos_cientificos_LaTeX.pdf][Edición de textos científicos con Latex]]
+
+* Seguridad
+
+La Comisión Local de Seguridad de la FI solicita la lectura de [[file:assets/acciones_cls_fi.pdf][las acciones de la CLS]].
