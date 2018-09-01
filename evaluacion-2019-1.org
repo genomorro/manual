@@ -76,7 +76,7 @@ constará de un folder con los siguientes elementos y en este orden:
 - Una hoja con tu nombre, grupo y las rúbricas adecuadas para calificar el trabajo.
 - Las revisiones a las que fue sometido el trabajo a lo largo del semestre.
 - Una copia engrapada del trabajo final (solo trabajo escrito).
-- Una copia digital del trabajo en un CD o DVD correctamente rótulado con tu nombre y tu grupo.
+- Una copia digital del trabajo en un CD o DVD correctamente rotulado con tu nombre y tu grupo.
 
 **Importante**: No serán admisibles estos documentos si  tienen textos escritos a mano por parte
 del alumno.
@@ -110,13 +110,18 @@ La calificación del curso se obtendrá de la siguiente manera:
    otra  persona   asistente  que  no   conozcas  y  grabarás  en   video  un  diálogo   que  tú
    iniciarás.
 
-3.  Asiste a la [[https://site.inali.gob.mx/Micrositios/flin_2018/][FLIN 2018]] del 9 al 12 de agosto.  Mientras disfrutas de la feria tomarás nota de
+3. Asiste a la [[https://site.inali.gob.mx/Micrositios/flin_2018/][FLIN 2018]] del 9 al 12 de agosto.  Mientras disfrutas de la feria tomarás nota de
    los eventos  que acontecen  a tu  alrededor. Posteriormente escribirás  sobre los  hechos que
    viviste durante la feria, seleccionarás un título llamativo y breve para tu texto. Durante el
    texto  darás cuenta  de los  hechos de  forma clara  y posteriormente  darás tu  percepción u
    opinión sobre los mismos.
 
-3. Podrán agregarse actividades o tareas a lo largo del semestre.
+4. Busca  la canción  de "Chilanga  Banda" compuesta  por Jaime  López.  Remplazarás  todas las
+   palabras  con un  registro propio  de la  CDMX para  crear una  "traducción".  Posteriormente
+   crearás una lista  donde expliques el significado de  cada una de las palabras  de la canción
+   original.
+
+5. Podrán agregarse actividades o tareas a lo largo del semestre.
 
 Las actividades optativas  podrán formar parte de  la clase, o bien podrán  ser solicitadas para
 algún examen final.  También serán la única  forma para considerar un aumento de calificación al
@@ -176,7 +181,7 @@ proporcionar dicha información durante el semestre.
 
 La última clase del semestre, se cerrará el curso y se dará la orientación sobre tu calificación
 si  así   lo  solicitas,  en  ninguna   otra  clase  a  lo   largo  del  curso  se   dará  dicha
-orientación. Adicionalmente, se dará información sobre las fechas de examenes finales.
+orientación. Adicionalmente, se dará información sobre las fechas de exámenes finales.
 
 Deberás presentar examen  final si no obtuviste una calificación  aprobatoria (6,7,8,9,10) en el
 curso. Toma en cuenta  que no es posible renunciar o subir tu  calificación. Solo podrás obtener
