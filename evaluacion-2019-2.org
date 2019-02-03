@@ -39,7 +39,7 @@ ver los horarios en la puerta del salón.
 
 *** Participaciones
 
-Durante  el  semestre  se  no  tomará  en  cuenta  asistencia  ni  puntualidad  como  método  de
+Durante  el  semestre  no  se  tomará  en  cuenta  asistencia  ni  puntualidad  como  método  de
 penalización.  Puedes asistir, llegar  y marcharte a la hora que quieras.   Sin embargo el curso
 es presencial, las participaciones determinan tu calificación. Una participación puede ser:
 
@@ -49,8 +49,9 @@ es presencial, las participaciones determinan tu calificación. Una participaci�
   profesor un escrito con el guión que  seguiste para realizar tu exposición (una cuartilla), al
   reverso de la hoja, deberán estar impresas las rúbricas R2 y R4.
 - Apuntes de clase. Cada sesión podrás solicitar tu asistencia. Podrás realizar un apunte de una
-  cuartilla sobre la  información de la sesión.  Dichos apuntes podrás entregarlos  al final del
-  curso, serán revisados por el profesor para ser considerados como participaciones.
+  cuartilla sobre la información de la sesión. No olvides solicitar tu asistencia en cada clase.
+  Dichos apuntes podrás entregarlos al final del curso, serán revisados por el profesor para ser
+  considerados como participaciones.
 - Aportaciones en clase. Cada sesión podrás solicitar tu participación junto con tu asistencia.
 - Entregar  actividades optativas  que  fortalezcan tu  aprendizaje. Es  una  lista variable  de
   tareas.
@@ -68,7 +69,7 @@ es presencial, las participaciones determinan tu calificación. Una participaci�
    otra  persona   asistente  que  no   conozcas  y  grabarás  en   video  un  diálogo   que  tú
    iniciarás.
 
-3. Asiste al  [[https://www.facebook.com/concientiza.participatransforma][COPyT]] el día viernes 15  de febrero.  Disfruta de la  pelicula "Amor desmontable",
+3. Asiste al  [[https://www.facebook.com/concientiza.participatransforma][COPyT]] el día viernes 15  de febrero.  Disfruta de la  película "Amor desmontable",
    escribe un  texto con  los hechos  que viste  en la  película.  El  texto incluirá  un título
    llamativo y breve. [[file:im/COPyT.jpeg][Cartel del evento]].
 
