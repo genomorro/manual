@@ -87,9 +87,22 @@ es presencial, las participaciones determinan tu calificación. Una participaci�
    video. Posteriormente, escribe una  narración detallada de la pelea que  ocurre en la segunda
    mitad del video, incluido el dialogo entre los adversarios.
 
-8. Completa y entrega el ejercicio realizado en clase en el que se analiza el juego del gato.
+7. Completa y entrega el ejercicio realizado en clase en el que se analiza el juego del gato.
 
-7. Podrán agregarse actividades o tareas a lo largo del semestre.
+8. Completa  y entrega  el ejercicio  realizado en  clase sobre  la identificación  de oraciones
+   tópico y creación de párrafos.
+
+9. Escoge un artículo de la revista de Ingeniería, en la introducción ubica los tres movimientos
+   del   método   CARS   y   explica   como   es  que   se   resuelve   cada   uno   de   dichos
+   movimientos.  Posteriormente,  ubica  en  el  texto  el  marco  referencial,  marco  teórico,
+   metodología e hipótesis, resultados y la discusión  de los mismos. Justifica si alguno de los
+   elementos anteriores fue omitido.
+
+10.  Escribe  un ensayo  breve (2  cuartillas) sobre  una infección  zombie.  Puedes  tomar como
+    referencia  artículos como  [[https://arxiv.org/abs/1802.10443][Modeling our  survival  in a  zombie apocalypse]]  o [[https://www.math.upenn.edu/~ted/203S10/Projects/Zombies/Zombies.pdf][When  zombies
+    attack!: mathematical modelling of an outbreak of zombie infection]].
+
+11. Podrán agregarse actividades o tareas a lo largo del semestre.
 
 Las actividades optativas  podrán formar parte de  la clase, o bien podrán  ser solicitadas para
 algún examen final.  También serán la única  forma para considerar un aumento de calificación al
