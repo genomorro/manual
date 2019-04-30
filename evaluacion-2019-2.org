@@ -72,6 +72,8 @@ es presencial, las participaciones determinan tu calificación. Una participaci�
 3. Asiste al  [[https://www.facebook.com/concientiza.participatransforma][COPyT]] el día viernes 15  de febrero.  Disfruta de la  película "Amor desmontable",
    escribe un  texto con  los hechos  que viste  en la  película.  El  texto incluirá  un título
    llamativo y breve. [[file:im/COPyT.jpeg][Cartel del evento]].
+   - Opción:  Asiste a  una actividad  en Paralelo  de  la Jornada  de las  ciencias Sociales  y
+     Humanidades. Se llevará a cabo el día 3 de mayo. Realiza una crónica.
 
 4. Verás  los videos de Star  Wars del canal  "Te lo resumo"  (3 videos) en Youtube.   Si tienes
    inconveniente con usar dicha plataforma  puedes usar opcionalmente [[https://invidio.us/][Invidious]]. Identificarás y
@@ -85,7 +87,7 @@ es presencial, las participaciones determinan tu calificación. Una participaci�
 6. Basado  únicamente en  [[https://invidio.us/watch?v=Fq5dAguO34E][el video  del enlace]]  haz una lista  ordenada con  los eventos  que se
    mencionan en la conversación que se lleva a cabo en los primeros dos minutos y medio de dicho
    video. Posteriormente, escribe una  narración detallada de la pelea que  ocurre en la segunda
-   mitad del video, incluido el dialogo entre los adversarios.
+   mitad del video, incluido el diálogo entre los adversarios.
 
 7. Completa y entrega el ejercicio realizado en clase en el que se analiza el juego del gato.
 
@@ -93,16 +95,20 @@ es presencial, las participaciones determinan tu calificación. Una participaci�
    tópico y creación de párrafos.
 
 9. Escoge un artículo de la revista de Ingeniería, en la introducción ubica los tres movimientos
-   del   método   CARS   y   explica   como   es  que   se   resuelve   cada   uno   de   dichos
-   movimientos.  Posteriormente,  ubica  en  el  texto  el  marco  referencial,  marco  teórico,
-   metodología e hipótesis, resultados y la discusión  de los mismos. Justifica si alguno de los
-   elementos anteriores fue omitido.
+   del  método  CARS  y explica  como  es  que  se  resuelve  cada uno  de  dichos  movimientos.
+   Posteriormente,  ubica  en  el  texto  el  marco referencial,  marco  teórico,  el  método  o
+   desarrollo, resultados  y la discusión  de los mismos. Justifica  si alguno de  los elementos
+   anteriores fue omitido.
 
-10.  Escribe  un ensayo  breve (2  cuartillas) sobre  una infección  zombie.  Puedes  tomar como
-    referencia  artículos como  [[https://arxiv.org/abs/1802.10443][Modeling our  survival  in a  zombie apocalypse]]  o [[https://www.math.upenn.edu/~ted/203S10/Projects/Zombies/Zombies.pdf][When  zombies
-    attack!: mathematical modelling of an outbreak of zombie infection]].
+10. Escribe un ensayo breve (2 cuartillas  máximo) sobre cómo sobrevivir a una pandemia zombie.
+   Puedes tomar como referencia  artículos como [[https://arxiv.org/abs/1802.10443][Modeling our survival in  a zombie apocalypse]] o
+   [[https://www.math.upenn.edu/~ted/203S10/Projects/Zombies/Zombies.pdf][When zombies attack!: mathematical modelling of an outbreak of zombie infection]].
 
-11. Podrán agregarse actividades o tareas a lo largo del semestre.
+11. Asiste a una conferencia de la Jornada  de las ciencias Sociales y Humanidades. Se llevará a
+    cabo el  día 3  de mayo.  Compara  los elementos  vistos en clase  sobre como  presentar una
+    conferencia con la presentación que haz visto.
+
+12. Podrán agregarse actividades o tareas a lo largo del semestre.
 
 Las actividades optativas  podrán formar parte de  la clase, o bien podrán  ser solicitadas para
 algún examen final.  También serán la única  forma para considerar un aumento de calificación al
