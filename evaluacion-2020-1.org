@@ -1,0 +1,274 @@
+#+TITLE:        Evaluación Redacción y exposición de temas de ingeniería
+#+AUTHOR:       Edgar Uriel Domínguez Espinoza
+#+EMAIL:        edgar_uriel84 AT genomorro DOT name
+#+DATE:         2020
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="http://gongzhitaao.org/orgcss/org.css"/>
+#+LANGUAGE:     es
+
+* Evaluación para el semestre 2020-1
+
+** Guía del curso
+
+El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
+el único  que tiene la  obligación de revisar  cuales son dichos  elementos y asegurarte  que el
+profesor los explique durante la clase.
+
+La guía esta disponible en  formato [[file:assets/manual.pdf][PDF]] y [[file:manual.html][HTML]]. Es recomendable que tengas  una copia de la guía
+durante la clase.
+
+Las fuentes  de este sitio  pueden encontrarse en [[https://gitlab.com/genomorro/manual][gitlab]],  eres libre de  copiarlo, consultarlo,
+modificarlo, corregirlo.
+
+** Elementos del curso
+
+*** Horarios de clase
+
+Los horarios de clase son:
+
+1. Lunes y jueves 10:00 a 13:00 (solo alumnos de nuevo ingreso). Salón I303
+2. Lunes y miércoles 15:00 a 17:00. Salón A202
+3. Lunes y miércoles 17:00 a 19:00. Salón Y101
+
+Al primer horario solo pueden asistir alumnos de nuevo ingreso.
+
+En  cualquier caso:  **Memoriza  tu número  de  grupo**.  El  grupo al  que  perteneces te  será
+solicitado en los exámenes  u otras actividades y no será permitido  preguntarlo ni levantarse a
+ver los horarios en la puerta del salón.
+
+*** Participaciones
+
+Durante  el  semestre  no  se  tomará  en  cuenta  asistencia  ni  puntualidad  como  método  de
+penalización.  Puedes asistir, llegar  y marcharte a la hora que quieras.   Sin embargo el curso
+es presencial, las participaciones determinan tu calificación. Una participación puede ser:
+
+- Exposición ante el  grupo. Una buena exposición puede sumar  hasta tres participaciones. Puede
+  realizarse durante los primeros minutos de clase (a partir de la llegada del profesor), podrás
+  solicitar la  palabra para exponer  sobre alguna  lectura.  Requisitos para  la participación:
+  Deberás entregar al profesor un escrito con  el guión que seguiste para realizar tu exposición
+  (una cuartilla), al reverso de la hoja, deberán estar impresas las rúbricas R2 y R4.
+- Exámenes y actividades de clase.
+- Aportaciones  en  clase.   Cada  sesión  podrás solicitar  tu  participación.   El  número  de
+  aportaciones será llevado por el profesor.
+- Entregar  actividades optativas  que  fortalezcan tu  aprendizaje. Es  una  lista variable  de
+  tareas.
+
+*** Actividades optativas
+
+Las actividades optativas  podrán formar parte de  la clase, o bien podrán  ser solicitadas para
+algún examen final.  También serán la única  forma para considerar un aumento de calificación al
+final del semestre.
+
+
+1. Leerás el libro:  Real Academia Española y Asociación de Academias de  la Lengua Española, El
+   buen uso  del español. Madrid: Espasa,  2013.  Podrás exponer  un resumen de un  apartado del
+   libro en clase.
+
+2. Leerás el libro de ortografía: Real Academia  Española y Asociación de Academias de la Lengua
+   Española,  Ortografía básica  de la  lengua española.  Madrid: Espasa,  2012.  Elaborarás  un
+   acordeón en una hoja blanca.  Un acordeón de calidad puede llevarte varios intentos, por esta
+   razón puedes solicitar la revisión de tu acordeón durante el semestre.
+  
+3. Debes ir a los eventos programados en la  Agenda cultural de la FI. Escribirás un texto sobre
+   el evento  en una cuartilla.  Además, deberás  presentar una prueba  de tu asistencia  a cada
+   evento. Puedes solicitar la agenda en la DCSyH.
+
+4. Podrán agregarse actividades o tareas a lo largo del semestre.
+   
+*** Participaciones negativas
+
+Las participaciones  pueden ser negativas en  caso de un error  total. Un error total  puede ser
+aunque no se limita a un comentario erróneo sobre un tema previamente visto, brindar información
+pérfida al grupo, negarse sin motivo aparente a brindar  ayuda a la clase o brindar un texto con
+numerosos errores (Ver rúbrica R2).
+
+En las exposiciones,  un error o vacío  del expositor evidenciado por un  espectador podrá hacer
+que el espectador gane las participaciones correspondientes.
+
+En el caso de los exámenes en clase, en caso de ausencia contará como participación negativa.
+
+Ninguna revisión es motivo de una participación negativa.
+
+*** Calificación
+
+Al final del curso el alumno deberá entregar  toda prueba de sus participaciones de la siguiente
+manera:
+
+- Un CD debidamente rotulado con los datos del  alumno y su grupo, que contendrá el material que
+  el  alumno realizó,  incluidos  los revisados  por  el  profesor durante  el  semestre. El  CD
+  contendrá tres  carpetas, una por cada  forma de participar: Exámenes,  actividades optativas,
+  exposiciones.
+
+El alumno debe tomar  en cuenta que la ausencia de un examen  es equivalente a una participación
+negativa.
+
+El profesor contará las participaciones registradas en el CD, sumará las aportaciones de clase y
+restará las participaciones negativas,  de esta forma se tendrá la  cuantificación total de cada
+alumno
+
+#  y  se procederá a asignar  las calificaciones según el  percentil en el que  se encuentre
+# (función percentil en hoja de cálculo):
+
+# |-----------+--------------|
+# | Percentil | Calificación |
+# |-----------+--------------|
+# | >=P20     |            6 |
+# | >=P40     |            7 |
+# | >=P60     |            8 |
+# | >=P80     |            9 |
+# | >=P100    |           10 |
+# |-----------+--------------|
+
+# y  se  procederá  a  asignar  las  calificaciones según  la  descripción  estadística  sobre  el
+# rendimiento del grupo. Se tomará en cuenta la media aritmética y la desviación estándar:
+
+# |--------------+--------------|
+# | Desviación   | Calificación |
+# |--------------+--------------|
+# | >=Media - 2s |            6 |
+# | >=Media - S  |            7 |
+# | >=Media      |            8 |
+# | >=Media + s  |            9 |
+# | >=Media + 2s |           10 |
+# |--------------+--------------|
+
+*** Exámenes finales
+
+Tienes derecho  a dos exámenes  finales.
+
+- El primer examen  final corresponde a una prueba  completa de los temas vistos a  lo largo del
+  semestre.   El examen  es a  documento abierto  (libros, apuntes,  copias, etc.),  pero no  se
+  permitirá el  uso de dispositivos  electrónicos.  La calificación  del examen se  obtiene como
+  resultado de sumar los aciertos y restar los errores presentes.
+
+- El segundo  examen final corresponde a  una prueba que  tiene como base la  actividad optativa
+  número uno  y dos. Este  examen es individual  y el único  documento permitido es  el producto
+  obtenido de la realización de dichas  actividades.  **Requisito**: Deberás llevar la actividad
+  optativa número dos en original y copia.
+
+*** Otros detalles
+
+Todo trabajo puede  ser revisado una vez  por el profesor previo a  su entrega. Preferentemente,
+usa hojas de reciclaje para las revisiones, tacha siempre el lado que no debe ser leído.
+
+Las entregas finales  deben ser impresas en  hojas limpias. No deberán contener  texto escrito a
+mano. No olvides colocar tu nombre y tu grupo.
+
+** Dinámica del curso (ejemplo)
+
+Al asistir a clase estarás comprometido a  seguir los lineamientos presentes en este documento y
+otros que te serán dictados por el profesor el primer día de clases.
+
+El curso es mayoritariamente teórico, los ejercicios  que debes realizar para entender la teoría
+están incluidos en la forma de evaluar: realiza tus actividades continuamente.
+
+Al hacer un aporte a  la clase se te tomará en cuenta como  participación solo si estás inscrito
+en el grupo en el que hiciste el aporte, es decir, si estás inscrito en el grupo 19 pero asistes
+a la  clase del  grupo 13 no  se tomarán  en cuenta estas  participaciones. Debes  solicitar tus
+participaciones diez minutos antes de finalizar la sesión, es tu responsabilidad.
+
+Finalmente  puedes obtener  participaciones cuando  se  realcen ciertas  actividades durante  el
+curso.  Las  actividades solo  se convierten  en participación si  son aprobatorias  y/o guardas
+evidencia de su realización, hazlas con cuidado.
+
+Toda actividad  para su revisión, será  recibida hasta dos  semanas antes de finalizar  el curso
+(viernes 8 de  noviembre).  Lo anterior con el  propósito de tener tiempo de leer  y comentar su
+avance.  Estas  revisiones te  serán devueltas  con las anotaciones  pertinentes tan  pronto sea
+posible.
+
+La entrega final del CD  de evidencias será a partir del lunes 11 de  noviembre y hasta la fecha
+del segundo examen final. Si no entregas el CD solo se tomará en cuenta tu aportación en clase y
+se restarán las participaciones según sea el caso (por ejemplo, exámenes).
+
+Es tu obligación estar al pendiente de tu calificación durante todo el semestre, esto significa
+que debes ser consciente de lo que haces para aprobar la materia. El profesor no está obligado a
+proporcionar dicha información  durante el semestre y  la única anotación que  llevará serán las
+aportaciones en clase.
+
+La última clase del semestre, se cerrará el curso y se dará la orientación sobre tu calificación
+si  así   lo  solicitas,  en  ninguna   otra  clase  a  lo   largo  del  curso  se   dará  dicha
+orientación. Adicionalmente, se dará información sobre las fechas de exámenes finales.
+
+Deberás presentar examen  final si no obtuviste una calificación  aprobatoria (6,7,8,9,10) en el
+curso. Toma en cuenta  que no es posible renunciar o subir tu  calificación. Solo podrás obtener
+NP si  no hay  elementos para  calificarte (participaciones igual  a cero).
+
+** Rúbricas
+
+*** R1
+
+| Criterio                       | ✓ |
+|--------------------------------+---|
+| Tema justificado correctamente |   |
+| Movimiento 1 del método CARS   |   |
+| Movimiento 2 del método CARS   |   |
+| Movimiento 3 del método CARS   |   |
+| Presentación en Latex          |   |
+
+*** R2
+
+La calificación esta determinada por los errores anotados en la siguiente tabla:
+
+| Criterio                      | Errores | Puntos menos | Otras observaciones acerca la puntuación |
+|-------------------------------+---------+--------------+------------------------------------------|
+| Coherencia y cohesión         |         |              |                                          |
+| Longitud                      |         |              |                                          |
+| Oraciones tópico              |         |              |                                          |
+| Léxico (variedad y selección) |         |              |                                          |
+| Referentes                    |         |              |                                          |
+| Concordancias                 |         |              |                                          |
+| Conjugación T.A.M.            |         |              |                                          |
+| Separación sintáctica         |         |              |                                          |
+| Citas y bibliografía          |         |              |                                          |
+| Norma ortográfica             |         |              |                                          |
+
+La calificación máxima es diez.  Si se cometen tres errores en algún criterio se resta un punto,
+por cada error posterior se restará medio punto. Un error puede implicar la existencia de otro.
+
+*** R3
+
+| Criterio                         | ✓ |
+|----------------------------------+---|
+| Tema justificado correctamente   |   |
+| Presentó un guión o escaleta     |   |
+| Presentó un texto de desarrollo  |   |
+| La voz en el video es del alumno |   |
+| El alumno está en el video       |   |
+
+*** R4
+
+La calificación esta determinada por los errores anotados en la siguiente tabla:
+
+| Criterio             | Errores | Puntos menos | Otras observaciones acerca de la puntuación |
+|----------------------+---------+--------------+---------------------------------------------|
+| Presentación         |         |              |                                             |
+| Registro             |         |              |                                             |
+| Dicción y entonación |         |              |                                             |
+| Contexto y material  |         |              |                                             |
+| Información          |         |              |                                             |
+| Relevancia           |         |              |                                             |
+| Claridad             |         |              |                                             |
+| Bibliografía         |         |              |                                             |
+| Edición de video     |         |              |                                             |
+| Cierre               |         |              |                                             |
+
+La calificación máxima es diez.  Si se cometen tres errores en algún criterio se resta un punto,
+por cada error posterior se restará medio punto. Un error puede implicar la existencia de otro.
+
+* Otros elementos útiles para tu calificación
+
+** Latex
+
+Latex es un lenguaje  de marcado útil para escribir textos. Puedes aprender  Latex por tu cuenta
+viendo videos en internet o leyendo manuales. Si  no quieres instalar Latex en tu computadora te
+recomiendo usar [[https://www.overleaf.com][Overleaf]] que es un buen editor en línea.
+
+Algunos recursos recomendados son:
+
+- [[http://www.ingenieria.unam.mx/dcsyhfi/temarios/redaccion_y_exposicion_de_temas_de_ingenieria2016.pdf][Temario oficial de la asignatura]]
+- [[https://en.wikibooks.org/wiki/LaTeX][Guía de Wikibooks sobre Latex]] (en inglés)
+- Libro: [[file:assets/Edicion_de_textos_cientificos_LaTeX.pdf][Edición de textos científicos con Latex]]
+
+* Seguridad
+
+La Comisión Local de Seguridad de la FI solicita la lectura de [[file:assets/acciones_cls_fi.pdf][las acciones de la CLS]].
