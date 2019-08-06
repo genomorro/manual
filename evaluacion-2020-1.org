@@ -144,7 +144,7 @@ rendimiento del grupo. Se tomará en cuenta la media aritmética y la desviació
 | Desviación   | Calificación |
 |--------------+--------------|
 | >=Media - 2s |            6 |
-| >=Media - S  |            7 |
+| >=Media - s  |            7 |
 | >=Media      |            8 |
 | >=Media + s  |            9 |
 | >=Media + 2s |           10 |
