@@ -44,9 +44,10 @@ es presencial, las participaciones determinan tu calificación. Una participaci�
 
 - Exposición ante el  grupo. Una buena exposición puede sumar  hasta tres participaciones. Puede
   realizarse durante los primeros minutos de clase (a partir de la llegada del profesor), podrás
-  solicitar la  palabra para exponer  sobre alguna  lectura.  Requisitos para  la participación:
-  Deberás entregar al profesor un escrito con  el guión que seguiste para realizar tu exposición
-  (una cuartilla), al reverso de la hoja, deberán estar impresas las rúbricas R2 y R4.
+  solicitar  la  palabra  para  exponer   sobre  alguna  lectura  (ver  actividades  optativas).
+  Requisitos para  la participación: Deberás  entregar al profesor un  escrito con el  guión que
+  seguiste para  realizar tu exposición  (una cuartilla), al reverso  de la hoja,  deberán estar
+  impresas las rúbricas R2 y R4.
 - Exámenes y actividades de clase.
 - Aportaciones  en  clase.   Cada  sesión  podrás solicitar  tu  participación.   El  número  de
   aportaciones será llevado por el profesor.
@@ -62,19 +63,34 @@ final del semestre.
 
 1. Leerás el libro:  Real Academia Española y Asociación de Academias de  la Lengua Española, El
    buen uso  del español. Madrid: Espasa,  2013.  Podrás exponer  un resumen de un  apartado del
-   libro en clase.
+   libro en clase. (3P por exposición)
 
 2. Leerás el libro de ortografía: Real Academia  Española y Asociación de Academias de la Lengua
    Española,  Ortografía básica  de la  lengua española.  Madrid: Espasa,  2012.  Elaborarás  un
    acordeón en una hoja blanca.  Un acordeón de calidad puede llevarte varios intentos, por esta
-   razón puedes solicitar la revisión de tu acordeón durante el semestre.
+   razón puedes solicitar la revisión de tu acordeón durante el semestre. (3P)
   
 3. Debes ir a los eventos programados en la  Agenda cultural de la FI. Escribirás un texto sobre
    el evento  en una cuartilla.  Además, deberás  presentar una prueba  de tu asistencia  a cada
-   evento. Puedes solicitar la agenda en la DCSyH.
+   evento. Puedes solicitar la agenda en la DCSyH. (1P por evento)
 
-4. Podrán agregarse actividades o tareas a lo largo del semestre.
+4. Publica un artículo en la revista Nigromante. (5P)
+
+5. Contestar todas las semanas de la Bitacora FI. Solo alumnos del grupo 13. (3P)
+
+6. Elaboración de exámenes.  El alumno después  de cada clase deberá escribir una pregunta sobre
+   alguno de los temas vistos en clase.  El alumno presentará dos hojas impresas (no se aceptará
+   si está hecho a mano), la primera tendrá el  nombre del alumno que ha redactado el examen, la
+   pregunta y  su respuesta;  la segunda  tendrá solamente el  nombre del  alumno redactor  y la
+   pregunta. (1P por examen)
+
+7. Gana el primer lugar en el concurso [[http://copadi.fi-c.unam.mx/cuentacuentos/][Cuenta cuentos 2019]]. (100P)
+
+8. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+   la semana.
    
+Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
+
 *** Participaciones negativas
 
 Las participaciones  pueden ser negativas en  caso de un error  total. Un error total  puede ser
@@ -85,9 +101,26 @@ numerosos errores (Ver rúbrica R2).
 En las exposiciones,  un error o vacío  del expositor evidenciado por un  espectador podrá hacer
 que el espectador gane las participaciones correspondientes.
 
-En el caso de los exámenes en clase, en caso de ausencia contará como participación negativa.
-
 Ninguna revisión es motivo de una participación negativa.
+
+**** Exámenes
+
+En el caso de  los exámenes en clase, una ausencia contará como  participación negativa. En caso
+de detectar dos  o más exámenes iguales  se procederá a la  anulación de los mismos  pero no una
+participación negativa.
+
+Los exámenes se llevarán a cabo de la siguiente manera:
+
+- El alumno traerá preparado un examen de una pregunta.
+- El profesor recogerá la hoja 2 de cada examen y las repartirá aleatoriamente a los alumnos.
+- Cada alumno  contestará un examen  y anotará su  nombre en él. Por  lo tanto el  examen tendrá
+  escrito el nombre del alumno que redacta y el nombre del alumno que contesta.
+- El examen regresará al alumno redactor quien lo calificará, (correcto/incorrecto).
+- El alumno (redactor) entregará ambas hojas al profesor.
+- El profesor revisará los exámenes. 
+
+El alumno  obtendrá una participación si  y solo si  redactó un examen correctamente  y contestó
+otro del mismo modo.
 
 *** Calificación
 
@@ -96,15 +129,27 @@ manera:
 
 - Un CD debidamente rotulado con los datos del  alumno y su grupo, que contendrá el material que
   el  alumno realizó,  incluidos  los revisados  por  el  profesor durante  el  semestre. El  CD
-  contendrá tres  carpetas, una por cada  forma de participar: Exámenes,  actividades optativas,
-  exposiciones.
+  contendrá  tres  carpetas,   una  por  cada  forma  de  participar:   Exámenes  (elaborados  y
+  contestados), actividades optativas, exposiciones.
 
 El alumno debe tomar  en cuenta que la ausencia de un examen  es equivalente a una participación
 negativa.
 
 El profesor contará las participaciones registradas en el CD, sumará las aportaciones de clase y
 restará las participaciones negativas,  de esta forma se tendrá la  cuantificación total de cada
-alumno
+alumno y  se procederá a  asignar las calificaciones según  la descripción estadística  sobre el
+rendimiento del grupo. Se tomará en cuenta la media aritmética y la desviación estándar:
+
+|--------------+--------------|
+| Desviación   | Calificación |
+|--------------+--------------|
+| >=Media - 2s |            6 |
+| >=Media - S  |            7 |
+| >=Media      |            8 |
+| >=Media + s  |            9 |
+| >=Media + 2s |           10 |
+|--------------+--------------|
+
 
 #  y  se procederá a asignar  las calificaciones según el  percentil en el que  se encuentre
 # (función percentil en hoja de cálculo):
@@ -118,19 +163,6 @@ alumno
 # | >=P80     |            9 |
 # | >=P100    |           10 |
 # |-----------+--------------|
-
-# y  se  procederá  a  asignar  las  calificaciones según  la  descripción  estadística  sobre  el
-# rendimiento del grupo. Se tomará en cuenta la media aritmética y la desviación estándar:
-
-# |--------------+--------------|
-# | Desviación   | Calificación |
-# |--------------+--------------|
-# | >=Media - 2s |            6 |
-# | >=Media - S  |            7 |
-# | >=Media      |            8 |
-# | >=Media + s  |            9 |
-# | >=Media + 2s |           10 |
-# |--------------+--------------|
 
 *** Exámenes finales
 
@@ -163,11 +195,14 @@ El curso es mayoritariamente teórico, los ejercicios  que debes realizar para e
 están incluidos en la forma de evaluar: realiza tus actividades continuamente.
 
 Al hacer un aporte a  la clase se te tomará en cuenta como  participación solo si estás inscrito
-en el grupo en el que hiciste el aporte, es decir, si estás inscrito en el grupo 19 pero asistes
-a la  clase del  grupo 13 no  se tomarán  en cuenta estas  participaciones. Debes  solicitar tus
+en el grupo en el que hiciste el aporte, es decir, si estás inscrito en el grupo 34 pero asistes
+a la  clase del  grupo 37 no  se tomarán  en cuenta estas  participaciones. Debes  solicitar tus
 participaciones diez minutos antes de finalizar la sesión, es tu responsabilidad.
 
-Finalmente  puedes obtener  participaciones cuando  se  realcen ciertas  actividades durante  el
+Es  posible realizar  exámenes durante  la clase.  Es tu  deber estar  preparado. El  consejo es
+revisar tus apuntes minutos antes de entrar a clase.
+
+Finalmente, puedes  obtener participaciones  cuando se realicen  ciertas actividades  durante el
 curso.  Las  actividades solo  se convierten  en participación si  son aprobatorias  y/o guardas
 evidencia de su realización, hazlas con cuidado.
 
