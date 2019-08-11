@@ -1,3 +1,5 @@
+image: moul/emacs
+
 pages:
    stage: deploy
    script:
