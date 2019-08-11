@@ -10,6 +10,7 @@ pages:
      - cp evaluacion-2020-1.html .public/index.html
      - cp papers*.html .public
      - cp sitemap.xml .public
+     - cp robots.txt .public
      - mv .public public 
    artifacts:
      paths:
