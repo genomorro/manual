@@ -1,0 +1,1243 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<!-- 2018-07-13 vie 20:17 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manual de Redacción y exposición de temas de ingeniería</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Edgar Uriel Domínguez Espinoza">
+<meta name="description" content="Manual de la materia Redacción y exposición de temas de ingeniería, FI UNAM"
+>
+<meta name="keywords" content="redaccion, exposicion, ortografia">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="styles/readtheorg/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="styles/readtheorg/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="styles/readtheorg/js/readtheorg.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Manual de Redacción y exposición de temas de ingeniería</h1>
+<div id="table-of-contents">
+<h2>&Iacute;ndice</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org904b1f7">1. Comunicación y lenguaje</a>
+<ul>
+<li><a href="#org742fcf4">1.1. Proceso de comunicación</a></li>
+<li><a href="#org5f26430">1.2. Lenguaje: definición, tipos y características</a></li>
+<li><a href="#org05f24a8">1.3. Relación entre lenguaje, lengua y habla</a></li>
+<li><a href="#org9f4b587">1.4. Diferencias entre lengua oral y lengua escrita</a></li>
+<li><a href="#orgb339d84">1.5. Estructura y función gramatical de palabras y oraciones</a></li>
+</ul>
+</li>
+<li><a href="#org1fa2348">2. Estructura de un texto escrito</a>
+<ul>
+<li><a href="#org81acfc9">2.1. Texto: estructura y propiedades. Marcadores discursivos</a></li>
+<li><a href="#orgd84b557">2.2. Párrafo: características y clasificación</a></li>
+<li><a href="#orge3abca8">2.3. Tipos de textos descriptivos-argumentativos: informe técnico, artículo científico, ensayo y tesis</a></li>
+</ul>
+</li>
+<li><a href="#org799dd4b">3. La redacción</a>
+<ul>
+<li><a href="#orgb361dd1">3.1. Características de una buena redacción</a></li>
+<li><a href="#orgd1cb4d0">3.2. Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación</a></li>
+<li><a href="#orgc9d8302">3.3. Errores y deficiencias comunes en la redacción</a></li>
+<li><a href="#org1502d8e">3.4. Reglas básicas de ortografía</a></li>
+</ul>
+</li>
+<li><a href="#org8190c53">4. La exposición oral</a>
+<ul>
+<li><a href="#org59c112d">4.1. Pautas para una expresión adecuada</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org904b1f7" class="outline-2">
+<h2 id="org904b1f7"><span class="section-number-2">1</span> Comunicación y lenguaje</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org742fcf4" class="outline-3">
+<h3 id="org742fcf4"><span class="section-number-3">1.1</span> Proceso de comunicación</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+La comunicación es el cálculo constante de intenciones. El modelo inferencial de la comunicación
+consiste en  la evaluación  de hipótesis,  la que  mejor satisface  ciertas expectativas  de los
+hablantes  en el  intercambio  comunicativo se  selecciona como  significado  del mensaje.  Leer
+[<a href="#grice1975logic">Grice, 1975</a>]</p>
+
+<p>
+Los elementos del circuito comunicativo son:
+</p>
+<ul class="org-ul">
+<li>Emisor. Ligado a la función emotiva.</li>
+<li>Receptor. Ligado a la función conativa.</li>
+<li>Contexto. Ligado a la función referencial.</li>
+<li>Código. Ligado a la función metalingüística.</li>
+<li>Contacto. Ligado a la función fática.</li>
+<li>Mensaje. Ligado a la función poética.</li>
+</ul>
+
+
+<div class="figure">
+<p><img src="im/circuito.png" alt="circuito.png">
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga0056aa" class="outline-4">
+<h4 id="orga0056aa"><span class="section-number-4">1.1.1</span> Principio de cooperación</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<p>
+El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en
+una serie de máximas que pueden o no ser acatadas.
+</p>
+
+<ul class="org-ul">
+<li>Cantidad (informatividad),</li>
+<li>Calidad (verdad),</li>
+<li>Relación (relevancia),</li>
+<li>Manera (claridad).</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org5f26430" class="outline-3">
+<h3 id="org5f26430"><span class="section-number-3">1.2</span> Lenguaje: definición, tipos y características</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden de contenidos y
+orden de la expresión,  esto hace al lenguaje biplanar.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+</p>
+</div>
+<div id="outline-container-orga08bb1b" class="outline-4">
+<h4 id="orga08bb1b"><span class="section-number-4">1.2.1</span> Características</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<ul class="org-ul">
+<li>Congénito: Se nace con la capacidad.</li>
+<li>Relativa inmutabilidad: No se altera con el tiempo.</li>
+<li>Universalidad: No existe pueblo que no tenga esta facultad.</li>
+<li>No puede ser olvidado o aprendido.</li>
+<li>Indiferencia ante  cualquier tipo de  expresión: La facultad  del lenguaje tendrá  los canales
+para actualizarse sin importar la lengua.</li>
+<li>Límites: A las posibilidades de asociar expresión y contenido. La forma de la gramática de las
+lenguas la impone la naturaleza del lenguaje.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org05f24a8" class="outline-3">
+<h3 id="org05f24a8"><span class="section-number-3">1.3</span> Relación entre lenguaje, lengua y habla</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+El lenguaje es la capacidad. La lengua es el  producto social de la facultad del lenguaje, es la
+suma de todas las  imágenes verbales almacenadas en todos los individuos. El  habla es la lengua
+en uso.
+</p>
+</div>
+</div>
+<div id="outline-container-org9f4b587" class="outline-3">
+<h3 id="org9f4b587"><span class="section-number-3">1.4</span> Diferencias entre lengua oral y lengua escrita</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+La lengua escrita es la expresión psíquica directa del pensamiento.
+</p>
+</div>
+</div>
+<div id="outline-container-orgb339d84" class="outline-3">
+<h3 id="orgb339d84"><span class="section-number-3">1.5</span> Estructura y función gramatical de palabras y oraciones<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup></h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+<div id="outline-container-org3180c41" class="outline-4">
+<h4 id="org3180c41"><span class="section-number-4">1.5.1</span> Terminología</h4>
+<div class="outline-text-4" id="text-1-5-1">
+<ul class="org-ul">
+<li>Morfología: Afijos que toma (morfemas).</li>
+<li>Distribución: Posición sintáctica del elemento. A que otros elementos modifica.</li>
+<li>Función sintáctica: Relación particular que el elemento tiene respecto a otros.</li>
+<li>Constituyente: Elemento  que ayuda a  integrar un elemento  más complejos nivel  sintáctico. Sus
+elementos no se pueden separar.</li>
+<li>Argumento:  Número de  participantes que  requiere  un elemento  (principalmente verbos)  para
+manifestar plenamente su significado.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb5c02c3" class="outline-4">
+<h4 id="orgb5c02c3"><span class="section-number-4">1.5.2</span> Clases de palabras</h4>
+<div class="outline-text-4" id="text-1-5-2">
+</div>
+<div id="outline-container-org12b28aa" class="outline-5">
+<h5 id="org12b28aa"><span class="section-number-5">1.5.2.1</span> Nombres</h5>
+<div class="outline-text-5" id="text-1-5-2-1">
+<ul class="org-ul">
+<li>Morfología: Género, número, caso, diminutivo, aumentativo</li>
+<li>Función sintáctica: Son argumentos, objetos y  complemento de preposición. Aparecen después de
+determinantes y antes de adjetivos.</li>
+<li>Distribución: Hay [N]</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgee84d75" class="outline-5">
+<h5 id="orgee84d75"><span class="section-number-5">1.5.2.2</span> Verbo</h5>
+<div class="outline-text-5" id="text-1-5-2-2">
+<ul class="org-ul">
+<li>Morfología: Persona, número, tiempo, aspecto, modo, voz</li>
+<li>Función  sintáctica: Solo  funcionan como  predicados, modificados  por adverbios,  pueden ser
+negados, toman argumentos, pueden acompañarse de auxiliares.</li>
+<li>Distribución: 1) Cambiar a infinitivo. 2) Hay que [V], Hay que [V] eso</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc1b700f" class="outline-5">
+<h5 id="orgc1b700f"><span class="section-number-5">1.5.2.3</span> Adjetivo</h5>
+<div class="outline-text-5" id="text-1-5-2-3">
+<ul class="org-ul">
+<li>Morfología: Número, género, grado (superlativo, comparativo, positivo)</li>
+<li>Función   sintáctica:  Aparecen   entre   el  determinante   y  el   nombre   o  después   del
+nombre. Modificados por intensificadores o adverbios. Funcionan como predicados.</li>
+<li>Distribución: Esta muy [A], Es muy [A]</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2c88fa3" class="outline-5">
+<h5 id="org2c88fa3"><span class="section-number-5">1.5.2.4</span> Adverbios</h5>
+<div class="outline-text-5" id="text-1-5-2-4">
+<ul class="org-ul">
+<li>Morfología: Derivan de adjetivos por medio de -mente</li>
+<li>Función sintáctica: Modifican verbos y adjetivos. Aparecen antes de adjetivos. Modifican otros
+adverbios. En ciertos contextos se comportan como adjetivos.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga57033c" class="outline-5">
+<h5 id="orga57033c"><span class="section-number-5">1.5.2.5</span> Preposiciones</h5>
+<div class="outline-text-5" id="text-1-5-2-5">
+<p>
+Toman una FN  como término o complemento: a,  ante, bajo, cabe(cerca de, junto  a), con, contra,
+de, desde,  durante<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>, en, entre,  hacia, hasta, mediante<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>,  para, por, según,  sin, so(bajo,
+debajo de), sobre, tras, vía<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>(por, pasando por, haciendo escala en)
+</p>
+</div>
+</div>
+<div id="outline-container-org87736db" class="outline-5">
+<h5 id="org87736db"><span class="section-number-5">1.5.2.6</span> Determinantes</h5>
+<div class="outline-text-5" id="text-1-5-2-6">
+<ul class="org-ul">
+<li>Artículos: El, la, un, una, los, las&#x2026;</li>
+<li>Cuantificadores: Pocos, muchos ninguno, todas, tantos&#x2026;</li>
+<li>Numerales: Uno, dos, tres&#x2026;</li>
+<li>Posesivos: Mi, tu, su&#x2026;</li>
+<li>Demostrativos: Este, ese, aquellos&#x2026;</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3abad02" class="outline-5">
+<h5 id="org3abad02"><span class="section-number-5">1.5.2.7</span> Conjunciones:</h5>
+<div class="outline-text-5" id="text-1-5-2-7">
+<p>
+y, u, ni, pero&#x2026;
+</p>
+</div>
+</div>
+<div id="outline-container-orgca8ff10" class="outline-5">
+<h5 id="orgca8ff10"><span class="section-number-5">1.5.2.8</span> Complementantes</h5>
+<div class="outline-text-5" id="text-1-5-2-8">
+<p>
+que, si, donde.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org50b4801" class="outline-4">
+<h4 id="org50b4801"><span class="section-number-4">1.5.3</span> Relaciones Gramaticales</h4>
+<div class="outline-text-4" id="text-1-5-3">
+</div>
+<div id="outline-container-orgdc8bdc8" class="outline-5">
+<h5 id="orgdc8bdc8"><span class="section-number-5">1.5.3.1</span> Sujeto</h5>
+<div class="outline-text-5" id="text-1-5-3-1">
+<ul class="org-ul">
+<li>Concuerda con el verbo</li>
+<li>Sustituible por pronombre de sujeto</li>
+<li>Puede omitirse siempre</li>
+<li>Se degrada en voz pasiva a complemento agente</li>
+<li>Responde a preguntas eco: ¿Quién [FV]?, ¿Qué [FV]?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org965fa8d" class="outline-5">
+<h5 id="org965fa8d"><span class="section-number-5">1.5.3.2</span> Objeto</h5>
+<div class="outline-text-5" id="text-1-5-3-2">
+<ul class="org-ul">
+<li>Sustituible por clítico de objeto</li>
+<li>Llevan marca de acusativo cuando es +animado y definido</li>
+<li>Se pone en posición de foco y se duplica con clítico de objeto</li>
+<li>Responde a preguntas: ¿Qué es lo [Vparticipio]?</li>
+<li>Voz pasiva: se promueve a sujeto</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org1454a40" class="outline-5">
+<h5 id="org1454a40"><span class="section-number-5">1.5.3.3</span> Oblicuos</h5>
+<div class="outline-text-5" id="text-1-5-3-3">
+<ul class="org-ul">
+<li>Requieren marca especial (preposición)</li>
+</ul>
+</div>
+<ol class="org-ol">
+<li><a id="org3d2fcb9"></a>Objetos indirectos<br>
+<div class="outline-text-6" id="text-1-5-3-3-1">
+<ul class="org-ul">
+<li>Son argumentos del verbo</li>
+<li>Sustituibles por clítico de dativo</li>
+<li>El clítico coexiste con la FP que es OI</li>
+<li>Usan la preposición 'a' (meta) y 'para' (benefactivo)</li>
+<li>Responden  preguntas: ¿A quién [V]?, ¿Para quién es lo [V]?</li>
+</ul>
+</div>
+</li>
+<li><a id="org9b23a64"></a>Adjuntos<br>
+<div class="outline-text-6" id="text-1-5-3-3-2">
+<ul class="org-ul">
+<li>No son requeridos por el verbo</li>
+<li>Tipos: de razón-motivo, modo, tiempo, instrumento, lugar</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org9cd57d2" class="outline-4">
+<h4 id="org9cd57d2"><span class="section-number-4">1.5.4</span> Otros puntos a tratar</h4>
+<div class="outline-text-4" id="text-1-5-4">
+<ul class="org-ul">
+<li>Definición de núcleo y principio de endocentrismo.</li>
+<li>Lengua pro-drop.</li>
+<li>Orden de la lengua española (<i>SVO</i>).</li>
+<li>Noción de palabra.</li>
+<li>Enunciado, oración, clausula y finitud.</li>
+<li>Ambigüedad y sus tipos.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org1fa2348" class="outline-2">
+<h2 id="org1fa2348"><span class="section-number-2">2</span> Estructura de un texto escrito</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org81acfc9" class="outline-3">
+<h3 id="org81acfc9"><span class="section-number-3">2.1</span> Texto: estructura y propiedades. Marcadores discursivos</h3>
+<div class="outline-text-3" id="text-2-1">
+<ul class="org-ul">
+<li>Estructura interna: Se realiza por medio de un  proceso mental que se da antes de escribir. En
+este  proceso  se  obtienen el  objetivo,  el  destinatario,  el  asunto, la  selección  y  la
+jerarquización.</li>
+<li>Estructura externa: Se refiere a la forma en la que el escritor lleva al papel sus ideas, está
+determinada por los  recursos de los que dispone  quien va a emitir el  mensaje. Los elementos
+que la constituyen son: el orden, el lenguaje, el estilo y el entorno.</li>
+</ul>
+</div>
+<div id="outline-container-orgc8c154d" class="outline-4">
+<h4 id="orgc8c154d"><span class="section-number-4">2.1.1</span> Características</h4>
+<div class="outline-text-4" id="text-2-1-1">
+<p>
+Estas características del texto a su vez forman el estilo del mismo.
+</p>
+<ul class="org-ul">
+<li>Claridad.</li>
+<li>Precisión. Principalmente al expresar la idea fundamental.</li>
+<li>Propiedad. En el sentido de usar términos y expresiones adecuados tanto en el significado como
+en el manejo de las normas de escritura.</li>
+<li>Concisión.</li>
+<li>Sencillez.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf37bb74" class="outline-4">
+<h4 id="orgf37bb74"><span class="section-number-4">2.1.2</span> Marcadores discursivos adverbiales</h4>
+<div class="outline-text-4" id="text-2-1-2">
+<ul class="org-ul">
+<li>Aditivos y  de presición o  particularización: a  decir verdad, además,  análogamente, aparte,
+asimismo, de hecho,  encima, en el fondo, en  realidad, es más, por añadidura,  por otro lado,
+por si fuera poco, sobre todo.</li>
+<li>Adversativos y contraargumentativos: ahora bien, (antes)  al contrario, antes bien, después de
+todo,  empero, en  cambio,  eso  sí, no  obstante,  por el  contrario,  sin  embargo, todo  lo
+contrario.</li>
+<li>Concesivos: así y todo, aun así, con  todo, de cualquier manera, de todas {formas~maneras}, de
+todos modos, en cualquier caso.</li>
+<li>Consecutivos e  ilativos: así  pues, consiguientemente, de  {este~ese} modo,  en consecuencia,
+entonces, por consiguiente, por ende, por lo tanto, por tanto, pues.</li>
+<li>Explicativos: a saber, es decir, esto es, o sea.</li>
+<li>Reformuladores:  dicho   en  otras  palabras,  dicho  en  otros   términos,  dicho  de  otra
+{forma~manera}, de otro modo, más claramente, más llanamente, hablando en plata.</li>
+<li>Rectificativos: más bien, mejor dicho, por mejor decir.</li>
+<li>Ejemplificativos: así, así por ejemplo, así tenemos, por ejemplo, verbigracia.</li>
+<li>Recapitulativos: a fin de cuentas, al fin y  al cabo, en conclusión, en definitiva, en fin, en
+resumen, en resumidas cuentas, en síntesis, en suma, en una palabra, resumiendo, total.</li>
+<li>De   ordenación:   a   continuación,   antes   {de~que}  nada,   de   {una~otra}   parte,   en
+{primer~segundo&#x2026;} lugar~término, finalmente, para empezar, para terminar, primeramente.</li>
+<li>De apoyo argumentativo: así las cosas, dicho esto, en vista de ello, pues bien.</li>
+<li>De digresión: a propósito, a todo esto, dicho sea de paso, entre paréntesis, por cierto.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgd84b557" class="outline-3">
+<h3 id="orgd84b557"><span class="section-number-3">2.2</span> Párrafo: características y clasificación</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Un párrafo es un conjunto de oraciones que tratan de un mismo tema.
+</p>
+</div>
+<div id="outline-container-org7def5b8" class="outline-4">
+<h4 id="org7def5b8"><span class="section-number-4">2.2.1</span> Características de un párrafo</h4>
+<div class="outline-text-4" id="text-2-2-1">
+<ul class="org-ul">
+<li>Coherencia: Todas las oraciones tienen el mismo referente.</li>
+<li>Cohesión: Las  ideas expresadas  están relacionadas correctamente  unas con
+otras y por lo tanto el texto es comprensible.</li>
+<li>Adecuación: Las  expresiones son las  correctas para conseguir  el objetivo
+del  texto  (persuadir, demostrar,  explicar,  conmover).  Debe tomarse  en
+cuenta un público lector en particular.</li>
+<li>Dirección: Ver los ordenes del párrafo.</li>
+<li>Concreción: Se refiere a la relevancia de la información.</li>
+<li>Claridad.</li>
+<li>Sencillez: El párrafo usa oraciones en su forma menos marcada.</li>
+<li>Interés.</li>
+<li>Originalidad: El párrafo debe reflejar la personalidad del autor.</li>
+</ul>
+
+<p>
+Cada  párrafo  puede reescribirse  por  medio  de  una  sola oración  que  es
+explicada, detallada,  ejemplificada, argumentada  y desarrollada a  lo largo
+del párrafo.  A esta  oración se  le llama <i>oración  tópico</i> y  puede estar
+explicita o implícita en el párrafo.
+</p>
+</div>
+</div>
+<div id="outline-container-orgc49c1f0" class="outline-4">
+<h4 id="orgc49c1f0"><span class="section-number-4">2.2.2</span> Tipos de párrafo</h4>
+<div class="outline-text-4" id="text-2-2-2">
+<ul class="org-ul">
+<li>Descriptivo: Explica, aclara, detalla,  ilustra, ejemplifica o argumenta la
+oración tópico.</li>
+<li>Comparativo: Confronta dos objetos. Su  oración tópico puede tomar la forma
+<i>A es más X que B</i>.</li>
+<li>Agrupador o  enumerativo: Caracteriza un objeto.  Lista las características
+del mismo por medio de viñetas o con otros recursos ortográficos.</li>
+<li>Problema/solución:  Ambos  elementos  están  presentes en  el  párrafo.  La
+oración tópico es  causal por lo que puede expresarse  como <i>Si A entonces
+B</i>.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7d9a2b0" class="outline-4">
+<h4 id="org7d9a2b0"><span class="section-number-4">2.2.3</span> Oraciones dentro de los párrafos</h4>
+<div class="outline-text-4" id="text-2-2-3">
+<ul class="org-ul">
+<li>Orden lógico: De uso frecuente en  la narración, en el recuento de eventos,
+en la explicación de procesos y direcciones.</li>
+<li>Orden espacial:  Para describir a lo  que se puede localizar  en un espacio
+determinado o un  lugar. Es útil en la descripción:  de arriba hacia abajo,
+de la derecha a la izquierda, etc.</li>
+<li>Orden de interés:  Usado para materiales que no pueden  ordenarse a base de
+tiempo o espacio:  es un orden ascendente  de lo menos importante  a lo más
+importante. Supone ir trabajando hacia un punto culminante en el párrafo.</li>
+<li>Orden cronológico:  De uso  frecuente en  la narración,  en el  recuento de
+eventos, en la explicación de procesos y direcciones, etc.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orge3abca8" class="outline-3">
+<h3 id="orge3abca8"><span class="section-number-3">2.3</span> Tipos de textos descriptivos-argumentativos: informe técnico, artículo científico, ensayo y tesis</h3>
+<div class="outline-text-3" id="text-2-3">
+</div>
+<div id="outline-container-orgfa7988e" class="outline-4">
+<h4 id="orgfa7988e"><span class="section-number-4">2.3.1</span> La explicación</h4>
+<div class="outline-text-4" id="text-2-3-1">
+<p>
+Responde implícita o explícitamente a estas preguntas: ¿Qué es?, ¿Cómo funciona?, ¿Por qué?
+</p>
+
+<p>
+Explicar puede ser:
+</p>
+<ul class="org-ul">
+<li>Definir una palabra, fenómeno o estructura.</li>
+<li>Describir una serie de fenómenos o un mecanismo mostrando su funcionamiento, sus causas, sus efectos.</li>
+<li>Respetar una cronología y una lógica.</li>
+</ul>
+
+<p>
+Se debe tener en cuenta:
+</p>
+<ul class="org-ul">
+<li>Conocimientos del receptor.</li>
+<li>El lenguaje especializado a utilizar.</li>
+<li>Registro de lengua.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org70d545c" class="outline-4">
+<h4 id="org70d545c"><span class="section-number-4">2.3.2</span> La argumentación</h4>
+<div class="outline-text-4" id="text-2-3-2">
+<p>
+Justifica una  opinión para convencer a  otro sobre la  tesis que se sustenta.  Busca convencer,
+persuadir, movilizar o suscitar una acción.
+</p>
+</div>
+<div id="outline-container-org9e2e25a" class="outline-5">
+<h5 id="org9e2e25a"><span class="section-number-5">2.3.2.1</span> Argumentación analógica</h5>
+<div class="outline-text-5" id="text-2-3-2-1">
+<ul class="org-ul">
+<li>Compara dos hechos o situaciones.</li>
+<li>Se trata de establecer una comparación entre el caso  o la opinión que se defiende y otro caso
+o situación similar.</li>
+<li>Lo válido en A también debe ser válido y aceptado en B.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org68b566f" class="outline-5">
+<h5 id="org68b566f"><span class="section-number-5">2.3.2.2</span> Argumentación causa-efecto</h5>
+<div class="outline-text-5" id="text-2-3-2-2">
+<p>
+Se usa cuando un fenómeno entraña a otro en función del conocimiento científico o empírico.
+</p>
+
+<p>
+Refiere a la siguiente tabla de verdad:
+A -&gt; B (Se lee <i>Si A entonces B</i>)
+</p>
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-left">
+
+<col  class="org-left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">A</th>
+<th scope="col" class="org-left">B</th>
+<th scope="col" class="org-left">A-&gt;B</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">V</td>
+<td class="org-left">V</td>
+<td class="org-left">V</td>
+</tr>
+
+<tr>
+<td class="org-left">V</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+</tr>
+
+<tr>
+<td class="org-left">F</td>
+<td class="org-left">V</td>
+<td class="org-left">V</td>
+</tr>
+
+<tr>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">V</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+Se dice que:
+</p>
+<ul class="org-ul">
+<li>A es suficiente para B</li>
+<li>B es necesario para A</li>
+</ul>
+
+<p>
+Expresiones:
+</p>
+<ul class="org-ul">
+<li>Relación suficiente: Si&#x2026;</li>
+<li>Relación necesaria: Solo si&#x2026;</li>
+<li>Relación necesaria y suficiente: Si y solo si&#x2026;</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgc495f30" class="outline-4">
+<h4 id="orgc495f30"><span class="section-number-4">2.3.3</span> "Creating A Research Space" <b>CARS</b> model<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup></h4>
+<div class="outline-text-4" id="text-2-3-3">
+</div>
+<div id="outline-container-orgf9ba1a9" class="outline-5">
+<h5 id="orgf9ba1a9"><span class="section-number-5">2.3.3.1</span> Movimiento 1: Establecer un territorio</h5>
+<div class="outline-text-5" id="text-2-3-3-1">
+<p>
+Se refiere a plantear la situación. Este movimiento se divide en tres pasos. Todos los pasos son
+optativos, debe seleccionarse al menos uno.
+</p>
+
+<dl class="org-dl">
+<dt>Paso 1</dt><dd>Establecer la importancia del tema.</dd>
+<dt>Paso 2</dt><dd>Hacer generalizaciones sobre el tema.</dd>
+<dt>Paso 3</dt><dd>Revisar elementos de investigaciones previas.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-org81ccbae" class="outline-5">
+<h5 id="org81ccbae"><span class="section-number-5">2.3.3.2</span> Movimiento 2: Establecer un nicho</h5>
+<div class="outline-text-5" id="text-2-3-3-2">
+<p>
+Se refiere a establecer el  problema que se atenderá en el escrito. Consiste  en un solo paso de
+puede abordarse de cuatro maneras diferentes. Debe escogerse solo una de estas opciones.
+</p>
+
+<dl class="org-dl">
+<dt>Paso 1A</dt><dd>Encontrar un contraejemplo.</dd>
+<dt>Paso 1B</dt><dd>Indicar un vacío (en las investigaciones previas).</dd>
+<dt>Paso 1C</dt><dd>Surgir una pregunta (sobre las investigaciones previas).</dd>
+<dt>Paso 1D</dt><dd>Continuar una tradición.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-orgc364cce" class="outline-5">
+<h5 id="orgc364cce"><span class="section-number-5">2.3.3.3</span> Movimiento 3: Ocupar el nicho</h5>
+<div class="outline-text-5" id="text-2-3-3-3">
+<p>
+Se trata de  establecer la solución al  problema planteado en el movimiento  anterior.  Se deben
+seguir tres  pasos. El primer  paso puede  escribirse de dos  formas, cuya elección  depende del
+avance de la investigación en el momento de escribir el texto.
+</p>
+
+<dl class="org-dl">
+<dt>Paso 1A</dt><dd>Definir propósitos (¿Porqué?).</dd>
+<dt>Paso 1B</dt><dd>Anunciar la presente investigación (¿Qué?, ¿Cómo?).</dd>
+<dt>Paso 2</dt><dd>Anunciar las observaciones principales.</dd>
+<dt>Paso 3</dt><dd>Indicar la estructura del texto.</dd>
+</dl>
+
+<p>
+Opcionalmente, en este movimiento es posible agregar un cuarto paso. La escritura de este cuarto
+paso depende nuevamente del desarrollo de la investigación en el momento de escribir el texto.
+</p>
+
+<dl class="org-dl">
+<dt>Paso 4</dt><dd>Evaluar los descubrimientos principales.</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org799dd4b" class="outline-2">
+<h2 id="org799dd4b"><span class="section-number-2">3</span> La redacción</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgb361dd1" class="outline-3">
+<h3 id="orgb361dd1"><span class="section-number-3">3.1</span> Características de una buena redacción</h3>
+<div class="outline-text-3" id="text-3-1">
+<ul class="org-ul">
+<li>Contar con información suficiente, precisa y veraz para comunicarla en forma escrita.</li>
+<li>Conocer y saber aplicar las reglas básicas de ortografía y morfosintaxis.</li>
+<li>Antes de escribir, realizar un proceso de reflexión  sobre lo que se va a escribir: qué, cómo,
+por qué, a quién&#x2026;</li>
+<li>Utilizar  siempre un  buen diccionario  para  resolver las  dudas ortográficas  que surjan  al
+escribir.</li>
+<li>Leer  constantemente y  cuando se  desconozca  algún término  de  la lectura,  anotarlo en  un
+cuaderno y recurrir al diccionario.</li>
+<li>Una  vez realizado  el  escrito, revisarlo,  corregirlo  y leerlo  en voz  alta.  Esta es  una
+actividad imprescindible.</li>
+<li>Usa un corrector automático que contenga un buen tesauro.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd1cb4d0" class="outline-3">
+<h3 id="orgd1cb4d0"><span class="section-number-3">3.2</span> Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación</h3>
+<div class="outline-text-3" id="text-3-2">
+</div>
+<div id="outline-container-orgf70194e" class="outline-4">
+<h4 id="orgf70194e"><span class="section-number-4">3.2.1</span> Citas para un trabajo de investigación</h4>
+<div class="outline-text-4" id="text-3-2-1">
+<p>
+Es  muy  recomendable  hacer  las  fichas  o referencias  bibliográficas  de  todos  los  libros
+consultados. De  igual forma, es necesario  colocar referencias a  lo largo del trabajo  en cada
+cita textual o párrafo inspirado en algún texto consultado.
+</p>
+
+<p>
+La seriedad de un trabajo depende en gran medida de la investigación previa a la escritura de un
+texto final.
+</p>
+
+<p>
+Las  referencias sirven,  entre otras  cosas, para  que el  lector pueda  rastrear una  forma de
+pensamiento plasmada  en el  trabajo, ningún pensamiento  surge de la  nada. Además,  permite al
+lector ampliar la información contenida en un texto particular, lo cual eleva la credibilidad de
+dicho texto.
+</p>
+
+<p>
+Debemos tener presente  que la elaboración de  bibliografías es convencional, razón  por la cual
+existen  muy variados  estándares  de cita,  siempre  será necesario  elegir  alguno y  seguirlo
+puntualmente. En general, la información necesaria para la creación de una bibliografía completa
+es la siguiente [<a href="#gomez2000lengua">Gomez et&nbsp;al., 2000</a>]:
+</p>
+
+<ul class="org-ul">
+<li>Autor: Nombre completo y sin abreviaturas.</li>
+<li>Título de la obra: En caso de existir, también el subtítulo.</li>
+<li>Fecha  de publicación: Siempre es preferente el año de la primera edición.</li>
+</ul>
+
+<p>
+Adicionalmente, también es importante tener en cuenta:
+</p>
+
+<ul class="org-ul">
+<li>Nombre, número y/o volumen de la colección.</li>
+<li>Edición de la obra.</li>
+<li>Editorial.</li>
+<li>Lugar de la publicación de la obra.</li>
+<li>Páginas citadas.</li>
+</ul>
+
+<p>
+Finalmente,  cuando existan  referencias  electrónicas, se  debe agregar  el  tipo de  documento
+(audio, video, etc.) y la forma de publicación del mismo.
+</p>
+</div>
+<div id="outline-container-orgc9d7f8f" class="outline-5">
+<h5 id="orgc9d7f8f"><span class="section-number-5">3.2.1.1</span> Normas</h5>
+<div class="outline-text-5" id="text-3-2-1-1">
+<ul class="org-ul">
+<li>ISO 960</li>
+<li>American Psychological Association (APA).</li>
+<li>Modern Language Association (MLA).</li>
+<li>IEEE
+<ul class="org-ul">
+<li>The Chicago Manual of Style</li>
+</ul></li>
+</ul>
+
+<p>
+Sitio web de ayuda: <a href="http://www.citationmachine.net">Citation Machine</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-orgc9d8302" class="outline-3">
+<h3 id="orgc9d8302"><span class="section-number-3">3.3</span> Errores y deficiencias comunes en la redacción</h3>
+<div class="outline-text-3" id="text-3-3">
+</div>
+<div id="outline-container-orgd0ea4ae" class="outline-4">
+<h4 id="orgd0ea4ae"><span class="section-number-4">3.3.1</span> El uso del gerundio</h4>
+<div class="outline-text-4" id="text-3-3-1">
+<p>
+El gerundio es una forma verbal impersonal con terminación -ando -endo.
+</p>
+</div>
+<div id="outline-container-orgf683033" class="outline-5">
+<h5 id="orgf683033"><span class="section-number-5">3.3.1.1</span> Uso correcto</h5>
+<div class="outline-text-5" id="text-3-3-1-1">
+<ul class="org-ul">
+<li>Con el verbo <i>estar</i>, cuando una oreación relata una acción progresiva.</li>
+<li>Con otros verbos cuando hay una simultaneidad en una oración finita.</li>
+<li>Frases que se refieren al mismo sujeto directamente.</li>
+<li>Si está en posición de objeto, cuando el verbo principal sea de percepción.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2aaaa72" class="outline-5">
+<h5 id="org2aaaa72"><span class="section-number-5">3.3.1.2</span> Uso incorrecto</h5>
+<div class="outline-text-5" id="text-3-3-1-2">
+<ul class="org-ul">
+<li>Cuando es consecuencia de una acción.</li>
+<li>Cuando se usa como adjetivo, salvo los verbos hervir y arder.</li>
+<li>No une oraciones yuxtapuestas.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgcfa94ad" class="outline-4">
+<h4 id="orgcfa94ad"><span class="section-number-4">3.3.2</span> Generalidades sobre tiempo y persona en un escrito</h4>
+<div class="outline-text-4" id="text-3-3-2">
+<ul class="org-ul">
+<li>El tiempo  presente funciona para  reavivar una narración. Sin  embargo, en
+una narración su  uso constante transmite falsedad, no todo  puede pasar en
+un mismo tiempo.</li>
+<li>El tiempo pasado es el tiempo eje  de una narración. Es ideal para el texto
+académico.  Tiene el  inconveniente de  ser  plano, en  otras palabras,  es
+aburrido para contar eventos.</li>
+<li>El tiempo futuro da al lector la percepción que tiene el escritor sobre las
+cosas  que pueden  suceder. Sirve  para hacer  suposiciones y  predicciones
+basadas en hechos y conocimientos ya establecidos.</li>
+<li>La primera persona es la visión limitada del narrador.</li>
+<li>La segunda  persona es  útil en  textos cortos  para condicionar  al lector
+porque le da instrucciones: <i>harás</i>, <i>dirás</i>, etc.</li>
+<li>La tercera  persona es el eje  en una narración. Otorga  el distanciamiento
+necesario para una descripción eficiente.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org1502d8e" class="outline-3">
+<h3 id="org1502d8e"><span class="section-number-3">3.4</span> Reglas básicas de ortografía</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Las  reglas  de  ortografía   para  el  curso  se  encuentran  en  su   totalidad  en  el  libro
+[<a href="#espanola2012ortografia">Española, 2012</a>].
+</p>
+
+<p>
+Se recomienda la lectura del libro y la elaboración de un acordeón de una hoja tamaño carta o A4
+que  contenga al  menos el  uso de  los  signos de  puntuación y  la escritura  correcta de  los
+números. Este  curso de redacción  le dará al  alumno la capacidad  de entender la  totalidad de
+dicho libro para que pueda seguirlo siempre que lo necesite.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org8190c53" class="outline-2">
+<h2 id="org8190c53"><span class="section-number-2">4</span> La exposición oral</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+La expresión  oral es  una de las  habilidades lingüísticas más  utilizas en  el día a  día. Sin
+embargo, cuando se lleva  a cabo en entornos controlados, como la  exposición oral, se convierte
+en una actividad laboriosa y para algunos estresante.
+</p>
+
+<p>
+Para lograr una expresión oral efectiva es necesario realizar ciertas actividades previas:
+</p>
+
+<ul class="org-ul">
+<li>Estudiar cuidadosamente  el tema. Se debe  investigar y comprender  el tema de la  mejor forma
+posible.</li>
+<li>Diseñar un discurso. Con la información del paso anterior, se debe seleccionar que información
+amerita ser dicha durante la exposición. Toma  en cuenta el tiempo que tendrás disponible, por
+lo general suele variar de diez a veinte minutos.</li>
+<li>Práctica. El discurso  diseñado debe ser ensayado  con anticipación. La forma  más sencilla de
+conseguir una práctica eficiente es platicar sobre el tema cada vez que sea posible.</li>
+</ul>
+
+<p>
+Opcionalmente, es recomendado poner especial atención en la apertura y cierre del discurso.
+</p>
+</div>
+
+<div id="outline-container-org59c112d" class="outline-3">
+<h3 id="org59c112d"><span class="section-number-3">4.1</span> Pautas para una expresión adecuada</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Es   posible  diagnosticar   las   habilidades   que  un   hablante   tiene   sobre  la   lengua
+[<a href="#echeverria1997estructura">Echeverría et&nbsp;al., 1997</a>],  algunos   de  los   aspectos  importantes  son   los  siguientes
+[<a href="#gomez2000lengua">Gomez et&nbsp;al., 2000</a>]:
+</p>
+
+<ul class="org-ul">
+<li>Tiempo o velocidad.  Se refiere al tiempo en que  se realiza el acto de habla.  El tiempo debe
+ser el adecuado para que la idea sea clara para el auditorio.</li>
+<li>Fluidez. Se manifiesta en la soltura con la que se da el acto de habla.</li>
+<li>Ritmo  y entonación.   Es la  cualidad de  imprimir  relieve a  las variaciones  de tono.   Es
+necesario poner especial atención en las exclamaciones e interrogaciones.</li>
+<li>Tensión en la articulación.  El hablante debe variar el énfasis,  esto es posible considerando
+los tres puntos anteriores.</li>
+<li>Nitidez en el timbre vocálico. Evita la distorsión de los sonidos.</li>
+</ul>
+
+<div id="bibliography">
+<h2>Referencias</h2>
+
+<table>
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="grice1975logic">Grice, 1975</a>]
+</td>
+<td class="bibtexitem">
+Grice, H.&nbsp;P. (1975).
+ Logic and conversation.
+ <em>1975</em>, pages 41--58.
+[&nbsp;<a href="papers_bib.html#grice1975logic">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="echeverria1997estructura">Echeverría et&nbsp;al., 1997</a>]
+</td>
+<td class="bibtexitem">
+Echeverría, M.&nbsp;S., Veliz&nbsp;de Vos, M., Muñoz, G., and Valdivieso, H. (1997).
+ Estructura en un perfil de competencia lingüística.
+[&nbsp;<a href="papers_bib.html#echeverria1997estructura">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="gomez2000lengua">Gomez et&nbsp;al., 2000</a>]
+</td>
+<td class="bibtexitem">
+Gomez, M., Lima, M., and Sampieri, F. (2000).
+ <em>Lengua Española IV</em>.
+ Serie Bachiller. Grupo Editorial Patria.
+[&nbsp;<a href="papers_bib.html#gomez2000lengua">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="simone2001fundamentos">Simone, 2001</a>]
+</td>
+<td class="bibtexitem">
+Simone, R. (2001).
+ <em>Fundamentos de lingüística</em>.
+ Ariel lingüística. Ariel.
+[&nbsp;<a href="papers_bib.html#simone2001fundamentos">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="de2007gramatica">de&nbsp;la Corte, 2007</a>]
+</td>
+<td class="bibtexitem">
+de&nbsp;la Corte, J. (2007).
+ <em>Gramática moderna de la lengua española</em>.
+ Limusa.
+[&nbsp;<a href="papers_bib.html#de2007gramatica">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="espanola2009nueva">Española, 2009</a>]
+</td>
+<td class="bibtexitem">
+Española, R.&nbsp;A. (2009).
+ <em>Nueva gramática de la lengua española</em>.
+ Espasa Libros.
+[&nbsp;<a href="papers_bib.html#espanola2009nueva">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="espanola2012ortografia">Española, 2012</a>]
+</td>
+<td class="bibtexitem">
+Española, R.&nbsp;A. (2012).
+ <em>Ortografía básica de la lengua española</em>.
+ Espasa.
+[&nbsp;<a href="papers_bib.html#espanola2012ortografia">bib</a>&nbsp;]
+
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Nota al pie de p&aacute;gina: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+Los detalles sobre este tema se abarcan en [<a href="#simone2001fundamentos">Simone, 2001</a>].
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
+Para explicaciones más detalladas es importante leer [<a href="#espanola2009nueva">Española, 2009</a>,<a href="#de2007gramatica">de&nbsp;la Corte, 2007</a>].
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
+Tiene valor prepositivo, no es en realidad una preposición.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">
+Tiene valor prepositivo, no es en realidad una preposición.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">
+Tiene valor prepositivo, no es en realidad una preposición.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara">
+Para una explicación  detallada sobre el modelo <b>CARS</b> se recomienda  leer <a href="http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf">el handout con
+ejemplos (en inglés)</a>.
+</p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="date">Fecha: 2018</p>
+<p class="author">Autor: Edgar Uriel Domínguez Espinoza</p>
+<p class="date">Created: 2018-07-13 vie 20:17</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

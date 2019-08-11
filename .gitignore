@@ -13,8 +13,9 @@ _book
 # eBook build output
 *.epub
 *.mobi
-*.pdf
-*.html
+# *.pdf
+evaluacion-2019*.html
+# *.html
 *.tex
 
 # LaTeX output
