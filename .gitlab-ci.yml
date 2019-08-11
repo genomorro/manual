@@ -1,28 +1,15 @@
-# image: genomorro/emacs
-
-# pages:
-#   script:
-#   - emacs --batch --eval "(progn (package-initialize) (package-refresh-contents) (package-install 'org))"
-#   - emacs --batch --no-init-file --load publish.el --funcall org-publish-all
-#   artifacts:
-#     paths:
-#     - public
-#   only:
-#   - master
-
-
 pages:
-   stage: deploy
+   stage: stable
    script:
-     mkdir .public;
-     cp -r assets im styles .public;
-     cp main.html .public/manual.html;
-     cp evaluacion-2020-1.html .public/index.html;
-     cp papers*.html .public;
-     mv .public public 
+   - mkdir .public
+   - cp -r assets im styles .public
+   - cp main.html .public/manual.html
+   - cp evaluacion-2020-1.html .public/index.html
+   - cp papers*.html .public
+   - cp sitemap.xml .public
+   - mv .public public 
    artifacts:
      paths:
      - public
    only:
    - master 
-
