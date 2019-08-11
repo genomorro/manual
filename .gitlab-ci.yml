@@ -1,4 +1,4 @@
-image: genomorro/emacs
+image: moul/emacs
 
 pages:
    stage: deploy
