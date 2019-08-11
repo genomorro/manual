@@ -1,8 +1,7 @@
-image: moul/emacs
-
 pages:
    stage: deploy
    script:
+     - emacs --version
      - emacs evaluacion-2020-1.org --batch -f org-html-export-to-html --kill
      - mkdir .public
      - cp -r assets im styles .public
