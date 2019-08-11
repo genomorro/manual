@@ -1,5 +1,5 @@
 pages:
-   stage: stable
+   stage: deploy
    script:
    - mkdir .public
    - cp -r assets im styles .public
