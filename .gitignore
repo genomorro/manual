@@ -14,7 +14,7 @@ _book
 *.epub
 *.mobi
 # *.pdf
-evaluacion-2019*.html
+evaluacion-*.html
 # *.html
 *.tex
 

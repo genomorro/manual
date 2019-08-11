@@ -1,13 +1,16 @@
+image: genomorro/emacs
+
 pages:
    stage: deploy
    script:
-   - mkdir .public
-   - cp -r assets im styles .public
-   - cp main.html .public/manual.html
-   - cp evaluacion-2020-1.html .public/index.html
-   - cp papers*.html .public
-   - cp sitemap.xml .public
-   - mv .public public 
+     - emacs evaluacion-2020-1.org --batch -f org-html-export-to-html --kill
+     - mkdir .public
+     - cp -r assets im styles .public
+     - cp main.html .public/manual.html
+     - cp evaluacion-2020-1.html .public/index.html
+     - cp papers*.html .public
+     - cp sitemap.xml .public
+     - mv .public public 
    artifacts:
      paths:
      - public
