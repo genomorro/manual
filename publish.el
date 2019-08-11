@@ -12,6 +12,7 @@
 (add-to-list 'package-archives '("org" . "https://orgmode.org/elpa/") t)
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 (package-refresh-contents)
+(package-install 'org)
 (package-install 'org-plus-contrib)
 
 (require 'org)

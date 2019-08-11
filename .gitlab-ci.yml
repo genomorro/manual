@@ -3,7 +3,6 @@ image: moul/emacs
 pages:
    stage: deploy
    script:
-     - emacs --batch --eval "(progn (package-initialize) (package-refresh-contents) (package-install 'org))"
      - emacs evaluacion-2020-1.org --batch --no-init-file --load publish.el --eval "(org-html-export-to-html)"
      - mkdir .public
      - cp -r assets im styles .public
