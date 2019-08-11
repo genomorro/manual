@@ -3,8 +3,7 @@ image: moul/emacs
 pages:
    stage: deploy
    script:
-     - emacs --version
-     - emacs evaluacion-2020-1.org --batch -f org-html-export-to-html --kill
+     - emacs evaluacion-2020-1.org --batch --eval "(require 'ox)" --eval "(org-html-export-to-html)"
      - mkdir .public
      - cp -r assets im styles .public
      - cp main.html .public/manual.html
