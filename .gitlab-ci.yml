@@ -1,17 +1,13 @@
-image: moul/emacs
-
 pages:
    stage: deploy
    script:
-     - emacs evaluacion-2020-1.org --batch --no-init-file --load publish.el --eval "(org-html-export-to-html)"
-     - mkdir .public
-     - cp -r assets im styles .public
-     - cp main.html .public/manual.html
-     - cp evaluacion-2020-1.html .public/index.html
-     - cp papers*.html .public
-     - cp sitemap.xml .public
-     - cp robots.txt .public
-     - mv .public public 
+   - mkdir .public
+   - cp -r assets im styles .public
+   - cp main.html .public/manual.html
+   - cp evaluacion-2020-1.html .public/index.html
+   - cp papers*.html .public
+   - cp sitemap.xml .public
+   - mv .public public 
    artifacts:
      paths:
      - public
