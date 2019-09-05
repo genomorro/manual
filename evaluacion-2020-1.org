@@ -101,7 +101,12 @@ final del semestre.
 11. Ve el documental  llamado [[http://gnula.nu/documental/ver-the-great-hack-nada-es-privado-2019-online/][Great Hack]] oficialmente disponible en  Netflix. Realiza una reseña
     de la película. En clase se te dirán los pasos y el contenido de una reseña. (1P)
 
-12. Podrán agregarse actividades o tareas a lo  largo del semestre, revisa esta página una vez a
+12. Lee  [[https://share.mailo.com/?key=wMXmOY1EDiBoZuW5jlpTo5AHfnZ7NQm0SZor6nY1hqwZDlxAbzLMKSU2ew%252B9rgZJmIifqMsisBA%253D][el manga]]  correspondiente. Modificarás las  historia y la  adaptarás según  creas debió
+    pasar.  Se  sugiere un  final feliz pero  no es obligatorio.   Debes conservar  personajes y
+    lugares, fuera  de eso siéntete libre  de cambiar la  historia.  Se recomienda no  exceder 5
+    cuartillas de narración.
+
+13. Podrán agregarse actividades o tareas a lo  largo del semestre, revisa esta página una vez a
     la semana.
    
 Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
@@ -323,6 +328,7 @@ Algunos recursos recomendados son:
 
 - [[http://www.aapaunam.mx/assets/julio_septiembre_2017_.pdf][Comunicación asertiva]] de Wázcar Verduzco Fragoso y Marlon Enediel Hernández Grijalba. 
 - [[https://teorialiteraria2009.files.wordpress.com/2009/06/barthes-la-muerte-del-autor.pdf][La muerte del autor]] de Roland Barthes.
+
 * Seguridad
 
 La Comisión Local de Seguridad de la FI solicita la lectura de [[file:assets/acciones_cls_fi.pdf][las acciones de la CLS]].
