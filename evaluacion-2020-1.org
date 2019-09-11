@@ -106,7 +106,14 @@ final del semestre.
     lugares, fuera  de eso siéntete libre  de cambiar la  historia.  Se recomienda no  exceder 5
     cuartillas de narración.
 
-13. Podrán agregarse actividades o tareas a lo  largo del semestre, revisa esta página una vez a
+13. Lee [[http://www.revistaingenieria.unam.mx/numeros/v20n3-11.php][el artículo de la revista de ingeniería de la facultad]] e identifica las partes del texto
+    académico vistas en  clase. Comienza por lo general (Introducción,  desarrollo y conclusión)
+    hasta lo particular  (Los pasos del método  CARS presentes, marco teórico,  resumen, etc.) y
+    Distingue cada parte con un color diferente.  Al final, describe con tus propias palabras si
+    el artículo está  completo y bien estructurado, basa tus  observaciones en la identificación
+    de las partes de realizaste.
+
+14. Podrán agregarse actividades o tareas a lo  largo del semestre, revisa esta página una vez a
     la semana.
    
 Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
