@@ -333,7 +333,8 @@ Algunos recursos recomendados son:
 
 ** Lecturas
 
-- [[http://www.aapaunam.mx/assets/julio_septiembre_2017_.pdf][Comunicación asertiva]] de Wázcar Verduzco Fragoso y Marlon Enediel Hernández Grijalba. 
+- [[http://www.aapaunam.mx/assets/julio_septiembre_2017_.pdf][Comunicación asertiva]] de Wázcar Verduzco Fragoso y Marlon Enediel Hernández Grijalba.
+- [[https://freeditorial.com/es/books/el-color-que-cayo-del-cielo][El color que cayó del cielo]] de H. P. Lovecraft. 
 - [[https://teorialiteraria2009.files.wordpress.com/2009/06/barthes-la-muerte-del-autor.pdf][La muerte del autor]] de Roland Barthes.
 
 * Seguridad
