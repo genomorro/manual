@@ -104,23 +104,29 @@ final del semestre.
 12. Lee  [[file:assets/manga.epub][el manga]]  correspondiente. Modificarás las  historia y la  adaptarás según  creas debió
     pasar.  Se  sugiere un  final feliz pero  no es obligatorio.   Debes conservar  personajes y
     lugares, fuera  de eso siéntete libre  de cambiar la  historia.  Se recomienda no  exceder 5
-    cuartillas de narración.
+    cuartillas de narración. (2P)
 
 13. Lee [[http://www.revistaingenieria.unam.mx/numeros/v20n3-11.php][el artículo de la revista de ingeniería de la facultad]] e identifica las partes del texto
     académico vistas en  clase. Comienza por lo general (Introducción,  desarrollo y conclusión)
     hasta lo particular  (Los pasos del método  CARS presentes, marco teórico,  resumen, etc.) y
     Distingue cada parte con un color diferente.  Al final, describe con tus propias palabras si
     el artículo está  completo y bien estructurado, basa tus  observaciones en la identificación
-    de las partes de realizaste.
+    de las partes de realizaste. (3P)
 
-14. Podrán agregarse actividades o tareas a lo  largo del semestre, revisa esta página una vez a
-    la semana.
-
-15.  Ve el  vídeo sobre  [[https://invidio.us/watch?v=WfK5T-NJp_4&pbjreload=10&autoplay=1][Volver al  futuro]], en  los tiempos  0:45, 1:13,  1:35, 2:01  y 2:15  se
+14.  Ve el  vídeo sobre  [[https://invidio.us/watch?v=WfK5T-NJp_4&pbjreload=10&autoplay=1][Volver al  futuro]], en  los tiempos  0:45, 1:13,  1:35, 2:01  y 2:15  se
     encuentran  formas  verbales  deficientes.    Encuentra  la  conjugación  correcta.  Deberás
     justificar  cada respuesta  y explicitarás  el  tiempo, aspecto  y modo  de la  conjugación.
     Podrás incluir la  imagen que ejemplifique los desplazamientos necesarios  para conseguir la
-    conjugación exitosamente.
+    conjugación exitosamente. (5P)
+
+15. Escribirás  la definición, diferencia  (o similitud) y explicación  entre la definitud  y la
+    determinación  en matemáticas.   Puedes apoyarte  con la  comprobación del  resultado de  la
+    división  entre  cero.  Considera  que  ab=c  para a,  b,  c  pertenecientes a  los  números
+    reales. Finalmente,  trata de asociar  dichas definiciones con lo  visto en clase  sobre los
+    determinantes. (1P)
+
+16. Podrán agregarse actividades o tareas a lo  largo del semestre, revisa esta página una vez a
+    la semana. 
 
 Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
 
