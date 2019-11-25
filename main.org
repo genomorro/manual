@@ -15,7 +15,7 @@
 #+CATEGORY:     worg
 #+KEYWORDS:     redaccion, exposicion, ortografia
 
-#+OPTIONS:      H:4 toc:2
+#+OPTIONS:      H:4 toc:2 html-validation-link:nil
 #+LATEX_CLASS:  article
 #+LATEX_CLASS_OPTIONS: [paper=letter,oneside,DIV=8]
 

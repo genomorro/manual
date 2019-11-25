@@ -7,7 +7,17 @@
 #+LANGUAGE:     es
 
 * Evaluación para el semestre 2020-1
+#+BEGIN_abstract
 
+La [[file:assets/Calificacicones_2020-1.ods][hoja  con participaciones]]  ya está  en línea. Recuerda  que la  calificación final  solo será
+visible hasta  que todo  el grupo  sea calificado, no  te desesperes.  Trataré de  actualizar el
+archivo cada dos días.
+
+Los  finales son  los días  lunes. Si  vas a  hacer examen  debes presentarte  a la  hora de  tu
+clase. Si solo quieres  entregar disco entonces podrás asistir en cualquier  horario de los tres
+disponibles.
+ 
+#+END_abstract
 ** Guía del curso
 
 El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
@@ -343,7 +353,8 @@ Algunos recursos recomendados son:
 - [[https://en.wikibooks.org/wiki/LaTeX][Guía de Wikibooks sobre Latex]] (en inglés)
 - Libro: [[file:assets/Edicion_de_textos_cientificos_LaTeX.pdf][Edición de textos científicos con Latex]]
 
-** TODO Lecturas                                                   :REVISAR:
+** DONE Lecturas                                                   :REVISAR:
+CLOSED: [2019-11-24 dom 23:38]
 
 - [[http://www.aapaunam.mx/assets/julio_septiembre_2017_.pdf][Comunicación asertiva]] de Wázcar Verduzco Fragoso y Marlon Enediel Hernández Grijalba.
 - [[https://freeditorial.com/es/books/el-color-que-cayo-del-cielo][El color que cayó del cielo]] de H. P. Lovecraft. 
