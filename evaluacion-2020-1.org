@@ -9,9 +9,9 @@
 * Evaluación para el semestre 2020-1
 #+BEGIN_abstract
 
-La [[file:assets/Calificacicones_2020-1.ods][hoja  con participaciones]]  ya está  en línea. Recuerda  que la  calificación final  solo será
-visible hasta  que todo  el grupo  sea calificado, no  te desesperes.  Trataré de  actualizar el
-archivo cada dos días.
+La [[file:assets/Calificacicones_2020-1.ods][hoja con participaciones]] ya está en línea. En este momento ya aparecen las calificaciones tal
+como se calcularán  finalmente. Recuerda que la  calificación final solo será  visible hasta que
+todo el grupo sea calificado, no te desesperes.  Trataré de actualizar el archivo cada dos días.
 
 Hay algunos casos en los que no pude leer  el disco entregado. En esas situaciones el disco vale
 cero. Si lo entregas de nuevo tu calificación puede subir luego de la revisión.
