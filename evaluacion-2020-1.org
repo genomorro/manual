@@ -16,8 +16,9 @@ todo el grupo sea calificado, no te desesperes.  Trataré de actualizar el archi
 Hay algunos casos en los que no pude leer  el disco entregado. En esas situaciones el disco vale
 cero. Si lo entregas de nuevo tu calificación puede subir luego de la revisión.
 
-*He terminado  de calificar al  grupo 13.  Por favor revisen  sus calificaciones. Informa  a tus
-compañeros para que también lo hagan, incluso a los que presentaron final.*
+*He terminado de calificar a todos los  grupos.  Por favor revisen sus calificaciones. Informa a
+tus compañeros para  que también lo hagan, incluso  a los que presentaron final.  El día viernes
+en la noche llenaré las actas de las calificaciones y daré de baja este sitio.*
  
 #+END_abstract
 ** Guía del curso
