@@ -285,11 +285,11 @@ recomiendo usar [[https://www.overleaf.com][Overleaf]] que es un buen editor en 
 
 Algunos recursos recomendados son:
 
-- [[http://www.ingenieria.unam.mx/dcsyhfi/temarios/redaccion_y_exposicion_de_temas_de_ingenieria2016.pdf][Temario oficial de la asignatura]]
 - [[https://en.wikibooks.org/wiki/LaTeX][Guía de Wikibooks sobre Latex]] (en inglés)
 - Libro: [[file:assets/Edicion_de_textos_cientificos_LaTeX.pdf][Edición de textos científicos con Latex]]
 
 ** Lecturas                                                        :REVISAR:
+- [[http://www.ingenieria.unam.mx/dcsyhfi/temarios/redaccion_y_exposicion_de_temas_de_ingenieria2016.pdf][Temario oficial de la asignatura]]
 - [[http://www.aapaunam.mx/assets/julio_septiembre_2017_.pdf][Comunicación asertiva]] de Wázcar Verduzco Fragoso y Marlon Enediel Hernández Grijalba.
 - [[https://teorialiteraria2009.files.wordpress.com/2009/06/barthes-la-muerte-del-autor.pdf][La muerte del autor]] de Roland Barthes.
 - [[file:assets/Lecto-escritura.pdf][Manual de Lectoescritura]] de Margarita Alegría de la Colina.
