@@ -27,12 +27,16 @@ modificarlo, corregirlo.
 
 Los horarios de clase son:
 
-1. Lunes y viernes 13:00 a 15:00. Salón A202
+1. Lunes y viernes 11:00 a 13:00. Salón A202
 2. Lunes y miércoles 17:00 a 19:00. Salón Y101
 
 En  cualquier caso:  **Memoriza  tu número  de  grupo**.  El  grupo al  que  perteneces te  será
 solicitado en los exámenes  u otras actividades y no será permitido  preguntarlo ni levantarse a
 ver los horarios en la puerta del salón.
+
+La clase inicia a la hora señalada un los  horarios colocados arriba, en caso de que el profesor
+se retrase  más de quince minutos  la clase iniciará a  los treinta minutos. Si  pasados treinta
+minutos el profesor aun está retrasado, la clase iniciará una hora después del horario oficial.
 
 *** Participaciones
 
