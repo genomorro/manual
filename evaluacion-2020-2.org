@@ -8,8 +8,8 @@
 
 * Evaluación para el semestre 2020-2
 #+BEGIN_abstract
-En caso de suspensión de las actividades presenciales dentro de la facultad, será en esta página
-donde se asignarán las actividades que sustituirán las clases.
+**En caso de suspensión de las actividades presenciales dentro de la facultad, será en esta página
+donde se asignarán las actividades que sustituirán las clases.**
 #+END_abstract
 ** Guía del curso
 
