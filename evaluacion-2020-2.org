@@ -8,6 +8,8 @@
 
 * Evaluación para el semestre 2020-2
 #+BEGIN_abstract
+En caso de suspensión de las actividades presenciales dentro de la facultad, será en esta página
+donde se asignarán las actividades que sustituirán las clases.
 #+END_abstract
 ** Guía del curso
 
@@ -97,11 +99,21 @@ final del semestre.
    actos de habla están presentes en dicha escena. Usa las teorías de Jakobson, Austin, Searle y
    Grice que se vieron en clase para describir los actos de habla. (2P)
 
-6.  Ve la película [[https://www.fullpeliculashd.me/pelicula/13394/trece-dias-thirteen-days.html][Trece  días]].  Analiza la situación planteada y su evolución  a lo largo de la
-   historia:  las  redes  sociales  que  se   entablan,  las  motivaciones,  las  relaciones  de
-   poder. Apoyate en las teorías de la comunicación vistas en clase. (4P)
+6. Ve la película [[https://www.fullpeliculashd.me/pelicula/13394/trece-dias-thirteen-days.html][Trece  días]].  Analiza la situación planteada y su evolución  a lo largo de la
+  historia:  las  redes  sociales  que  se   entablan,  las  motivaciones,  las  relaciones  de
+  poder. Apoyate en las teorías de la comunicación vistas en clase. (4P)
 
-7. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+7. Lee la  [[https://www.joaquinsabina.net/el-caso-de-la-rubia-platino/][letra de  "El  caso de  la rubia  platino"]], elabora  una  lista con  las palabras  y
+  expresiones que  no sean claras. Cada  elemento de la  lista deberá tener su  significado y/o
+  explicación.(3P)
+
+8. Lee la  [[https://www.joaquinsabina.net/el-caso-de-la-rubia-platino/][letra de "El caso de la  rubia platino"]], escribe la historia en  prosa, describe cada
+   uno de los eventos con total claridad. (2P)
+
+9.  Lee la  [[https://www.joaquinsabina.net/el-caso-de-la-rubia-platino/][letra de  "El caso  de la  rubia platino"]],  identifica todos  los nombres,  verbos y
+   adjetivos presentes. (3P)
+
+10. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
    la semana.
 
 -Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
