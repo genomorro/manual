@@ -28,7 +28,7 @@ los enlaces que te dejo):
    adecuadas  únete. Puedo  decirte que  Telegram es  bastante privado.
 2. La única red  de chat libre que conozco es  [[https://xmpp.org/getting-started/][XMPP]]. Es una red federada y  para ingresar a ella
    necesitas darte  de alta  en [[https://xmpp-servers.404.city/][un  servidor XMPP]]. Luego,  usas un  [[https://conversejs.org/][cliente]] para  conectarte. Mi
-   cuenta es edgar_uriel84@jabber.org
+   cuenta es edgar\under{}uriel84@jabber.org
 
 En cualquiera de esas opciones trataré de estar disponible durante las horas que corresponderían
 a las clases. **Por favor, divulga esta información  con tus compañeros** y recuerda que eres tu
