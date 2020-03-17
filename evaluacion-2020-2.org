@@ -8,9 +8,32 @@
 
 * Evaluación para el semestre 2020-2
 #+BEGIN_abstract
-**En caso de suspensión de las actividades presenciales dentro de la facultad, será en esta página
-donde se asignarán las actividades que sustituirán las clases.**
 #+END_abstract
+** IN-PROGRESS [#A] Continuación del semestre                      :REVISAR:
+¡Hola mis jóvenes padawans!
+
+Hoy han suspendido  actividades dentro de la  UNAM y por lo tanto  no me verán un  buen rato. La
+dinámica del curso es bastante adecuada para estos tiempos.
+
+En los siguientes  días actualizaré la guía del  curso en formato [[file:manual.html][HTML]] y listaré  justo aquí los
+temas que  podrás estudiar en  este tiempo, en  la sección de  lecturas colocaré los  libros que
+necesitas  para  estudiar,   además  de  dejarte  actividades  optativas  para   que  así  ganes
+participaciones que te permitan aprobar la materia.
+
+Si llegas a tener dudas sobre las tareas o  los temas te ofrezco dos formas de contacto (ojo con
+los enlaces que te dejo):
+
+1. He creado un [[https://t.me/joinchat/ADgNuhvFipNBfP7JejrKmw][grupo  de telegram]] al que puedes unirte. Telegram no  es software libre, así que
+   no puedo exigirte  que te unas a  este grupo, lee las  políticas de Telegram y  si te parecen
+   adecuadas  únete. Puedo  decirte que  Telegram es  bastante privado.
+2. La única red  de chat libre que conozco es  [[https://xmpp.org/getting-started/][XMPP]]. Es una red federada y  para ingresar a ella
+   necesitas darte  de alta  en [[https://xmpp-servers.404.city/][un  servidor XMPP]]. Luego,  usas un  [[https://conversejs.org/][cliente]] para  conectarte. Mi
+   cuenta es edgar_uriel84@jabber.org
+
+En cualquiera de esas opciones trataré de estar disponible durante las horas que corresponderían
+a las clases. **Por favor, divulga esta información  con tus compañeros** y recuerda que eres tu
+quien decide si estudias y haces las actividades.
+
 ** Guía del curso
 
 El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
