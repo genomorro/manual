@@ -34,6 +34,25 @@ En cualquiera de esas opciones trataré de estar disponible durante las horas qu
 a las clases. **Por favor, divulga esta información  con tus compañeros** y recuerda que eres tu
 quien decide si estudias y haces las actividades.
 
+*** Estudio 1
+DEADLINE: <2020-03-27 mar>
+
+Lee la guía del curso en los siguientes temas:
+
+- Texto: estructura y propiedades. Marcadores discursivos
+- Párrafo: características y clasificación
+
+Son temas sobre  la escritura, trataré de dejar  pendiente la gramática que nos  faltó en clase,
+responderé dudas lo  que queda de esta  semana y la próxima,  la guía tiene la  teoría que debes
+saber.
+
+Revisa la lista de actividades optativas. La tarea 10 y 11 son ejercicios generales, la tarea 12
+es para  que sepas describir  cosas físicas, es  muy importante en  ingeniería.  La tarea  13 se
+divide en dos partes, la primera parte es para que distingas de forma objetiva los hechos de las
+cosas, te  pueden ayudar  los conceptos  de narratividad  y desplazamiento  vistos en  clase. La
+segunda parte de la tarea es para que logres crear párrafos, te será más fácil si realizaste las
+tareas previas.
+
 ** Guía del curso
 
 El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
@@ -133,10 +152,29 @@ final del semestre.
 8. Lee la  [[https://www.joaquinsabina.net/el-caso-de-la-rubia-platino/][letra de "El caso de la  rubia platino"]], escribe la historia en  prosa, describe cada
    uno de los eventos con total claridad. (2P)
 
-9.  Lee la  [[https://www.joaquinsabina.net/el-caso-de-la-rubia-platino/][letra de  "El caso  de la  rubia platino"]],  identifica todos  los nombres,  verbos y
-   adjetivos presentes. (3P)
+9. Lee la  [[https://www.joaquinsabina.net/el-caso-de-la-rubia-platino/][letra de  "El caso  de la  rubia platino"]],  identifica todos  los nombres,  verbos y
+  adjetivos presentes. (3P)
 
-10. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+10. Descarga [[file:assets/parrafo_ejercicio_2.txt.pdf][el ejercicio]]. En la hoja verás conjuntos de oraciones. En cada conjunto, identifica
+    el referente  y crea una  oración tópico  que englobe las  oraciones. Basado en  esa oración
+    tópico  y  apoyándote de  las  oraciones  ya listadas  deberás  crear  un párrafo.  Usa  los
+    marcadores discursivos que consideres adecuados. (2P)
+
+11. Descarga  [[file:assets/parrafo_ejercicio.txt.pdf][el ejercicio]].   Por cada  párrafo presente deberás  identificar la  oración tópico
+    (subraya o escribe según sea el caso), el tipo de oración tópico y el tipo de párrafo. (2P)
+
+12. Realiza una descripción **detallada** del espacio físico representado en una de las fotos de
+    San Juan Tetelcingo, Guerrero que se presentan en los enlaces: [[file:im/Di%CC%81a%20de%20muertos_mexicano_de_guerrero_EAAJ2.jpg][Foto 1]] y [[file:im/Fotos_musicos_mexicano_de_guerrero_EAAJ4.jpg][Foto 2]]
+
+13. Basado  únicamente en  [[https://invidio.us/watch?v=Fq5dAguO34E][el video del  enlace]] haz una  lista ordenada  con los eventos  que se
+    mencionan en  la conversación que  se lleva a  cabo en los primeros  dos minutos y  medio de
+    dicho video, **Distingue los  hechos que han narrado en el video, no  se pide que reescribas
+    los diálogos**. Posteriormente, escribe una narración detallada de la pelea que ocurre en la
+    segunda mitad  del video, incluido  el diálogo entre los  adversarios.  En cada  párrafo que
+    escribas deberás usar un orden de las oraciones en particular.  Usarás al menos una vez cada
+    orden, por lo que serán al menos cuatro párrafos.
+
+14. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
    la semana.
 
 -Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
