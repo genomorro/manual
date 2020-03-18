@@ -1,7 +1,7 @@
 #+TITLE:        Manual de Redacción y exposición de temas de ingeniería
 #+AUTHOR:       Edgar Uriel Domínguez Espinoza
 #+EMAIL:        edgar_uriel84 AT genomorro DOT name
-#+DATE:         2018
+#+DATE:         2020
 #+UID:          http://reti.genomorro.name
 #+DESCRIPTION:  Manual de la materia Redacción y exposición de temas de ingeniería, FI UNAM
 #+HTML_DOCTYPE: html5

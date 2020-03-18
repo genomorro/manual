@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<!-- 2018-07-13 vie 20:17 -->
+<!-- 2020-03-17 mar 23:05 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Manual de Redacción y exposición de temas de ingeniería</title>
@@ -162,6 +162,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -192,7 +205,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2018 Free Software Foundation, Inc.
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -263,45 +276,45 @@ for the JavaScript code in this tag.
 <h2>&Iacute;ndice</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org904b1f7">1. Comunicación y lenguaje</a>
+<li><a href="#orgf0b9f34">1. Comunicación y lenguaje</a>
 <ul>
-<li><a href="#org742fcf4">1.1. Proceso de comunicación</a></li>
-<li><a href="#org5f26430">1.2. Lenguaje: definición, tipos y características</a></li>
-<li><a href="#org05f24a8">1.3. Relación entre lenguaje, lengua y habla</a></li>
-<li><a href="#org9f4b587">1.4. Diferencias entre lengua oral y lengua escrita</a></li>
-<li><a href="#orgb339d84">1.5. Estructura y función gramatical de palabras y oraciones</a></li>
+<li><a href="#org9b70528">1.1. Proceso de comunicación</a></li>
+<li><a href="#orgeb6ac7d">1.2. Lenguaje: definición, tipos y características</a></li>
+<li><a href="#org533378f">1.3. Relación entre lenguaje, lengua y habla</a></li>
+<li><a href="#org46a95fe">1.4. Diferencias entre lengua oral y lengua escrita</a></li>
+<li><a href="#orgd4706ff">1.5. Estructura y función gramatical de palabras y oraciones</a></li>
 </ul>
 </li>
-<li><a href="#org1fa2348">2. Estructura de un texto escrito</a>
+<li><a href="#org93696f5">2. Estructura de un texto escrito</a>
 <ul>
-<li><a href="#org81acfc9">2.1. Texto: estructura y propiedades. Marcadores discursivos</a></li>
-<li><a href="#orgd84b557">2.2. Párrafo: características y clasificación</a></li>
-<li><a href="#orge3abca8">2.3. Tipos de textos descriptivos-argumentativos: informe técnico, artículo científico, ensayo y tesis</a></li>
+<li><a href="#org455e4a4">2.1. Texto: estructura y propiedades. Marcadores discursivos</a></li>
+<li><a href="#org3680c79">2.2. Párrafo: características y clasificación</a></li>
+<li><a href="#org9ec8ead">2.3. Tipos de textos descriptivos-argumentativos: informe técnico, artículo científico, ensayo y tesis</a></li>
 </ul>
 </li>
-<li><a href="#org799dd4b">3. La redacción</a>
+<li><a href="#org982bf65">3. La redacción</a>
 <ul>
-<li><a href="#orgb361dd1">3.1. Características de una buena redacción</a></li>
-<li><a href="#orgd1cb4d0">3.2. Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación</a></li>
-<li><a href="#orgc9d8302">3.3. Errores y deficiencias comunes en la redacción</a></li>
-<li><a href="#org1502d8e">3.4. Reglas básicas de ortografía</a></li>
+<li><a href="#org285752c">3.1. Características de una buena redacción</a></li>
+<li><a href="#orgece85b0">3.2. Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación</a></li>
+<li><a href="#orgf20c0d8">3.3. Errores y deficiencias comunes en la redacción</a></li>
+<li><a href="#orgca54568">3.4. Reglas básicas de ortografía</a></li>
 </ul>
 </li>
-<li><a href="#org8190c53">4. La exposición oral</a>
+<li><a href="#org2714007">4. La exposición oral</a>
 <ul>
-<li><a href="#org59c112d">4.1. Pautas para una expresión adecuada</a></li>
+<li><a href="#orgb16c770">4.1. Pautas para una expresión adecuada</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org904b1f7" class="outline-2">
-<h2 id="org904b1f7"><span class="section-number-2">1</span> Comunicación y lenguaje</h2>
+<div id="outline-container-orgf0b9f34" class="outline-2">
+<h2 id="orgf0b9f34"><span class="section-number-2">1</span> Comunicación y lenguaje</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org742fcf4" class="outline-3">
-<h3 id="org742fcf4"><span class="section-number-3">1.1</span> Proceso de comunicación</h3>
+<div id="outline-container-org9b70528" class="outline-3">
+<h3 id="org9b70528"><span class="section-number-3">1.1</span> Proceso de comunicación</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 La comunicación es el cálculo constante de intenciones. El modelo inferencial de la comunicación
@@ -328,8 +341,8 @@ Los elementos del circuito comunicativo son:
 </div>
 </div>
 
-<div id="outline-container-orga0056aa" class="outline-4">
-<h4 id="orga0056aa"><span class="section-number-4">1.1.1</span> Principio de cooperación</h4>
+<div id="outline-container-org3a4cd74" class="outline-4">
+<h4 id="org3a4cd74"><span class="section-number-4">1.1.1</span> Principio de cooperación</h4>
 <div class="outline-text-4" id="text-1-1-1">
 <p>
 El principio de cooperación  es la forma en la que Grice describe  el comportamiento. Se basa en
@@ -345,16 +358,16 @@ una serie de máximas que pueden o no ser acatadas.
 </div>
 </div>
 </div>
-<div id="outline-container-org5f26430" class="outline-3">
-<h3 id="org5f26430"><span class="section-number-3">1.2</span> Lenguaje: definición, tipos y características</h3>
+<div id="outline-container-orgeb6ac7d" class="outline-3">
+<h3 id="orgeb6ac7d"><span class="section-number-3">1.2</span> Lenguaje: definición, tipos y características</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 El lenguaje es la facultad de asociar dos  ordenes distintos de entidades: orden de contenidos y
 orden de la expresión,  esto hace al lenguaje biplanar.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
 </p>
 </div>
-<div id="outline-container-orga08bb1b" class="outline-4">
-<h4 id="orga08bb1b"><span class="section-number-4">1.2.1</span> Características</h4>
+<div id="outline-container-org4ac91b7" class="outline-4">
+<h4 id="org4ac91b7"><span class="section-number-4">1.2.1</span> Características</h4>
 <div class="outline-text-4" id="text-1-2-1">
 <ul class="org-ul">
 <li>Congénito: Se nace con la capacidad.</li>
@@ -369,8 +382,8 @@ lenguas la impone la naturaleza del lenguaje.</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org05f24a8" class="outline-3">
-<h3 id="org05f24a8"><span class="section-number-3">1.3</span> Relación entre lenguaje, lengua y habla</h3>
+<div id="outline-container-org533378f" class="outline-3">
+<h3 id="org533378f"><span class="section-number-3">1.3</span> Relación entre lenguaje, lengua y habla</h3>
 <div class="outline-text-3" id="text-1-3">
 <p>
 El lenguaje es la capacidad. La lengua es el  producto social de la facultad del lenguaje, es la
@@ -379,20 +392,20 @@ en uso.
 </p>
 </div>
 </div>
-<div id="outline-container-org9f4b587" class="outline-3">
-<h3 id="org9f4b587"><span class="section-number-3">1.4</span> Diferencias entre lengua oral y lengua escrita</h3>
+<div id="outline-container-org46a95fe" class="outline-3">
+<h3 id="org46a95fe"><span class="section-number-3">1.4</span> Diferencias entre lengua oral y lengua escrita</h3>
 <div class="outline-text-3" id="text-1-4">
 <p>
 La lengua escrita es la expresión psíquica directa del pensamiento.
 </p>
 </div>
 </div>
-<div id="outline-container-orgb339d84" class="outline-3">
-<h3 id="orgb339d84"><span class="section-number-3">1.5</span> Estructura y función gramatical de palabras y oraciones<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup></h3>
+<div id="outline-container-orgd4706ff" class="outline-3">
+<h3 id="orgd4706ff"><span class="section-number-3">1.5</span> Estructura y función gramatical de palabras y oraciones<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup></h3>
 <div class="outline-text-3" id="text-1-5">
 </div>
-<div id="outline-container-org3180c41" class="outline-4">
-<h4 id="org3180c41"><span class="section-number-4">1.5.1</span> Terminología</h4>
+<div id="outline-container-org6372eff" class="outline-4">
+<h4 id="org6372eff"><span class="section-number-4">1.5.1</span> Terminología</h4>
 <div class="outline-text-4" id="text-1-5-1">
 <ul class="org-ul">
 <li>Morfología: Afijos que toma (morfemas).</li>
@@ -405,12 +418,12 @@ manifestar plenamente su significado.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb5c02c3" class="outline-4">
-<h4 id="orgb5c02c3"><span class="section-number-4">1.5.2</span> Clases de palabras</h4>
+<div id="outline-container-org510ff6b" class="outline-4">
+<h4 id="org510ff6b"><span class="section-number-4">1.5.2</span> Clases de palabras</h4>
 <div class="outline-text-4" id="text-1-5-2">
 </div>
-<div id="outline-container-org12b28aa" class="outline-5">
-<h5 id="org12b28aa"><span class="section-number-5">1.5.2.1</span> Nombres</h5>
+<div id="outline-container-orgfb85012" class="outline-5">
+<h5 id="orgfb85012"><span class="section-number-5">1.5.2.1</span> Nombres</h5>
 <div class="outline-text-5" id="text-1-5-2-1">
 <ul class="org-ul">
 <li>Morfología: Género, número, caso, diminutivo, aumentativo</li>
@@ -420,8 +433,8 @@ determinantes y antes de adjetivos.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgee84d75" class="outline-5">
-<h5 id="orgee84d75"><span class="section-number-5">1.5.2.2</span> Verbo</h5>
+<div id="outline-container-org58456da" class="outline-5">
+<h5 id="org58456da"><span class="section-number-5">1.5.2.2</span> Verbo</h5>
 <div class="outline-text-5" id="text-1-5-2-2">
 <ul class="org-ul">
 <li>Morfología: Persona, número, tiempo, aspecto, modo, voz</li>
@@ -431,8 +444,8 @@ negados, toman argumentos, pueden acompañarse de auxiliares.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc1b700f" class="outline-5">
-<h5 id="orgc1b700f"><span class="section-number-5">1.5.2.3</span> Adjetivo</h5>
+<div id="outline-container-org975f8d3" class="outline-5">
+<h5 id="org975f8d3"><span class="section-number-5">1.5.2.3</span> Adjetivo</h5>
 <div class="outline-text-5" id="text-1-5-2-3">
 <ul class="org-ul">
 <li>Morfología: Número, género, grado (superlativo, comparativo, positivo)</li>
@@ -442,8 +455,8 @@ nombre. Modificados por intensificadores o adverbios. Funcionan como predicados.
 </ul>
 </div>
 </div>
-<div id="outline-container-org2c88fa3" class="outline-5">
-<h5 id="org2c88fa3"><span class="section-number-5">1.5.2.4</span> Adverbios</h5>
+<div id="outline-container-org4634f58" class="outline-5">
+<h5 id="org4634f58"><span class="section-number-5">1.5.2.4</span> Adverbios</h5>
 <div class="outline-text-5" id="text-1-5-2-4">
 <ul class="org-ul">
 <li>Morfología: Derivan de adjetivos por medio de -mente</li>
@@ -452,8 +465,8 @@ adverbios. En ciertos contextos se comportan como adjetivos.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga57033c" class="outline-5">
-<h5 id="orga57033c"><span class="section-number-5">1.5.2.5</span> Preposiciones</h5>
+<div id="outline-container-org38ccfd7" class="outline-5">
+<h5 id="org38ccfd7"><span class="section-number-5">1.5.2.5</span> Preposiciones</h5>
 <div class="outline-text-5" id="text-1-5-2-5">
 <p>
 Toman una FN  como término o complemento: a,  ante, bajo, cabe(cerca de, junto  a), con, contra,
@@ -462,8 +475,8 @@ debajo de), sobre, tras, vía<sup><a id="fnr.5" class="footref" href="#fn.5">5</
 </p>
 </div>
 </div>
-<div id="outline-container-org87736db" class="outline-5">
-<h5 id="org87736db"><span class="section-number-5">1.5.2.6</span> Determinantes</h5>
+<div id="outline-container-org2d47aa6" class="outline-5">
+<h5 id="org2d47aa6"><span class="section-number-5">1.5.2.6</span> Determinantes</h5>
 <div class="outline-text-5" id="text-1-5-2-6">
 <ul class="org-ul">
 <li>Artículos: El, la, un, una, los, las&#x2026;</li>
@@ -474,16 +487,16 @@ debajo de), sobre, tras, vía<sup><a id="fnr.5" class="footref" href="#fn.5">5</
 </ul>
 </div>
 </div>
-<div id="outline-container-org3abad02" class="outline-5">
-<h5 id="org3abad02"><span class="section-number-5">1.5.2.7</span> Conjunciones:</h5>
+<div id="outline-container-org8241be1" class="outline-5">
+<h5 id="org8241be1"><span class="section-number-5">1.5.2.7</span> Conjunciones:</h5>
 <div class="outline-text-5" id="text-1-5-2-7">
 <p>
 y, u, ni, pero&#x2026;
 </p>
 </div>
 </div>
-<div id="outline-container-orgca8ff10" class="outline-5">
-<h5 id="orgca8ff10"><span class="section-number-5">1.5.2.8</span> Complementantes</h5>
+<div id="outline-container-org59da801" class="outline-5">
+<h5 id="org59da801"><span class="section-number-5">1.5.2.8</span> Complementantes</h5>
 <div class="outline-text-5" id="text-1-5-2-8">
 <p>
 que, si, donde.
@@ -491,12 +504,12 @@ que, si, donde.
 </div>
 </div>
 </div>
-<div id="outline-container-org50b4801" class="outline-4">
-<h4 id="org50b4801"><span class="section-number-4">1.5.3</span> Relaciones Gramaticales</h4>
+<div id="outline-container-orgce1b59c" class="outline-4">
+<h4 id="orgce1b59c"><span class="section-number-4">1.5.3</span> Relaciones Gramaticales</h4>
 <div class="outline-text-4" id="text-1-5-3">
 </div>
-<div id="outline-container-orgdc8bdc8" class="outline-5">
-<h5 id="orgdc8bdc8"><span class="section-number-5">1.5.3.1</span> Sujeto</h5>
+<div id="outline-container-org7683ae3" class="outline-5">
+<h5 id="org7683ae3"><span class="section-number-5">1.5.3.1</span> Sujeto</h5>
 <div class="outline-text-5" id="text-1-5-3-1">
 <ul class="org-ul">
 <li>Concuerda con el verbo</li>
@@ -507,8 +520,8 @@ que, si, donde.
 </ul>
 </div>
 </div>
-<div id="outline-container-org965fa8d" class="outline-5">
-<h5 id="org965fa8d"><span class="section-number-5">1.5.3.2</span> Objeto</h5>
+<div id="outline-container-org9215332" class="outline-5">
+<h5 id="org9215332"><span class="section-number-5">1.5.3.2</span> Objeto</h5>
 <div class="outline-text-5" id="text-1-5-3-2">
 <ul class="org-ul">
 <li>Sustituible por clítico de objeto</li>
@@ -519,15 +532,15 @@ que, si, donde.
 </ul>
 </div>
 </div>
-<div id="outline-container-org1454a40" class="outline-5">
-<h5 id="org1454a40"><span class="section-number-5">1.5.3.3</span> Oblicuos</h5>
+<div id="outline-container-org41ffb16" class="outline-5">
+<h5 id="org41ffb16"><span class="section-number-5">1.5.3.3</span> Oblicuos</h5>
 <div class="outline-text-5" id="text-1-5-3-3">
 <ul class="org-ul">
 <li>Requieren marca especial (preposición)</li>
 </ul>
 </div>
 <ol class="org-ol">
-<li><a id="org3d2fcb9"></a>Objetos indirectos<br>
+<li><a id="org6293081"></a>Objetos indirectos<br>
 <div class="outline-text-6" id="text-1-5-3-3-1">
 <ul class="org-ul">
 <li>Son argumentos del verbo</li>
@@ -538,7 +551,7 @@ que, si, donde.
 </ul>
 </div>
 </li>
-<li><a id="org9b23a64"></a>Adjuntos<br>
+<li><a id="org49810ea"></a>Adjuntos<br>
 <div class="outline-text-6" id="text-1-5-3-3-2">
 <ul class="org-ul">
 <li>No son requeridos por el verbo</li>
@@ -549,8 +562,8 @@ que, si, donde.
 </ol>
 </div>
 </div>
-<div id="outline-container-org9cd57d2" class="outline-4">
-<h4 id="org9cd57d2"><span class="section-number-4">1.5.4</span> Otros puntos a tratar</h4>
+<div id="outline-container-orge039720" class="outline-4">
+<h4 id="orge039720"><span class="section-number-4">1.5.4</span> Otros puntos a tratar</h4>
 <div class="outline-text-4" id="text-1-5-4">
 <ul class="org-ul">
 <li>Definición de núcleo y principio de endocentrismo.</li>
@@ -564,12 +577,12 @@ que, si, donde.
 </div>
 </div>
 </div>
-<div id="outline-container-org1fa2348" class="outline-2">
-<h2 id="org1fa2348"><span class="section-number-2">2</span> Estructura de un texto escrito</h2>
+<div id="outline-container-org93696f5" class="outline-2">
+<h2 id="org93696f5"><span class="section-number-2">2</span> Estructura de un texto escrito</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org81acfc9" class="outline-3">
-<h3 id="org81acfc9"><span class="section-number-3">2.1</span> Texto: estructura y propiedades. Marcadores discursivos</h3>
+<div id="outline-container-org455e4a4" class="outline-3">
+<h3 id="org455e4a4"><span class="section-number-3">2.1</span> Texto: estructura y propiedades. Marcadores discursivos</h3>
 <div class="outline-text-3" id="text-2-1">
 <ul class="org-ul">
 <li>Estructura interna: Se realiza por medio de un  proceso mental que se da antes de escribir. En
@@ -580,8 +593,8 @@ determinada por los  recursos de los que dispone  quien va a emitir el  mensaje.
 que la constituyen son: el orden, el lenguaje, el estilo y el entorno.</li>
 </ul>
 </div>
-<div id="outline-container-orgc8c154d" class="outline-4">
-<h4 id="orgc8c154d"><span class="section-number-4">2.1.1</span> Características</h4>
+<div id="outline-container-org7cc8645" class="outline-4">
+<h4 id="org7cc8645"><span class="section-number-4">2.1.1</span> Características</h4>
 <div class="outline-text-4" id="text-2-1-1">
 <p>
 Estas características del texto a su vez forman el estilo del mismo.
@@ -591,16 +604,22 @@ Estas características del texto a su vez forman el estilo del mismo.
 <li>Precisión. Principalmente al expresar la idea fundamental.</li>
 <li>Propiedad. En el sentido de usar términos y expresiones adecuados tanto en el significado como
 en el manejo de las normas de escritura.</li>
-<li>Concisión.</li>
+<li>Concisión o brevedad.</li>
 <li>Sencillez.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf37bb74" class="outline-4">
-<h4 id="orgf37bb74"><span class="section-number-4">2.1.2</span> Marcadores discursivos adverbiales</h4>
+<div id="outline-container-org49044fb" class="outline-4">
+<h4 id="org49044fb"><span class="section-number-4">2.1.2</span> Marcadores discursivos adverbiales</h4>
 <div class="outline-text-4" id="text-2-1-2">
+<p>
+Los marcadores discursivos son nexos que guían la idea de un texto. Por lo tanto, son capaces de
+unir ideas complejas, a  diferencia de las conjunciones que relacionan frases  del mismo tipo. A
+continuación se muestra una clasificación por función de marcadores discursivos:
+</p>
+
 <ul class="org-ul">
-<li>Aditivos y  de presición o  particularización: a  decir verdad, además,  análogamente, aparte,
+<li>Aditivos y  de precisión o  particularización: a  decir verdad, además,  análogamente, aparte,
 asimismo, de hecho,  encima, en el fondo, en  realidad, es más, por añadidura,  por otro lado,
 por si fuera poco, sobre todo.</li>
 <li>Adversativos y contraargumentativos: ahora bien, (antes)  al contrario, antes bien, después de
@@ -622,18 +641,26 @@ resumen, en resumidas cuentas, en síntesis, en suma, en una palabra, resumiendo
 <li>De apoyo argumentativo: así las cosas, dicho esto, en vista de ello, pues bien.</li>
 <li>De digresión: a propósito, a todo esto, dicho sea de paso, entre paréntesis, por cierto.</li>
 </ul>
-</div>
-</div>
-</div>
-<div id="outline-container-orgd84b557" class="outline-3">
-<h3 id="orgd84b557"><span class="section-number-3">2.2</span> Párrafo: características y clasificación</h3>
-<div class="outline-text-3" id="text-2-2">
+
 <p>
-Un párrafo es un conjunto de oraciones que tratan de un mismo tema.
+Los marcadores discursivos  son capaces de relacionar párrafos, caractirística  que no tiene una
+conjunción.
 </p>
 </div>
-<div id="outline-container-org7def5b8" class="outline-4">
-<h4 id="org7def5b8"><span class="section-number-4">2.2.1</span> Características de un párrafo</h4>
+</div>
+</div>
+<div id="outline-container-org3680c79" class="outline-3">
+<h3 id="org3680c79"><span class="section-number-3">2.2</span> Párrafo: características y clasificación</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Un párrafo es  un conjunto de oraciones  que tratan de un  mismo tema. La forma  más sencilla de
+escribir un párrafo es por medio de una lista de oraciones que predican distintas cosas sobre un
+mismo referente, después esas oraciones podrán  ordenarse y relacionarse por medio de marcadores
+discursivos o conjunciones.
+</p>
+</div>
+<div id="outline-container-orgbf62152" class="outline-4">
+<h4 id="orgbf62152"><span class="section-number-4">2.2.1</span> Características de un párrafo</h4>
 <div class="outline-text-4" id="text-2-2-1">
 <ul class="org-ul">
 <li>Coherencia: Todas las oraciones tienen el mismo referente.</li>
@@ -656,11 +683,25 @@ explicada, detallada,  ejemplificada, argumentada  y desarrollada a  lo largo
 del párrafo.  A esta  oración se  le llama <i>oración  tópico</i> y  puede estar
 explicita o implícita en el párrafo.
 </p>
+
+<p>
+La oración  tópico explícita esta  escrita dentro  del párrafo y  por lo tanto  puede subrayarse
+directamente. Por  otra parte,  la oración tópico  implícita debe ser  construida por  el lector,
+usando el  referente del párrafo  (la coherencia)  y creando un  solo predicado que  englobe las
+ideas principales.
+</p>
 </div>
 </div>
-<div id="outline-container-orgc49c1f0" class="outline-4">
-<h4 id="orgc49c1f0"><span class="section-number-4">2.2.2</span> Tipos de párrafo</h4>
+
+<div id="outline-container-orgac52b79" class="outline-4">
+<h4 id="orgac52b79"><span class="section-number-4">2.2.2</span> Tipos de párrafo</h4>
 <div class="outline-text-4" id="text-2-2-2">
+<p>
+Cada  párrafo  tiene  una  función  que  es fácilmente  identificable  por medio  de  la  oración
+tópico. Para saber que  tipo de párrafo estamos leyendo hay que  preguntarnos ¿Qué está haciendo
+la oración tópico? Los tipos de párrafo son los siguientes:
+</p>
+
 <ul class="org-ul">
 <li>Descriptivo: Explica, aclara, detalla,  ilustra, ejemplifica o argumenta la
 oración tópico.</li>
@@ -674,8 +715,8 @@ B</i>.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org7d9a2b0" class="outline-4">
-<h4 id="org7d9a2b0"><span class="section-number-4">2.2.3</span> Oraciones dentro de los párrafos</h4>
+<div id="outline-container-orgde610a3" class="outline-4">
+<h4 id="orgde610a3"><span class="section-number-4">2.2.3</span> Oraciones dentro de los párrafos</h4>
 <div class="outline-text-4" id="text-2-2-3">
 <ul class="org-ul">
 <li>Orden lógico: De uso frecuente en  la narración, en el recuento de eventos,
@@ -692,12 +733,12 @@ eventos, en la explicación de procesos y direcciones, etc.</li>
 </div>
 </div>
 </div>
-<div id="outline-container-orge3abca8" class="outline-3">
-<h3 id="orge3abca8"><span class="section-number-3">2.3</span> Tipos de textos descriptivos-argumentativos: informe técnico, artículo científico, ensayo y tesis</h3>
+<div id="outline-container-org9ec8ead" class="outline-3">
+<h3 id="org9ec8ead"><span class="section-number-3">2.3</span> Tipos de textos descriptivos-argumentativos: informe técnico, artículo científico, ensayo y tesis</h3>
 <div class="outline-text-3" id="text-2-3">
 </div>
-<div id="outline-container-orgfa7988e" class="outline-4">
-<h4 id="orgfa7988e"><span class="section-number-4">2.3.1</span> La explicación</h4>
+<div id="outline-container-orgb53272c" class="outline-4">
+<h4 id="orgb53272c"><span class="section-number-4">2.3.1</span> La explicación</h4>
 <div class="outline-text-4" id="text-2-3-1">
 <p>
 Responde implícita o explícitamente a estas preguntas: ¿Qué es?, ¿Cómo funciona?, ¿Por qué?
@@ -722,16 +763,16 @@ Se debe tener en cuenta:
 </ul>
 </div>
 </div>
-<div id="outline-container-org70d545c" class="outline-4">
-<h4 id="org70d545c"><span class="section-number-4">2.3.2</span> La argumentación</h4>
+<div id="outline-container-org8326daa" class="outline-4">
+<h4 id="org8326daa"><span class="section-number-4">2.3.2</span> La argumentación</h4>
 <div class="outline-text-4" id="text-2-3-2">
 <p>
 Justifica una  opinión para convencer a  otro sobre la  tesis que se sustenta.  Busca convencer,
 persuadir, movilizar o suscitar una acción.
 </p>
 </div>
-<div id="outline-container-org9e2e25a" class="outline-5">
-<h5 id="org9e2e25a"><span class="section-number-5">2.3.2.1</span> Argumentación analógica</h5>
+<div id="outline-container-orgbd612fb" class="outline-5">
+<h5 id="orgbd612fb"><span class="section-number-5">2.3.2.1</span> Argumentación analógica</h5>
 <div class="outline-text-5" id="text-2-3-2-1">
 <ul class="org-ul">
 <li>Compara dos hechos o situaciones.</li>
@@ -741,8 +782,8 @@ o situación similar.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org68b566f" class="outline-5">
-<h5 id="org68b566f"><span class="section-number-5">2.3.2.2</span> Argumentación causa-efecto</h5>
+<div id="outline-container-org569525a" class="outline-5">
+<h5 id="org569525a"><span class="section-number-5">2.3.2.2</span> Argumentación causa-efecto</h5>
 <div class="outline-text-5" id="text-2-3-2-2">
 <p>
 Se usa cuando un fenómeno entraña a otro en función del conocimiento científico o empírico.
@@ -815,12 +856,12 @@ Expresiones:
 </div>
 </div>
 </div>
-<div id="outline-container-orgc495f30" class="outline-4">
-<h4 id="orgc495f30"><span class="section-number-4">2.3.3</span> "Creating A Research Space" <b>CARS</b> model<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup></h4>
+<div id="outline-container-org691067e" class="outline-4">
+<h4 id="org691067e"><span class="section-number-4">2.3.3</span> "Creating A Research Space" <b>CARS</b> model<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup></h4>
 <div class="outline-text-4" id="text-2-3-3">
 </div>
-<div id="outline-container-orgf9ba1a9" class="outline-5">
-<h5 id="orgf9ba1a9"><span class="section-number-5">2.3.3.1</span> Movimiento 1: Establecer un territorio</h5>
+<div id="outline-container-org778de24" class="outline-5">
+<h5 id="org778de24"><span class="section-number-5">2.3.3.1</span> Movimiento 1: Establecer un territorio</h5>
 <div class="outline-text-5" id="text-2-3-3-1">
 <p>
 Se refiere a plantear la situación. Este movimiento se divide en tres pasos. Todos los pasos son
@@ -834,8 +875,8 @@ optativos, debe seleccionarse al menos uno.
 </dl>
 </div>
 </div>
-<div id="outline-container-org81ccbae" class="outline-5">
-<h5 id="org81ccbae"><span class="section-number-5">2.3.3.2</span> Movimiento 2: Establecer un nicho</h5>
+<div id="outline-container-org9c9c5b0" class="outline-5">
+<h5 id="org9c9c5b0"><span class="section-number-5">2.3.3.2</span> Movimiento 2: Establecer un nicho</h5>
 <div class="outline-text-5" id="text-2-3-3-2">
 <p>
 Se refiere a establecer el  problema que se atenderá en el escrito. Consiste  en un solo paso de
@@ -850,8 +891,8 @@ puede abordarse de cuatro maneras diferentes. Debe escogerse solo una de estas o
 </dl>
 </div>
 </div>
-<div id="outline-container-orgc364cce" class="outline-5">
-<h5 id="orgc364cce"><span class="section-number-5">2.3.3.3</span> Movimiento 3: Ocupar el nicho</h5>
+<div id="outline-container-org52427f7" class="outline-5">
+<h5 id="org52427f7"><span class="section-number-5">2.3.3.3</span> Movimiento 3: Ocupar el nicho</h5>
 <div class="outline-text-5" id="text-2-3-3-3">
 <p>
 Se trata de  establecer la solución al  problema planteado en el movimiento  anterior.  Se deben
@@ -879,12 +920,12 @@ paso depende nuevamente del desarrollo de la investigación en el momento de esc
 </div>
 </div>
 </div>
-<div id="outline-container-org799dd4b" class="outline-2">
-<h2 id="org799dd4b"><span class="section-number-2">3</span> La redacción</h2>
+<div id="outline-container-org982bf65" class="outline-2">
+<h2 id="org982bf65"><span class="section-number-2">3</span> La redacción</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-orgb361dd1" class="outline-3">
-<h3 id="orgb361dd1"><span class="section-number-3">3.1</span> Características de una buena redacción</h3>
+<div id="outline-container-org285752c" class="outline-3">
+<h3 id="org285752c"><span class="section-number-3">3.1</span> Características de una buena redacción</h3>
 <div class="outline-text-3" id="text-3-1">
 <ul class="org-ul">
 <li>Contar con información suficiente, precisa y veraz para comunicarla en forma escrita.</li>
@@ -901,12 +942,12 @@ actividad imprescindible.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd1cb4d0" class="outline-3">
-<h3 id="orgd1cb4d0"><span class="section-number-3">3.2</span> Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación</h3>
+<div id="outline-container-orgece85b0" class="outline-3">
+<h3 id="orgece85b0"><span class="section-number-3">3.2</span> Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación</h3>
 <div class="outline-text-3" id="text-3-2">
 </div>
-<div id="outline-container-orgf70194e" class="outline-4">
-<h4 id="orgf70194e"><span class="section-number-4">3.2.1</span> Citas para un trabajo de investigación</h4>
+<div id="outline-container-orgf23e45c" class="outline-4">
+<h4 id="orgf23e45c"><span class="section-number-4">3.2.1</span> Citas para un trabajo de investigación</h4>
 <div class="outline-text-4" id="text-3-2-1">
 <p>
 Es  muy  recomendable  hacer  las  fichas  o referencias  bibliográficas  de  todos  los  libros
@@ -956,8 +997,8 @@ Finalmente,  cuando existan  referencias  electrónicas, se  debe agregar  el  t
 (audio, video, etc.) y la forma de publicación del mismo.
 </p>
 </div>
-<div id="outline-container-orgc9d7f8f" class="outline-5">
-<h5 id="orgc9d7f8f"><span class="section-number-5">3.2.1.1</span> Normas</h5>
+<div id="outline-container-org358de11" class="outline-5">
+<h5 id="org358de11"><span class="section-number-5">3.2.1.1</span> Normas</h5>
 <div class="outline-text-5" id="text-3-2-1-1">
 <ul class="org-ul">
 <li>ISO 960</li>
@@ -976,19 +1017,19 @@ Sitio web de ayuda: <a href="http://www.citationmachine.net">Citation Machine</a
 </div>
 </div>
 </div>
-<div id="outline-container-orgc9d8302" class="outline-3">
-<h3 id="orgc9d8302"><span class="section-number-3">3.3</span> Errores y deficiencias comunes en la redacción</h3>
+<div id="outline-container-orgf20c0d8" class="outline-3">
+<h3 id="orgf20c0d8"><span class="section-number-3">3.3</span> Errores y deficiencias comunes en la redacción</h3>
 <div class="outline-text-3" id="text-3-3">
 </div>
-<div id="outline-container-orgd0ea4ae" class="outline-4">
-<h4 id="orgd0ea4ae"><span class="section-number-4">3.3.1</span> El uso del gerundio</h4>
+<div id="outline-container-orgadcc296" class="outline-4">
+<h4 id="orgadcc296"><span class="section-number-4">3.3.1</span> El uso del gerundio</h4>
 <div class="outline-text-4" id="text-3-3-1">
 <p>
 El gerundio es una forma verbal impersonal con terminación -ando -endo.
 </p>
 </div>
-<div id="outline-container-orgf683033" class="outline-5">
-<h5 id="orgf683033"><span class="section-number-5">3.3.1.1</span> Uso correcto</h5>
+<div id="outline-container-orgf55ba06" class="outline-5">
+<h5 id="orgf55ba06"><span class="section-number-5">3.3.1.1</span> Uso correcto</h5>
 <div class="outline-text-5" id="text-3-3-1-1">
 <ul class="org-ul">
 <li>Con el verbo <i>estar</i>, cuando una oreación relata una acción progresiva.</li>
@@ -998,8 +1039,8 @@ El gerundio es una forma verbal impersonal con terminación -ando -endo.
 </ul>
 </div>
 </div>
-<div id="outline-container-org2aaaa72" class="outline-5">
-<h5 id="org2aaaa72"><span class="section-number-5">3.3.1.2</span> Uso incorrecto</h5>
+<div id="outline-container-orgd54f5f2" class="outline-5">
+<h5 id="orgd54f5f2"><span class="section-number-5">3.3.1.2</span> Uso incorrecto</h5>
 <div class="outline-text-5" id="text-3-3-1-2">
 <ul class="org-ul">
 <li>Cuando es consecuencia de una acción.</li>
@@ -1009,8 +1050,8 @@ El gerundio es una forma verbal impersonal con terminación -ando -endo.
 </div>
 </div>
 </div>
-<div id="outline-container-orgcfa94ad" class="outline-4">
-<h4 id="orgcfa94ad"><span class="section-number-4">3.3.2</span> Generalidades sobre tiempo y persona en un escrito</h4>
+<div id="outline-container-orge9fd164" class="outline-4">
+<h4 id="orge9fd164"><span class="section-number-4">3.3.2</span> Generalidades sobre tiempo y persona en un escrito</h4>
 <div class="outline-text-4" id="text-3-3-2">
 <ul class="org-ul">
 <li>El tiempo  presente funciona para  reavivar una narración. Sin  embargo, en
@@ -1031,8 +1072,8 @@ necesario para una descripción eficiente.</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org1502d8e" class="outline-3">
-<h3 id="org1502d8e"><span class="section-number-3">3.4</span> Reglas básicas de ortografía</h3>
+<div id="outline-container-orgca54568" class="outline-3">
+<h3 id="orgca54568"><span class="section-number-3">3.4</span> Reglas básicas de ortografía</h3>
 <div class="outline-text-3" id="text-3-4">
 <p>
 Las  reglas  de  ortografía   para  el  curso  se  encuentran  en  su   totalidad  en  el  libro
@@ -1048,8 +1089,8 @@ dicho libro para que pueda seguirlo siempre que lo necesite.
 </div>
 </div>
 </div>
-<div id="outline-container-org8190c53" class="outline-2">
-<h2 id="org8190c53"><span class="section-number-2">4</span> La exposición oral</h2>
+<div id="outline-container-org2714007" class="outline-2">
+<h2 id="org2714007"><span class="section-number-2">4</span> La exposición oral</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 La expresión  oral es  una de las  habilidades lingüísticas más  utilizas en  el día a  día. Sin
@@ -1076,8 +1117,8 @@ Opcionalmente, es recomendado poner especial atención en la apertura y cierre d
 </p>
 </div>
 
-<div id="outline-container-org59c112d" class="outline-3">
-<h3 id="org59c112d"><span class="section-number-3">4.1</span> Pautas para una expresión adecuada</h3>
+<div id="outline-container-orgb16c770" class="outline-3">
+<h3 id="orgb16c770"><span class="section-number-3">4.1</span> Pautas para una expresión adecuada</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 Es   posible  diagnosticar   las   habilidades   que  un   hablante   tiene   sobre  la   lengua
@@ -1095,6 +1136,9 @@ necesario poner especial atención en las exclamaciones e interrogaciones.</li>
 los tres puntos anteriores.</li>
 <li>Nitidez en el timbre vocálico. Evita la distorsión de los sonidos.</li>
 </ul>
+</div>
+</div>
+</div>
 
 <div id="bibliography">
 <h2>Referencias</h2>
@@ -1198,11 +1242,8 @@ Española, R.&nbsp;A. (2012).
 </tr>
 </table>
 </div>
-</div>
-</div>
-</div>
 <div id="footnotes">
-<h2 class="footnotes">Nota al pie de p&aacute;gina: </h2>
+<h2 class="footnotes">Nota al pie de p&aacute;gina</h2>
 <div id="text-footnotes">
 
 <div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
@@ -1234,9 +1275,9 @@ ejemplos (en inglés)</a>.
 </div>
 </div></div>
 <div id="postamble" class="status">
-<p class="date">Fecha: 2018</p>
+<p class="date">Fecha: 2020</p>
 <p class="author">Autor: Edgar Uriel Domínguez Espinoza</p>
-<p class="date">Created: 2018-07-13 vie 20:17</p>
+<p class="date">Created: 2020-03-17 mar 23:05</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

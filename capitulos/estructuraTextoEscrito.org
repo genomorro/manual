@@ -12,10 +12,14 @@ Estas características del texto a su vez forman el estilo del mismo.
 - Precisión. Principalmente al expresar la idea fundamental.
 - Propiedad. En el sentido de usar términos y expresiones adecuados tanto en el significado como
   en el manejo de las normas de escritura.
-- Concisión.
+- Concisión o brevedad.
 - Sencillez.
 *** Marcadores discursivos adverbiales
-- Aditivos y  de presición o  particularización: a  decir verdad, además,  análogamente, aparte,
+Los marcadores discursivos son nexos que guían la idea de un texto. Por lo tanto, son capaces de
+unir ideas complejas, a  diferencia de las conjunciones que relacionan frases  del mismo tipo. A
+continuación se muestra una clasificación por función de marcadores discursivos:
+
+- Aditivos y  de precisión o  particularización: a  decir verdad, además,  análogamente, aparte,
   asimismo, de hecho,  encima, en el fondo, en  realidad, es más, por añadidura,  por otro lado,
   por si fuera poco, sobre todo.
 - Adversativos y contraargumentativos: ahora bien, (antes)  al contrario, antes bien, después de
@@ -36,8 +40,14 @@ Estas características del texto a su vez forman el estilo del mismo.
   {primer~segundo...} lugar~término, finalmente, para empezar, para terminar, primeramente.
 - De apoyo argumentativo: así las cosas, dicho esto, en vista de ello, pues bien.
 - De digresión: a propósito, a todo esto, dicho sea de paso, entre paréntesis, por cierto.
+
+Los marcadores discursivos  son capaces de relacionar párrafos, caractirística  que no tiene una
+conjunción.
 ** Párrafo: características y clasificación
-Un párrafo es un conjunto de oraciones que tratan de un mismo tema.
+Un párrafo es  un conjunto de oraciones  que tratan de un  mismo tema. La forma  más sencilla de
+escribir un párrafo es por medio de una lista de oraciones que predican distintas cosas sobre un
+mismo referente, después esas oraciones podrán  ordenarse y relacionarse por medio de marcadores
+discursivos o conjunciones.
 *** Características de un párrafo
 - Coherencia: Todas las oraciones tienen el mismo referente.
 - Cohesión: Las  ideas expresadas  están relacionadas correctamente  unas con
@@ -56,7 +66,17 @@ Cada  párrafo  puede reescribirse  por  medio  de  una  sola oración  que  es
 explicada, detallada,  ejemplificada, argumentada  y desarrollada a  lo largo
 del párrafo.  A esta  oración se  le llama /oración  tópico/ y  puede estar
 explicita o implícita en el párrafo.
+
+La oración  tópico explícita esta  escrita dentro  del párrafo y  por lo tanto  puede subrayarse
+directamente. Por  otra parte,  la oración tópico  implícita debe ser  construida por  el lector,
+usando el  referente del párrafo  (la coherencia)  y creando un  solo predicado que  englobe las
+ideas principales.
+
 *** Tipos de párrafo
+Cada  párrafo  tiene  una  función  que  es fácilmente  identificable  por medio  de  la  oración
+tópico. Para saber que  tipo de párrafo estamos leyendo hay que  preguntarnos ¿Qué está haciendo
+la oración tópico? Los tipos de párrafo son los siguientes:
+
 - Descriptivo: Explica, aclara, detalla,  ilustra, ejemplifica o argumenta la
   oración tópico.
 - Comparativo: Confronta dos objetos. Su  oración tópico puede tomar la forma
