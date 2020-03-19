@@ -8,13 +8,12 @@
 
 * Evaluación para el semestre 2020-2
 #+BEGIN_abstract
-#+END_abstract
-** IN-PROGRESS [#A] Continuación del semestre                      :REVISAR:
 ¡Hola mis jóvenes padawans!
 
 Hoy han suspendido  actividades dentro de la  UNAM y por lo tanto  no me verán un  buen rato. La
 dinámica del curso es bastante adecuada para estos tiempos.
-
+#+END_abstract
+** IN-PROGRESS [#A] Continuación del semestre                      :REVISAR:
 En los siguientes  días actualizaré la guía del  curso en formato [[file:manual.html][HTML]] y listaré  justo aquí los
 temas que  podrás estudiar en  este tiempo, en  la sección de  lecturas colocaré los  libros que
 necesitas  para  estudiar,   además  de  dejarte  actividades  optativas  para   que  así  ganes
