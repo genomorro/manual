@@ -28,4 +28,4 @@ La versión PDF debe ir en `assets/manual.pdf` y la versión HTML en `manual.htm
 
 # Bibliografía
 
-Se usa ox-bibtex
+Se usa ox-bibtex, ver https://vimeo.com/99167082
