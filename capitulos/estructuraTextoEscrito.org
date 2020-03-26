@@ -140,7 +140,59 @@ Expresiones:
 - Relación suficiente: Si...
 - Relación necesaria: Solo si...
 - Relación necesaria y suficiente: Si y solo si...
+*** Realizar una investigación
+El  proceso de  investigación de  un tema  siempre dependerá  del campo  de conocimiento  al que
+pertenezca. Dependiendo de eso, los pasos generales suelen ser:
+
+- Planteamiento: Se  define el objetivo, problema  y/o pregunta de investigación.  Es importante
+  decir  que realizar  correctamente  el  planteamiento tendrá  como  consecuencia reconocer  el
+  alcance de la investigación.
+- Investigación teórica: Consiste en la búsqueda exhaustiva del conocimiento disponible hasta la
+  actualidad. Si  bien es importante contar  con la información actualizada,  nunca debes omitir
+  la literatura clásica si es que existe.
+- Observación: Deberás identificar unidades, casos, variables y constantes que se relacionan con
+  el hecho a examinar.
+- Diseñar (Experimentación):  Diseñar como  modificar lo observado.   Es importante  concebir el
+  diseño de las cosas en el mundo real si no es posible experimentar.
+- Seleccionar muestras y recolectar datos.
+- Profundizar: Analizar y buscar correspondencias con la teoría recolectada previamente.
+- Plantear una hipótesis final.
+- Reportar: Parámetros, criterios, experimentos, indicadores.
+
+Es  importante reconocer  que los  pasos  de la  investigación no  son  lo mismo  que el  método
+científico, el cual se usará para comprobar la hipótesis final producto de la investigación.
+*** El reporte académico
+El   reporte  académico   tiene  como   objetivo  principal   informar  el   resultado  de   una
+investigación.  Para que un reporte sea  correcto es indispensable haber identificado el alcance
+de la investigación: Una investigación tiene un objetivo y por lo tanto un reporte.
+
+Como todo documento  escrito, un reporte tendrá tres partes  básicas: Introducción, desarrollo y
+conclusión. Lo particular en cada texto es el contenido de cada una de estas partes.
+
+De forma general, el desarrollo de un reporte académico contiene:
+
+- Marco teórico: Describe el conocimiento teórico utilizado  en la investigación (ver el paso de
+  investigación teórica).
+- Marco referencial: El contexto en el que se ha realizado la investigación.
+- Método: Los pasos detallados de la investigación, principalmente el paso de diseñar.
+- Resultado: Los  datos obtenidos de  la experimentación, es decir,  la selección de  muestras y
+  recolección de datos.
+- Discusión: Es producto  de los pasos de  investigación de profundizar y  plantear la hipótesis
+  final.
+
+La conclusión de un reporte académico contiene:
+
+- Resumen: De las partes del desarrollo.
+- Hallazgos principales: Mencionar puntualmente que se obtuvo gracias a la investigación.
+- Implicaciones: La importancia de la investigación en el campo de conocimiento.
+- Trabajo a futuro: Nuevas preguntas e investigaciones.
+
 *** "Creating A Research Space" *CARS* model[fn:6]
+El modelo  CARS sirve para  elaborar la  introducción de un  reporte académico. El  contexto que
+asume  el uso  del método  CARS es  que sabes  con claridad  los pasos  de la  investigación que
+realizarás o haz realizado.  El método consta de tres movimientos, cada uno  de ellos con varios
+pasos.
+
 **** Movimiento 1: Establecer un territorio
 Se refiere a plantear la situación. Este movimiento se divide en tres pasos. Todos los pasos son
 optativos, debe seleccionarse al menos uno.
@@ -170,6 +222,11 @@ Opcionalmente, en este movimiento es posible agregar un cuarto paso. La escritur
 paso depende nuevamente del desarrollo de la investigación en el momento de escribir el texto.
 
 - Paso 4 :: Evaluar los descubrimientos principales.
+
+Es importante tener en  cuenta que la introducción será lo primero que  se escribe en un reporte
+académico y  servirá como  mapa para la  escritura del reporte  completo, es  por eso que  en la
+introducción se menciona  todo el contenido del  reporte pero no lo desarrolla,  no menciona los
+detalles de las cosas porque eso va en otra parte del reporte.
 * Notas al Pie
 
 [fn:6] Para una explicación  detallada sobre el modelo *CARS* se recomienda  leer [[http://www.cs.tut.fi/kurssit/SGN-16006/academic_writing/cars_model_handout.pdf][el handout con
