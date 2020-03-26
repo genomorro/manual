@@ -71,3 +71,13 @@
 :YEAR:     1997
 :PUBLISHER: Universidad de Alcalá. Servicio de Publicaciones
 :END:
+* Metodología de la investigación
+:PROPERTIES:
+:TITLE:    Metodología de la investigación
+:BTYPE:    book
+:CUSTOM_ID: sampieri1998metodologia
+:AUTHOR:   Sampieri, Roberto Hernández and Collado, Carlos Fernández and Lucio, Pilar Baptista and Valencia, Sergio Méndez and Torres, Christian Paulina Mendoza
+:VOLUME:   6
+:YEAR:     1998
+:PUBLISHER: Mcgraw-hill México, DF
+:END:
