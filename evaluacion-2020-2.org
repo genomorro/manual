@@ -33,8 +33,8 @@ En cualquiera de esas opciones trataré de estar disponible durante las horas qu
 a las clases. **Por favor, divulga esta información  con tus compañeros** y recuerda que eres tu
 quien decide si estudias y haces las actividades.
 
-*** Estudio 1
-DEADLINE: <2020-03-27 mar>
+*** DONE Estudio 1
+CLOSED: [2020-03-27 vie 21:46] DEADLINE: <2020-03-27 mar>
 
 Lee la guía del curso en los siguientes temas:
 
@@ -52,6 +52,18 @@ cosas, te  pueden ayudar  los conceptos  de narratividad  y desplazamiento  vist
 segunda parte de la tarea es para que logres crear párrafos, te será más fácil si realizaste las
 tareas previas.
 
+*** IN-PROGRESS Estudio 2
+DEADLINE: <2020-04-03 vi>
+
+Lee la guía del curso en los siguientes temas:
+
+- 2.3.3 Realizar una investigación
+- 2.3.4 El reporte académico
+- 2.3.5 "Creating A Research Space" CARS model
+
+Son temas para identificar  las partes de un texto académico. Es importante  que leer el handout
+original  del método  CARS, el  enlace  está en  el apunte.  En  esta ocasión  deberás leer  más
+información sobre el tema, aunque por supuesto contestaré todas las preguntas que me hagan.
 ** Guía del curso
 
 El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
@@ -163,7 +175,7 @@ final del semestre.
     (subraya o escribe según sea el caso), el tipo de oración tópico y el tipo de párrafo. (2P)
 
 12. Realiza una descripción **detallada** del espacio físico representado en una de las fotos de
-    San Juan Tetelcingo, Guerrero que se presentan en los enlaces: [[file:im/Di%CC%81a%20de%20muertos_mexicano_de_guerrero_EAAJ2.jpg][Foto 1]] y [[file:im/Fotos_musicos_mexicano_de_guerrero_EAAJ4.jpg][Foto 2]]
+    San Juan Tetelcingo, Guerrero que se presentan en los enlaces: [[file:im/Di%CC%81a%20de%20muertos_mexicano_de_guerrero_EAAJ2.jpg][Foto 1]] y [[file:im/Fotos_musicos_mexicano_de_guerrero_EAAJ4.jpg][Foto 2]] (3P)
 
 13. Basado  únicamente en  [[https://invidio.us/watch?v=Fq5dAguO34E][el video del  enlace]] haz una  lista ordenada  con los eventos  que se
     mencionan en  la conversación que  se lleva a  cabo en los primeros  dos minutos y  medio de
@@ -171,9 +183,22 @@ final del semestre.
     los diálogos**. Posteriormente, escribe una narración detallada de la pelea que ocurre en la
     segunda mitad  del video, incluido  el diálogo entre los  adversarios.  En cada  párrafo que
     escribas deberás usar un orden de las oraciones en particular.  Usarás al menos una vez cada
-    orden, por lo que serán al menos cuatro párrafos.
+    orden, por lo que serán al menos cuatro párrafos. (3P)
 
-14. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+14. Lee [[http://dx.doi.org/10.22201/fi.25940732e.2020.21n1.004][el artículo de la revista de ingeniería de la facultad]] e identifica las partes del texto
+    académico vistas en  clase. Comienza por lo general (Introducción,  desarrollo y conclusión)
+    hasta  lo particular  (Los movimientos  y  pasos del  método CARS  presentes, elementos  del
+    desarrollo y elementos de la conclusión) y  Distingue cada parte con un color diferente.  Al
+    final, describe con tus  propias palabras si el artículo está  completo y bien estructurado,
+    basa tus observaciones en la identificación de las partes de realizaste. (2P)
+
+15. Escribe un ensayo  breve (3 cuartillas máximo) sobre cómo sobrevivir  a una pandemia zombie.
+    Puedes tomar como referencia  artículos como [[https://arxiv.org/abs/1802.10443][Modeling our survival in  a zombie apocalypse]] o
+    [[https://www.math.upenn.edu/~ted/203S10/Projects/Zombies/Zombies.pdf][When zombies attack!: mathematical modelling of  an outbreak of zombie infection]]. Apoyate en
+    el [[file:assets/Lecto-escritura.pdf][Manual  de Lectoescritura]]  de Margarita  Alegría de la  Colina si  tienes dudas  sobre la
+    palabra /ensayo/ y sigue la teoría vista en [[Estudio 2][la sesión de Estudio 2]]. (3P)
+
+16. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
    la semana.
 
 -Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
