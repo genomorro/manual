@@ -19,7 +19,7 @@ temas que  podrás estudiar en  este tiempo, en  la sección de  lecturas coloca
 necesitas  para  estudiar,   además  de  dejarte  actividades  optativas  para   que  así  ganes
 participaciones que te permitan aprobar la materia.
 
-Si llegas a tener dudas sobre las tareas o  los temas te ofrezco dos formas de contacto (ojo con
+Si llegas a tener dudas sobre las tareas o  los temas te ofrezco tres formas de contacto (ojo con
 los enlaces que te dejo):
 
 1. He creado un [[https://t.me/joinchat/ADgNuhvFipNBfP7JejrKmw][grupo  de telegram]] al que puedes unirte. Telegram no  es software libre, así que
@@ -27,11 +27,13 @@ los enlaces que te dejo):
    adecuadas  únete. Puedo  decirte que  Telegram es  bastante privado.
 2. La única red  de chat libre que conozco es  [[https://xmpp.org/getting-started/][XMPP]]. Es una red federada y  para ingresar a ella
    necesitas darte  de alta  en [[https://xmpp-servers.404.city/][un  servidor XMPP]]. Luego,  usas un  [[https://conversejs.org/][cliente]] para  conectarte. Mi
-   cuenta es edgar\under{}uriel84@jabber.org
+   cuenta es edgar\under{}uriel84 AT jabber DOT org
+3. Correo electrónico: reti AT genomorro DOT name
 
 En cualquiera de esas opciones trataré de estar disponible durante las horas que corresponderían
-a las clases. **Por favor, divulga esta información  con tus compañeros** y recuerda que eres tu
-quien decide si estudias y haces las actividades.
+a las  clases coloco AT en  lugar de (@) y  DOT en lugar de  un (.) por aquello  del spam. **Por
+favor, divulga  esta información con  tus compañeros**  y recuerda que  eres tu quien  decide si
+estudias y haces las actividades.
 
 *** DONE Estudio 1
 CLOSED: [2020-03-27 vie 21:46] DEADLINE: <2020-03-27 mar>
