@@ -54,8 +54,8 @@ cosas, te  pueden ayudar  los conceptos  de narratividad  y desplazamiento  vist
 segunda parte de la tarea es para que logres crear párrafos, te será más fácil si realizaste las
 tareas previas.
 
-*** IN-PROGRESS Estudio 2
-DEADLINE: <2020-04-03 vi>
+*** DONE Estudio 2
+CLOSED: [2020-04-13 lun 17:25] DEADLINE: <2020-04-03 vi>
 
 Lee la guía del curso en los siguientes temas:
 
@@ -69,6 +69,23 @@ información sobre el tema, aunque por supuesto contestaré todas las preguntas 
 
 Respecto a estos temas puedes realizar las tareas 14  y 15. La tarea 14 se refiere a identificar
 los elementos de la teoría y la tarea 15 es realizar un texto basado en dicha teoría.
+
+*** IN-PROGRESS Estudio 3
+DEADLINE: <2020-04-17 vi>
+
+Leer la guía del curso en el tema:
+
+- La exposición oral
+
+En este  tema es necesario la  práctica. Debido a  la situación Cualquier ejercicio  que quieras
+hacer deberás  registrarlo en video.  Los  videos serán evaluados  por medio de las  rúbricas R3
+(para aprobar la revisión) y R4 (para asignar calificación).
+
+Si necesitas usar un  editor de video puedes usar software libre, [[https://www.openshot.org/es/][OpenShot]]  es una buena opción,
+pero es  tu decisión.  No es necesario  el uso de  HD, una  resolución de 480p  será suficiente.
+Procura no usar varias tomas, el objetivo es que puedas decir un discurso de forma continua.
+
+De esta forma puedes realizar las actividades optativas 1, 16 y 17.
 ** Guía del curso
 
 El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
@@ -203,7 +220,12 @@ final del semestre.
     el [[file:assets/Lecto-escritura.pdf][Manual  de Lectoescritura]]  de Margarita  Alegría de la  Colina si  tienes dudas  sobre la
     palabra /ensayo/ y sigue la teoría vista en [[Estudio 2][la sesión de Estudio 2]]. (3P)
 
-16. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+16. Crea una ponencia derivada de la actividad 4 o 15.
+
+17.  Lee "la  llamada de  Cthulhu" (sección  de lecturas).  Cuenta la  historia con  tus propias
+    palabras, graba la narración que realices en audio o video.
+
+18. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
    la semana.
 
 -Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
