@@ -31,3 +31,41 @@ cite:gomez2000lengua:
   los tres puntos anteriores.
 - Nitidez en el timbre vocálico. Evita la distorsión de los sonidos.
 
+** Tipos de exposición oral
+
+Las dos  formas de exposición oral  más comunes en el  ámbito académico son la  conferencia y la
+ponencia. En el  aspecto léxico la ponencia  y la conferencia pueden tomarse  como sinónimos, en
+teoría su principal diferencia es la exactitud con la  que es tratado el tema de interés y en la
+práctica  se  llevan  a cabo  de  forma  totalmente  diferente.  Enseguida se  muestran  algunas
+características de cada una y un enlace con un video que las ejemplifica.
+
+[[https://invidio.us/watch?v=R-sLPTUEq6E&pbj=&autoplay=1][La conferencia]]:
+- El tema es tratado de forma general.
+- El discurso es oral y dinámico, es decir, varia cada vez que se imparte.
+- El material de apoyo es optativo.
+- La duración varia entre 15 hasta 45 minutos.
+
+[[https://invidio.us/watch?v=dgGBYmUfD74&autoplay=1][La ponencia]]:
+- El tema es tratado de forma especializada.
+- El discurso es resultado de un trabajo de  investigación, por lo tanto se trata de una lectura
+  invariable y precisa.
+- El  material  de  apoyo  es  obligatorio  ya   que  es  necesario  escribir  el  discurso  con
+  anterioridad.
+- La duración varia entre 10 hasta 20 minutos.
+- El texto  de la ponencia suele  incluirse en un  libro de memorias  del congreso en el  que se
+  presenta.
+
+En  cuanto  a los  tiempos,  es  posible encontrar  excepciones,  debido  a la  envergadura  del
+expositor,  o bien  el número  de eventos  que  se planificaron  durante el  día.  Otra  posible
+excepción es la  naturaleza del material optativo, se pueden  crear diapositivas, guiones, audio
+y/o video y folletos, es decisión del expositor la creación y uso del material.
+
+Algunos aspectos a tomar en cuenta para la creación de material son:
+- El material no sustituye el discurso, /la audiencia asiste para escuchar al expositor/.
+- El material debe ser visible a la distancia, es el público quien debe verlo, no el expositor.
+- Si es necesario  usar audio o video, el  expositor no hablará durante la  reproducción, por lo
+  tanto el contenido  de dicho material debe ser estrictamente  ejemplificativo, de lo contrario
+  es mejor incluirlo en el discurso de forma directa.
+- Usa infografías en lugar de texto o gráficas,  no es necesario incluir elementos de los cuales
+  no se hablará.
+- Incluye un solo punto de la exposición por diapositiva.
