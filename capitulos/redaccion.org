@@ -12,6 +12,21 @@
   actividad imprescindible.
 - Usa un corrector automático que contenga un buen tesauro.
 ** Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación
+*** Derechos de autor
+
+En México, la [[http://www.diputados.gob.mx/LeyesBiblio/pdf/122_240120.pdf][Ley Federal de Derechos de Autor]] establece cuales son los derechos que los autores
+tienen al crear su obra cultural. Algunos de los puntos principales de la ley son:
+
+- Artículo 3, 4, 13 y 14. Menciona los tipos de creaciones que son objeto de los derechos de autor.
+- Artículo 5. Adquisición de derechos.
+- Artículo 11. Definición del derecho de autor.
+- Artículo 16 y 17. Formas de dar a conocer una obra.
+- Artículo 21. Derechos morales.
+- Artículo 29. Duración de los derechos patrimoniales.
+- Artículo 148, 149 y 151. Limitaciones para el <<uso justo>> de la obra.
+- Artículo 152 y 153. El Dominio Público.
+- Artículo  229 y  230. Infracciones a los derechos de autor.
+
 *** Citas para un trabajo de investigación
 Es  muy  recomendable  hacer  las  fichas  o referencias  bibliográficas  de  todos  los  libros
 consultados. De  igual forma, es necesario  colocar referencias a  lo largo del trabajo  en cada
@@ -45,13 +60,31 @@ Adicionalmente, también es importante tener en cuenta:
 Finalmente,  cuando existan  referencias  electrónicas, se  debe agregar  el  tipo de  documento
 (audio, video, etc.) y la forma de publicación del mismo.
 **** Normas
+La forma de en que se ordenan y colocan  las citas y referencias depende de una norma. Aunque en
+algunos escenarios académicos las citas parentéticas son  muy usadas no siempre son la regla. En
+el siguiente enlace se encuentra un texto que muestra el uso de la norma IEEE para el área de la
+ingeniería eléctrica, electrónica y computo: [[https://www.overleaf.com/read/xchzzmbjdpzd][Texto de ejemplo en Latex.]] Además es posible usarlo
+como ejemplo para escribir en Latex, se recomienda leer las notas tanto en el código fuente como
+en la salida a PDF.
+
+Cada ventana de publicación busca su propia norma para citar, algunas normas populares son:
+
 - ISO 960
 - American Psychological Association (APA).
 - Modern Language Association (MLA).
 - IEEE
-  - The Chicago Manual of Style
+- The Chicago Manual of Style
 
-Sitio web de ayuda: [[http://www.citationmachine.net][Citation Machine]]
+Es posible ver que algunas normas son muy diferentes, como la norma APA (que usa las referencias
+parentéticas) y  la norma  IEEE (que  usa referencias  numéricas), aunque  cumplen con  la misma
+función.
+
+En sitios como [[http://www.citationmachine.net][Citation Machine]]  es posible llenar un formulario con los dato  de la obra que se
+quiere  citar  y  seleccionar  una  norma  para   obtener  la  forma  correcta  del  uso  de  la
+norma. Procesadores de texto como Word y LibreOffice  ofrecen una base de datos para esta tarea,
+Latex ofrece BibTeX, además hay herramientas especializadas  como Zotero o JabRef ayudan a dicha
+tarea. Por lo tanto,  no es necesario aprender una norma, lo recomendable  es que la computadora
+haga esas tareas de forma automática.
 ** Errores y deficiencias comunes en la redacción
 *** El uso del gerundio
 El gerundio es una forma verbal impersonal con terminación -ando -endo.
