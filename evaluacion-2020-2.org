@@ -70,8 +70,8 @@ información sobre el tema, aunque por supuesto contestaré todas las preguntas 
 Respecto a estos temas puedes realizar las tareas 14  y 15. La tarea 14 se refiere a identificar
 los elementos de la teoría y la tarea 15 es realizar un texto basado en dicha teoría.
 
-*** IN-PROGRESS Estudio 3
-DEADLINE: <2020-04-17 vi>
+*** DONE Estudio 3
+CLOSED: [2020-04-28 mar 17:53] DEADLINE: <2020-04-17 vi>
 
 Leer la guía del curso en el tema:
 
@@ -86,6 +86,25 @@ pero es  tu decisión.  No es necesario  el uso de  HD, una  resolución de 480p
 Procura no usar varias tomas, el objetivo es que puedas decir un discurso de forma continua.
 
 De esta forma puedes realizar las actividades optativas 1, 16 y 17.
+*** IN-PROGRESS Estudio 4
+DEADLINE: <2020-05-01>
+
+Leer la guía del curso en el tema:
+
+- 3.2.1 Derechos de autor
+- 3.2.2 Citas para un trabajo de investigación
+
+Este tema es fundamental, debes aplicarlo en cada evidencia que entregues al final del semestre,
+por lo que ten cuidado y revisa con atención. Usa  el texto de Latex que se menciona en la guía,
+lee todas las notas y pregunta lo que no entiendas.
+
+Si no cumples con lo dicho en el  apartado 3.2.1 reprobarás automáticamente el curso. Lee la ley
+con cuidado.
+
+Las actividades correspondientes son:  actividad optativa 18, es una plana  sobre la sesión, muy
+fácil; actividad  optativa 19, es  necesaria, procura investigar  bien, casi ninguna  revista de
+ingeniería  usa  APA directamente  para  sus  textos, si  no  buscas  permanecerás creyendo  una
+mentira; actividad optativa 20, básicamente un aviso para tu calificación.
 ** Guía del curso
 
 El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
@@ -222,11 +241,24 @@ final del semestre.
 
 16. Crea una ponencia derivada de la actividad 4 o 15. (3P c/u)
 
-17.  Lee "la  llamada de  Cthulhu" (sección  de lecturas).  Cuenta la  historia con  tus propias
-    palabras,  graba  la narración  que  realices  en audio  o  video.  También puedes  usar  la
-    actividad 8. (3P c/u)
+17. Lee "la  llamada de  Cthulhu" (sección  de lecturas).  Cuenta la  historia con  tus propias
+   palabras,  graba  la narración  que  realices  en audio  o  video.  También puedes  usar  la
+   actividad 8. (3P c/u)
 
-18. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+18. Haz una  copia a mano y con letra  legible de los artículos mencionados en  la sección 3.2.1
+    del curso. (2P)
+
+19. Investiga una norma de cita usada en tu área de la ingeniería y lista sus características de
+    uso principales: Como escribir una cita,  como escribir una referencia, los datos requeridos
+    para construir la bibliografía. Puedes usar Citation  Machine para encontrar el nombre de la
+    norma y luego buscar en internet su uso específico. (2P)
+
+20. Actualiza  tus trabajos  y tareas para  que coincidan  con la norma  que investigaste  en la
+    actividad 19. Esa norma  se usará para calificar las actividades al  final del semestre (Ver
+    rúbricas  R2 y  R4). Esta  actividad  no suma  participaciones,  pero es  necesaria para  tu
+    calificación.
+
+21. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
    la semana.
 
 -Entre paréntesis aparece el número máximo de participaciones que se puede obtener por actividad.
