@@ -13,16 +13,16 @@
 Hoy han suspendido  actividades dentro de la  UNAM y por lo tanto  no me verán un  buen rato. La
 dinámica del curso es bastante adecuada para estos tiempos.
 #+END_abstract
-** Evaluación del semestre
-La forma de evaluar el semestre sigue los parámetros establecidos en [[https://www.ingenieria.unam.mx/paginas/covid19/pdf/mensaje_08052020.pdf][los acuerdos del H. COnsejo
+** IN-PROGRESS Evaluación del semestre
+La forma de evaluar el semestre sigue los parámetros establecidos en [[https://www.ingenieria.unam.mx/paginas/covid19/pdf/mensaje_08052020.pdf][los acuerdos del H. Consejo
 Técnico de  la FI]].   Por la naturaleza  teórica de la  materia se  seguirá el **Esquema  1**. Se
 recomienda  la lectura  detallada de  los acuerdos  antes mencionados  para que  tomes la  mejor
-decisión.  En  los   siguientes  apartados  detallan  los  procedimientos   para  conseguir  una
-calificación en esta asignatura.
+decisión.  Los siguientes apartados detallan  los procedimientos para conseguir una calificación
+en esta asignatura.
 *** Fechas
-1. Del 11 de mayo al 17 de mayo deberás comunicar al correo reti AT genomorro DOT name si deseas
-   hacer examen final o solicitar un NP. Esta  notificación es importante porque el examen es en
-   línea. Como respuesta de dicho correo recibirás el procedimiento para hacer el examen.
+1. Del 11  de mayo al 17 de mayo  deberás comunicar al correo <<reti AT  genomorro DOT name>> si
+   deseas hacer examen final o solicitar un NP. Esta notificación es importante porque el examen
+   es en línea. Como respuesta de dicho correo recibirás el procedimiento para hacer el examen.
 2. Del 11 de  mayo al 13 de junio se  contestarán dudas con el fin de  prepararte para un examen
    final o bien realizar las actividades optativas.  Deberán ser dudas puntuales, la revisión de
    las actividades optativas ya ha terminado.
@@ -51,30 +51,31 @@ Los criterios de calificación son:
 5.  Si el  alumno tiene  un total  de  participaciones mayor  o igual  a cero  pero no  presentó
    actividades optativas  será evaluado por  percentiles.
 
+Puedes seguir  la evolución de  tu calificación  en [[file:assets/2020-2_ListaAsistencia-1124-10-20.ods][el archivo  de LibreOffice adjunto]]  que será
+actualizado frecuentemente y sigue los parámetros listados anteriormente.
+
 **IMPORTANTE**: No es posible renunciar a una calificación.
 
 **** Presentación de actividades optativas
 - Crear un archivo comprimido  tipo zip, gz, bz2 o 7z que tenga  el siguiente formato de nombre:
-  NombreApellidos-Grupo,  po ejemplo:  /EdgarUrielDominguezEspinoza-Gpo10.tar.gz/. Este  archivo
+  NombreApellidos-Grupo, por ejemplo:  /EdgarUrielDominguezEspinoza-Gpo10.tar.gz/.  Este archivo
   contendrá el material que  el alumno realizó, incluidos los revisados  por el profesor durante
   el semestre. El archivo  contendrá tres carpetas, una por cada  forma de participar: Exámenes,
   actividades optativas, exposiciones.
 
-- Los formatos permitidos  para entrega de tareas son preferentemente  formatos libres como PDF,
-  txt, mp3, ogg, odt, ods. También se recibirán archivos doc, docx, avi, etc.
+- Los formatos permitidos para entrega de  tareas son preferentemente formatos libres como PDF,
+   txt, mp3, ogg, odt, ods. También se recibirán archivos doc, docx, avi, etc.
 
 - Los archivos y carpetas deben estar nombrados en [[https://es.wikipedia.org/wiki/Camel_case][formato Camel case]], sin acentos ni espacios.
 
-- Si tu  archivo pesa menos  de 30MB, puedes  enviar un  correo a reti  AT genomorro DOT  name y
+- Si tu archivo pesa menos  de 30MB, puedes enviar un correo a <<reti  AT genomorro DOT name>> y
   adjuntar el archivo.
 
 - Si tu archivo pesa más  de 30MB, puedes usar un servicio para compartirlo  y enviar la liga al
-  correo reti  AT genomorro  DOT name.   Algunos servicios que  puedes usar  son [[https://send.firefox.com/][Firefox  Send]] y
+  correo <<reti AT genomorro  DOT name>>.  Algunos servicios que puedes usar  son [[https://send.firefox.com/][Firefox Send]] y
   [[https://www.opendesktop.org/][OpenDesktop]], ambos basados en  software libre.  También puedes usar los  servicios de Google y
   Microsoft si lo prefieres.
 
-- Puedes seguir la  evolución de tu calificación  en [[file:assets/2020-2_ListaAsistencia-1124-10-20.ods][el archivo de LibreOffice  adjunto]] que será
-  actualizado frecuentemente.
 *** Dudas
 1. He creado un [[https://t.me/joinchat/ADgNuhvFipNBfP7JejrKmw][grupo  de telegram]] al que puedes unirte. Telegram no  es software libre, así que
    no puedo exigirte  que te unas a  este grupo, lee las  políticas de Telegram y  si te parecen
