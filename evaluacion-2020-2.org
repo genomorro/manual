@@ -20,7 +20,7 @@ recomienda  la lectura  detallada de  los acuerdos  antes mencionados  para que 
 decisión.  Los siguientes apartados detallan  los procedimientos para conseguir una calificación
 en esta asignatura.
 *** Fechas
-1. Del 11  de mayo al 17 de mayo  deberás comunicar al correo <<reti AT  genomorro DOT name>> si
+1. Del  11 de mayo al  17 de mayo  deberás comunicar al correo  /reti AT genomorro DOT  name/ si
    deseas hacer examen final o solicitar un NP. Esta notificación es importante porque el examen
    es en línea. Como respuesta de dicho correo recibirás el procedimiento para hacer el examen.
 2. Del 11 de  mayo al 13 de junio se  contestarán dudas con el fin de  prepararte para un examen
@@ -39,10 +39,9 @@ disponibles en [[file:assets/2020-2_ListaAsistencia-1124-10-20.ods][el archivo d
 
 Los criterios de calificación son:
 
-1. Todas las  actividades registradas del curso  serán tomadas en cuenta.  Esas actividades son:
+1. Todas las actividades  registradas del curso serán tomadas en  cuenta.  Esas actividades son:
    aportaciones a la clase, el único examen y las actividades optativas.
-2. Si  el  alumno  presenta  un  examen   final  entonces  el  resultado  del  examen  será  su
-  calificación.
+2. Si el alumno presenta un examen final entonces el resultado del examen será su calificación.
 3. Si el alumno tiene un total de participaciones igual a -10, no tuvo aportaciones a la clase y
    no presentó actividades optativas tendrá NP.
 4. Si el alumno presentó actividades optativas será  evaluado por percentiles. En caso de que su
@@ -63,16 +62,16 @@ actualizado frecuentemente y sigue los parámetros listados anteriormente.
   el semestre. El archivo  contendrá tres carpetas, una por cada  forma de participar: Exámenes,
   actividades optativas, exposiciones.
 
-- Los formatos permitidos para entrega de  tareas son preferentemente formatos libres como PDF,
-   txt, mp3, ogg, odt, ods. También se recibirán archivos doc, docx, avi, etc.
+- Los formatos permitidos  para entrega de tareas son preferentemente  formatos libres como PDF,
+  txt, mp3, ogg, odt, ods. También se recibirán archivos doc, docx, avi, etc.
 
 - Los archivos y carpetas deben estar nombrados en [[https://es.wikipedia.org/wiki/Camel_case][formato Camel case]], sin acentos ni espacios.
 
-- Si tu archivo pesa menos  de 30MB, puedes enviar un correo a <<reti  AT genomorro DOT name>> y
+- Si tu archivo  pesa menos de 30MB,  puedes enviar un correo  a /reti AT genomorro  DOT name/ y
   adjuntar el archivo.
 
 - Si tu archivo pesa más  de 30MB, puedes usar un servicio para compartirlo  y enviar la liga al
-  correo <<reti AT genomorro  DOT name>>.  Algunos servicios que puedes usar  son [[https://send.firefox.com/][Firefox Send]] y
+  correo /reti  AT genomorro DOT name/.   Algunos servicios que  puedes usar son [[https://send.firefox.com/][Firefox  Send]] y
   [[https://www.opendesktop.org/][OpenDesktop]], ambos basados en  software libre.  También puedes usar los  servicios de Google y
   Microsoft si lo prefieres.
 
