@@ -13,7 +13,7 @@
 Hoy han suspendido  actividades dentro de la  UNAM y por lo tanto  no me verán un  buen rato. La
 dinámica del curso es bastante adecuada para estos tiempos.
 #+END_abstract
-** IN-PROGRESS Evaluación del semestre
+** IN-PROGRESS Evaluación del semestre                             :REVISAR:
 La forma de evaluar el semestre sigue los parámetros establecidos en [[https://www.ingenieria.unam.mx/paginas/covid19/pdf/mensaje_08052020.pdf][los acuerdos del H. Consejo
 Técnico de  la FI]].   Por la naturaleza  teórica de la  materia se  seguirá el **Esquema  1**. Se
 recomienda  la lectura  detallada de  los acuerdos  antes mencionados  para que  tomes la  mejor
@@ -85,7 +85,7 @@ actualizado frecuentemente y sigue los parámetros listados anteriormente.
    cuenta es edgar\under{}uriel84 AT jabber DOT org
 3. Correo electrónico: reti AT genomorro DOT name
 
-** DONE [#A] Continuación del semestre                             :REVISAR:
+** DONE [#A] Continuación del semestre
 CLOSED: [2020-05-08 vie 19:15]
 En los siguientes  días actualizaré la guía del  curso en formato [[file:manual.html][HTML]] y listaré  justo aquí los
 temas que  podrás estudiar en  este tiempo, en  la sección de  lecturas colocaré los  libros que
@@ -177,7 +177,7 @@ con cuidado.
 Las actividades correspondientes son:  actividad optativa 18, es una plana  sobre la sesión, muy
 fácil; actividad  optativa 19, es  necesaria, procura investigar  bien, casi ninguna  revista de
 ingeniería  usa  APA directamente  para  sus  textos, si  no  buscas  permanecerás creyendo  una
-mentira; actividad optativa 20, básicamente un aviso para tu calificación.
+mentira; actividad optativa 20, básicamente un aviso para tu calificación
 ** Guía del curso
 
 El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
