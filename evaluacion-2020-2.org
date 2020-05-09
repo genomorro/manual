@@ -13,7 +13,79 @@
 Hoy han suspendido  actividades dentro de la  UNAM y por lo tanto  no me verán un  buen rato. La
 dinámica del curso es bastante adecuada para estos tiempos.
 #+END_abstract
-** IN-PROGRESS [#A] Continuación del semestre                      :REVISAR:
+** Evaluación del semestre
+La forma de evaluar el semestre sigue los parámetros establecidos en [[https://www.ingenieria.unam.mx/paginas/covid19/pdf/mensaje_08052020.pdf][los acuerdos del H. COnsejo
+Técnico de  la FI]].   Por la naturaleza  teórica de la  materia se  seguirá el **Esquema  1**. Se
+recomienda  la lectura  detallada de  los acuerdos  antes mencionados  para que  tomes la  mejor
+decisión.  En  los   siguientes  apartados  detallan  los  procedimientos   para  conseguir  una
+calificación en esta asignatura.
+*** Fechas
+1. Del 11 de mayo al 17 de mayo deberás comunicar al correo reti AT genomorro DOT name si deseas
+   hacer examen final o solicitar un NP. Esta  notificación es importante porque el examen es en
+   línea. Como respuesta de dicho correo recibirás el procedimiento para hacer el examen.
+2. Del 11 de  mayo al 13 de junio se  contestarán dudas con el fin de  prepararte para un examen
+   final o bien realizar las actividades optativas.  Deberán ser dudas puntuales, la revisión de
+   las actividades optativas ya ha terminado.
+3. El 8 de junio  será el primer examen final, solo en caso de que  el alumno lo haya solicitado
+   en las fechas del punto 1.
+4. El 15 de junio será el segundo examen final, solo en caso de que el alumno lo haya solicitado
+   en las fechas del punto 1.
+5. La entrega de las actividades optativas será del 11 de mayo al 15 de junio.
+6. Las calificaciones estarán en actas a mas tardar el 26 de junio.
+*** Calificaciones
+La forma  de evaluar no  cambia, se basará  en percentiles, por  lo tanto verás  tu calificación
+final hasta que  todos los alumnos terminen sus actividades.  Las calificaciones parciales están
+disponibles en [[file:assets/2020-2_ListaAsistencia-1124-10-20.ods][el archivo de LibreOffice adjunto]].
+
+Los criterios de calificación son:
+
+1. Todas las  actividades registradas del curso  serán tomadas en cuenta.  Esas actividades son:
+   aportaciones a la clase, el único examen y las actividades optativas.
+2. Si  el  alumno  presenta  un  examen   final  entonces  el  resultado  del  examen  será  su
+  calificación.
+3. Si el alumno tiene un total de participaciones igual a -10, no tuvo aportaciones a la clase y
+   no presentó actividades optativas tendrá NP.
+4. Si el alumno presentó actividades optativas será  evaluado por percentiles. En caso de que su
+   calificación sea menor a 5, tendrá derecho a presentar examen final siempre que las fechas de
+   los mismos no hayan pasado.
+5.  Si el  alumno tiene  un total  de  participaciones mayor  o igual  a cero  pero no  presentó
+   actividades optativas  será evaluado por  percentiles.
+
+**IMPORTANTE**: No es posible renunciar a una calificación.
+
+**** Presentación de actividades optativas
+- Crear un archivo comprimido  tipo zip, gz, bz2 o 7z que tenga  el siguiente formato de nombre:
+  NombreApellidos-Grupo,  po ejemplo:  /EdgarUrielDominguezEspinoza-Gpo10.tar.gz/. Este  archivo
+  contendrá el material que  el alumno realizó, incluidos los revisados  por el profesor durante
+  el semestre. El archivo  contendrá tres carpetas, una por cada  forma de participar: Exámenes,
+  actividades optativas, exposiciones.
+
+- Los formatos permitidos  para entrega de tareas son preferentemente  formatos libres como PDF,
+  txt, mp3, ogg, odt, ods. También se recibirán archivos doc, docx, avi, etc.
+
+- Los archivos y carpetas deben estar nombrados en [[https://es.wikipedia.org/wiki/Camel_case][formato Camel case]], sin acentos ni espacios.
+
+- Si tu  archivo pesa menos  de 30MB, puedes  enviar un  correo a reti  AT genomorro DOT  name y
+  adjuntar el archivo.
+
+- Si tu archivo pesa más  de 30MB, puedes usar un servicio para compartirlo  y enviar la liga al
+  correo reti  AT genomorro  DOT name.   Algunos servicios que  puedes usar  son [[https://send.firefox.com/][Firefox  Send]] y
+  [[https://www.opendesktop.org/][OpenDesktop]], ambos basados en  software libre.  También puedes usar los  servicios de Google y
+  Microsoft si lo prefieres.
+
+- Puedes seguir la  evolución de tu calificación  en [[file:assets/2020-2_ListaAsistencia-1124-10-20.ods][el archivo de LibreOffice  adjunto]] que será
+  actualizado frecuentemente.
+*** Dudas
+1. He creado un [[https://t.me/joinchat/ADgNuhvFipNBfP7JejrKmw][grupo  de telegram]] al que puedes unirte. Telegram no  es software libre, así que
+   no puedo exigirte  que te unas a  este grupo, lee las  políticas de Telegram y  si te parecen
+   adecuadas únete. Puedo decirte que Telegram es bastante privado.
+2. La única red  de chat libre que conozco es  [[https://xmpp.org/getting-started/][XMPP]]. Es una red federada y  para ingresar a ella
+   necesitas darte  de alta  en [[https://xmpp-servers.404.city/][un  servidor XMPP]]. Luego,  usas un  [[https://conversejs.org/][cliente]] para  conectarte. Mi
+   cuenta es edgar\under{}uriel84 AT jabber DOT org
+3. Correo electrónico: reti AT genomorro DOT name
+
+** DONE [#A] Continuación del semestre                             :REVISAR:
+CLOSED: [2020-05-08 vie 19:15]
 En los siguientes  días actualizaré la guía del  curso en formato [[file:manual.html][HTML]] y listaré  justo aquí los
 temas que  podrás estudiar en  este tiempo, en  la sección de  lecturas colocaré los  libros que
 necesitas  para  estudiar,   además  de  dejarte  actividades  optativas  para   que  así  ganes
@@ -86,8 +158,8 @@ pero es  tu decisión.  No es necesario  el uso de  HD, una  resolución de 480p
 Procura no usar varias tomas, el objetivo es que puedas decir un discurso de forma continua.
 
 De esta forma puedes realizar las actividades optativas 1, 16 y 17.
-*** IN-PROGRESS Estudio 4
-DEADLINE: <2020-05-01>
+*** DONE Estudio 4
+CLOSED: [2020-05-08 vie 19:14] DEADLINE: <2020-05-01>
 
 Leer la guía del curso en el tema:
 
