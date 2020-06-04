@@ -8,10 +8,8 @@
 
 * Evaluación para el semestre 2020-2
 #+BEGIN_abstract
-¡Hola mis jóvenes padawans!
-
-Hoy han suspendido  actividades dentro de la  UNAM y por lo tanto  no me verán un  buen rato. La
-dinámica del curso es bastante adecuada para estos tiempos.
+Lee con mucha  atención las instrucciones del  sitio. Ahí están las fechas  y procedimientos que
+necesitas conocer.
 #+END_abstract
 ** IN-PROGRESS Evaluación del semestre                             :REVISAR:
 La forma de evaluar el semestre sigue los parámetros establecidos en [[https://www.ingenieria.unam.mx/paginas/covid19/pdf/mensaje_08052020.pdf][los acuerdos del H. Consejo
@@ -32,6 +30,11 @@ en esta asignatura.
    en las fechas del punto 1.
 5. La entrega de las actividades optativas será del 11 de mayo al 15 de junio.
 6. Las calificaciones estarán en actas a mas tardar el 26 de junio.
+*** Presentación del primer examen final                          :NUEVO:
+1. Revisa la fecha del primer examen final, se realizará a la hora de la clase.
+2. Registrate en el [[https://examenes.genomorro.name][sitio de exámenes]], selecciona correctamente el grupo al que perteneces.
+3. Una vez adentro del sitio podrás resolver el examen, la duración es de 45 minutos.
+4. En caso de tener algún problema, comunicate por correo electrónico, Telegram o XMPP.
 *** Calificaciones
 La forma  de evaluar no  cambia, se basará  en percentiles, por  lo tanto verás  tu calificación
 final hasta que  todos los alumnos terminen sus actividades.  Las calificaciones parciales están
