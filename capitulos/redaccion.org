@@ -79,10 +79,10 @@ Es posible ver que algunas normas son muy diferentes, como la norma APA (que usa
 parentéticas) y  la norma  IEEE (que  usa referencias  numéricas), aunque  cumplen con  la misma
 función.
 
-En sitios como [[http://www.citationmachine.net][Citation Machine]]  es posible llenar un formulario con los dato  de la obra que se
+En sitios como [[http://www.citationmachine.net][Citation Machine]] es posible llenar un  formulario con los datos de la obra que se
 quiere  citar  y  seleccionar  una  norma  para   obtener  la  forma  correcta  del  uso  de  la
 norma. Procesadores de texto como Word y LibreOffice  ofrecen una base de datos para esta tarea,
-Latex ofrece BibTeX, además hay herramientas especializadas  como Zotero o JabRef ayudan a dicha
+Latex  ofrece BibTeX,  otras herramientas  especializadas como  Zotero o  JabRef ayudan  a dicha
 tarea. Por lo tanto,  no es necesario aprender una norma, lo recomendable  es que la computadora
 haga esas tareas de forma automática.
 ** Errores y deficiencias comunes en la redacción
