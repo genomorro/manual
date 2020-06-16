@@ -8,10 +8,19 @@
 
 * Evaluación para el semestre 2020-2
 #+BEGIN_abstract
-Lee con mucha  atención las instrucciones del  sitio. Ahí están las fechas  y procedimientos que
-necesitas conocer.
+El semestre  ha finalizado.  **Si por alguna  razón me faltó  calificar a  alguien, comuníquense
+inmediatamente por correo, telegram o XMPP.**
+
+El día 22  de junio llenaré el  acta con [[file:assets/2020-2_ListaAsistencia-1124-10-20.ods][las calificaciones  finales]].  A partir de  ahora (16 de
+junio) hasta el  viernes 22 de junio  es posible aclarar dudas sobre  las calificaciones.  Sería
+muy extraño que exista  algún movimiento que cambiara la lista.  De  cualquier forma revisa esta
+página el viernes 22 de junio.
+
+No olvides verificar que tu  calificación sea correcta en el [[https://www.dgae-siae.unam.mx/www_gate.php][SIAE]]. Si hay  un error de mi parte,
+tendrás noventa días para notificarlo y poder corregir la calificación.
 #+END_abstract
-** IN-PROGRESS Evaluación del semestre                             :REVISAR:
+** DONE Evaluación del semestre                                    :REVISAR:
+CLOSED: [2020-06-16 mar 17:21]
 La forma de evaluar el semestre sigue los parámetros establecidos en [[https://www.ingenieria.unam.mx/paginas/covid19/pdf/mensaje_08052020.pdf][los acuerdos del H. Consejo
 Técnico de  la FI]].   Por la naturaleza  teórica de la  materia se  seguirá el **Esquema  1**. Se
 recomienda  la lectura  detallada de  los acuerdos  antes mencionados  para que  tomes la  mejor
