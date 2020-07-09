@@ -1,0 +1,164 @@
+#+TITLE:        Evaluación Redacción y exposición de temas de ingeniería
+#+AUTHOR:       Edgar Uriel Domínguez Espinoza
+#+EMAIL:        edgar_uriel84 AT genomorro DOT name
+#+DATE:         2020
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="styles/orgcss/org.css"/>
+#+LANGUAGE:     es
+
+#+BEGIN_abstract
+Esta página sirve como guía para los  alumnos inscritos al examen extraordinario de /Redacción y
+exposición de temas de ingeniería/ del semestre 2020-2. Si llegara a existir alguna pregunta que
+no  sea contemplada  en la  presente guía,  la  respuesta será  dada a  conocer a  través de  la
+actualización de la  misma. Debido a esto se  recomienda su revisión unos días  antes del examen
+para verificar su contenido.
+#+END_abstract
+
+* Examen extraordinario 2020-2
+
+El examen extraordinario se  llevará a cabo en línea. Cada alumno es  responsable de realizar el
+examen en la fecha y horario pertinente bajo las siguientes instrucciones.
+
+** Antes del examen
+
+1. El examen tendrá lugar el 3 de agosto de 2020 en un horario de 17:00 a 19:00.
+2.  El  alumno  entrará en  [[https://tao.genomorro.name][el  sitio  web  del  examen: tao.genomorro.name]]  para  contestar  el
+   cuestionario.
+3. La  forma de  entrar al  sitio será  con un  nombre de  usuario y  contraseña, los  cuales se
+   obtendrán de la siguiente manera:
+
+   - Nombre de usuario:
+     
+     Al momento  de la inscripción  al examen extraordinario  cada alumno proporcionó  un correo
+     electrónico, el nombre de usuario será el mismo  que el de dicho correo, por ejemplo, si un
+     alumno proporcionó el  correo /edgar.uriel84@gmail.com/ entonces el nombre  de usuario será
+     /edgar.uriel84/.
+
+   - Contraseña:
+
+     Cada alumno debe buscar su número de cuenta en la siguiente tabla y copiar su contraseña:
+
+|       N.C | Contraseña  |
+|-----------+-------------|
+| 312162018 | 04WtJIZDJi8 |
+| 312307552 | 5Wq4mz4TOKI |
+| 309282486 | Yl56SRzTrUY |
+| 312229469 | 8u8zWyBy84c |
+| 412000407 | KnLiFCmzmuk |
+| 312025508 | iG06cDQdATg |
+| 311341315 | eMhczsXUOrY |
+|-----------+-------------|
+| 317000856 | 8Bqr1Q1+YCA |
+| 317278905 | jRoGdONl6W8 |
+| 316115690 | GTEBJnI9+N0 |
+| 308025949 | ETmCVj2NoGM |
+| 314081119 | 3bYVaghGxj4 |
+| 307568047 | WOFTVfDk1bQ |
+| 317311400 | 1ItnkxsdP+Y |
+| 314256102 | VmkCy4mM9Mk |
+| 317263550 | iJupDUq8ME8 |
+| 317166097 | I3coglCKfT8 |
+| 316200204 | nO4mdBzyUmY |
+| 317296859 | bTYrVigCA5Y |
+| 316310077 | CpyLfM3gqOE |
+| 419050104 | rk19GGfZwGc |
+| 420052854 | 9cUk/rKLyzg |
+| 317023035 | +XjiNhT6Y/w |
+| 308226445 | mos93bWtWVU |
+| 317341612 | mnRR/5DAgNw |
+| 420054841 | nGMpqNxN0qs |
+| 315043932 | 9oTZJEZ1Rcw |
+| 314126735 | winc9KXV3YU |
+| 315154214 | sA87sYIZ5y4 |
+
+4. Prueba  con anticipación  tu acceso  al sitio, si  tienes problemas  podrás mandar  un [[mailto:reti@genomorro.name.NOSPAM][correo
+   electrónico]] describiendo el  problema. *Evita inconvenientes antes del examen*  y verifica tu
+   acceso al sitio lo antes posible. 
+
+   Antes del examen, en el sitio estará disponible  un cuestionario de prueba para que el alumno
+   se familiarice con la navegación dentro de la plataforma, las preguntas no serán preguntadas
+   en el examen extraordinario. La plataforma consta de cuatro elementos:
+   
+   - Barra de título (en negro).  Con el escudo de la UNAM a la  izquierda, el alumno deberá ver
+     su nombre del lado derecho.
+   - Barra superior (en azul).  En ella puede leerse la sección actual del  examen, una barra de
+     progreso total y la calidad de la conexión al servidor que aloja el sitio web.
+   - Barra lateral  de revisión (en  gris). Sirve  para ubicar al  alumno dentro del  examen. Al
+     igual que un mapa, brinda información sobre las secciones del examen, las preguntas que han
+     sido contestadas y las preguntas pendientes.
+   - Barra inferior ( en azul). Es la barra para interactuar en la plataforma. Permite avanzar o
+     retroceder de pregunta, marcar la pregunta para su posterior revisión, omitir la pregunta y
+     finalizar el examen.  Si es necesaria o permitida cualquier  otra interacción, dicha acción
+     será colocada en esa barra.
+
+#+CAPTION: Captura de pantalla de una pregunta durante un cuestionario
+#+ATTR_HTML: :width 100% :style border:5px solid red;
+#+NAME:   fig:tao
+[[file:../assets/tao.png]]
+   
+** El día del examen 
+
+El  día del  examen en  el horario  ya señalado  se habilitará  el cuestionario  correspondiente
+llamado  *Examen   extraordinario*,  el  cual   constará  de  diez  preguntas.   las  siguientes
+consideraciones son importantes:
+
+1. La plataforma  toma las preguntas al  azar de una lista,  por lo tanto cada  alumno tendrá un
+   examen diferente.
+2. Debido a que el  alumno no tendrá supervisión a la hora del examen,  el único control a tener
+   en cuenta es el tiempo: la duración máxima del examen es de dos horas, aunque el alumno puede
+   comenzar el examen en cualquier  minuto a partir de las 17:00 del 3  de agosto, el sistema se
+   cerrará automáticamente a  las 19:00. Todo examen  está programado para ser  suspendido a las
+   19:00, sin excepción.
+3. El sistema califica de forma automática el examen, sin embargo, no muestra la calificación al
+   alumno.  El sinodal  revisará manualmente  cada  examen, con  el objetivo  de evitar  errores
+   producto de una programación anómala.
+4.  La  calificación del  examen estará  disponible en el  expediente del  alumno tan  pronto [[https://www.dgae-siae.unam.mx/www_gate.php][el
+   sistema de  la UNAM]] permita el  llenado del acta. El  alumno podrá ver su  calificación final
+   entonces, idealmente al siguiente día de haberse realizado el examen.
+
+
+** Guía de estudio
+
+El alumno en todo  momento deberá tomar en cuenta el temario oficial  de la asignatura y cumplir
+en su totalidad el conocimiento que dicho temario exige.
+
+Los siguientes  puntos son recomendaciones  sobre una evaluación  particular con el  objetivo de
+permitirle al alumno optimizar su tiempo en determinados temas de estudio.
+
+*** Conocimientos a evaluar
+
+- El alumno conocerá los tipos de palabras, los significados que puede tener cada una de ellas y
+  sus funciones. Otras palabras  útiles para su búsqueda: partes de la  oración, part of speech,
+  PoS.
+
+- El alumno  identificará y diferenciará los  signos de puntuación, signos  diacríticos y signos
+  auxiliares  para  emplearlos  de forma  correcta,  según  el  sentido  que se  quiera  dar  la
+  oración. Las normas con las cuales se evaluará el examen corresponden al año 2010.
+
+- El alumno  identificará el gerundio,  sus usos  ilícitos y los  tres errores más  comunes para
+  detectar cuándo y cómo emplearlo de manera correcta.
+
+- El alumno conocerá el  párrafo como unidad estructural de un  texto escrito. Deberá distinguir
+  los tipos de párrafo existentes, orden, coherencia y argumentación.
+
+- El alumno  conocerá como  hacer citas  breves de fuentes  de información  y algunas  normas de
+  estilo. Conocerá, al menos, las pautas básicas del estilo APA.
+
+*** Bibliografía específica
+
+- Ortografía básica de la lengua española. Real Academia Española. Asociación de Academias de la
+  Lengua Española. 2012.
+
+- Nueva gramática de la  lengua española. Real Academia Española. Asociación  de Academias de la
+  Lengua Española. 2010.
+
+- El lenguaje. George Yule. Akal. 2016.
+
+- El  placer  de la  escritura.  Manual  de apropiación  de  la  lengua escrita.  Alicia  Correa
+  Pérez. Pearson Prentice Hall. 2005.
+
+- Manual del modelo de documentación de la  Asociación de Psicología Americana (APA) en su sexta
+  edición.  Centro  de Lengua y Pensamiento  Crítico Universidad Popular Autónoma  Del Estado De
+  Puebla. URL: http://online.upaep.mx/LPC/online/apa/APAimp.pdf
+
+- [[https://reti.genomorro.name/manual.html][Notas sobre el curso.]] 
