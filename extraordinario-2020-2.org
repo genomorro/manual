@@ -37,47 +37,46 @@ examen en la fecha y horario pertinente bajo las siguientes instrucciones.
    - Contraseña:
 
      Cada alumno debe buscar su número de cuenta en la siguiente tabla y copiar su contraseña:
-
-|       N.C | Contraseña  |
-|-----------+-------------|
-| 312162018 | 04WtJIZDJi8 |
-| 312307552 | 5Wq4mz4TOKI |
-| 309282486 | Yl56SRzTrUY |
-| 312229469 | 8u8zWyBy84c |
-| 412000407 | KnLiFCmzmuk |
-| 312025508 | iG06cDQdATg |
-| 311341315 | eMhczsXUOrY |
-|-----------+-------------|
-| 317000856 | 8Bqr1Q1+YCA |
-| 317278905 | jRoGdONl6W8 |
-| 316115690 | GTEBJnI9+N0 |
-| 308025949 | ETmCVj2NoGM |
-| 314081119 | 3bYVaghGxj4 |
-| 307568047 | WOFTVfDk1bQ |
-| 317311400 | 1ItnkxsdP+Y |
-| 314256102 | VmkCy4mM9Mk |
-| 317263550 | iJupDUq8ME8 |
-| 317166097 | I3coglCKfT8 |
-| 316200204 | nO4mdBzyUmY |
-| 317296859 | bTYrVigCA5Y |
-| 316310077 | CpyLfM3gqOE |
-| 419050104 | rk19GGfZwGc |
-| 420052854 | 9cUk/rKLyzg |
-| 317023035 | +XjiNhT6Y/w |
-| 308226445 | mos93bWtWVU |
-| 317341612 | mnRR/5DAgNw |
-| 420054841 | nGMpqNxN0qs |
-| 315043932 | 9oTZJEZ1Rcw |
-| 314126735 | winc9KXV3YU |
-| 315154214 | sA87sYIZ5y4 |
+     |       N.C | Contraseña  |
+     |-----------+-------------|
+     | 312162018 | 04WtJIZDJi8 |
+     | 312307552 | 5Wq4mz4TOKI |
+     | 309282486 | Yl56SRzTrUY |
+     | 312229469 | 8u8zWyBy84c |
+     | 412000407 | KnLiFCmzmuk |
+     | 312025508 | iG06cDQdATg |
+     | 311341315 | eMhczsXUOrY |
+     |-----------+-------------|
+     | 317000856 | 8Bqr1Q1+YCA |
+     | 317278905 | jRoGdONl6W8 |
+     | 316115690 | GTEBJnI9+N0 |
+     | 308025949 | ETmCVj2NoGM |
+     | 314081119 | 3bYVaghGxj4 |
+     | 307568047 | WOFTVfDk1bQ |
+     | 317311400 | 1ItnkxsdP+Y |
+     | 314256102 | VmkCy4mM9Mk |
+     | 317263550 | iJupDUq8ME8 |
+     | 317166097 | I3coglCKfT8 |
+     | 316200204 | nO4mdBzyUmY |
+     | 317296859 | bTYrVigCA5Y |
+     | 316310077 | CpyLfM3gqOE |
+     | 419050104 | rk19GGfZwGc |
+     | 420052854 | 9cUk/rKLyzg |
+     | 317023035 | +XjiNhT6Y/w |
+     | 308226445 | mos93bWtWVU |
+     | 317341612 | mnRR/5DAgNw |
+     | 420054841 | nGMpqNxN0qs |
+     | 315043932 | 9oTZJEZ1Rcw |
+     | 314126735 | winc9KXV3YU |
+     | 315154214 | sA87sYIZ5y4 |
 
 4. Prueba  con anticipación  tu acceso  al sitio, si  tienes problemas  podrás mandar  un [[mailto:reti@genomorro.name.NOSPAM][correo
    electrónico]] describiendo el  problema. *Evita inconvenientes antes del examen*  y verifica tu
    acceso al sitio lo antes posible. 
 
    Antes del examen, en el sitio estará disponible  un cuestionario de prueba para que el alumno
-   se familiarice con la navegación dentro de la plataforma, las preguntas no serán preguntadas
-   en el examen extraordinario. La plataforma consta de cuatro elementos:
+   se familiarice  con la navegación  dentro de  la plataforma. Esta  prueba no forma  parte del
+   examen extraordinario. La plataforma consta de cuatro elementos:
    
    - Barra de título (en negro).  Con el escudo de la UNAM a la  izquierda, el alumno deberá ver
      su nombre del lado derecho.
@@ -99,7 +98,7 @@ examen en la fecha y horario pertinente bajo las siguientes instrucciones.
 ** El día del examen 
 
 El  día del  examen en  el horario  ya señalado  se habilitará  el cuestionario  correspondiente
-llamado  *Examen   extraordinario*,  el  cual   constará  de  diez  preguntas.   las  siguientes
+llamado  *Examen   extraordinario*,  el  cual   constará  de  diez  preguntas.   Las  siguientes
 consideraciones son importantes:
 
 1. La plataforma  toma las preguntas al  azar de una lista,  por lo tanto cada  alumno tendrá un
@@ -112,7 +111,7 @@ consideraciones son importantes:
 3. El sistema califica de forma automática el examen, sin embargo, no muestra la calificación al
    alumno.  El sinodal  revisará manualmente  cada  examen, con  el objetivo  de evitar  errores
    producto de una programación anómala.
-4.  La  calificación del  examen estará  disponible en el  expediente del  alumno tan  pronto [[https://www.dgae-siae.unam.mx/www_gate.php][el
+4.   La  calificación del examen  estará disponible  en el expediente  del alumno tan  pronto [[https://www.dgae-siae.unam.mx/www_gate.php][el
    sistema de  la UNAM]] permita el  llenado del acta. El  alumno podrá ver su  calificación final
    entonces, idealmente al siguiente día de haberse realizado el examen.
 
