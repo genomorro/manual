@@ -111,10 +111,13 @@ consideraciones son importantes:
 3. El sistema califica de forma automática el examen, sin embargo, no muestra la calificación al
    alumno.  El sinodal  revisará manualmente  cada  examen, con  el objetivo  de evitar  errores
    producto de una programación anómala.
-4.   La  calificación del examen  estará disponible  en el expediente  del alumno tan  pronto [[https://www.dgae-siae.unam.mx/www_gate.php][el
+4.    La  calificación del examen estará  disponible en el  expediente del alumno tan  pronto [[https://www.dgae-siae.unam.mx/www_gate.php][el
    sistema de  la UNAM]] permita el  llenado del acta. El  alumno podrá ver su  calificación final
    entonces, idealmente al siguiente día de haberse realizado el examen.
 
+*NOTA*: El sistema considera los errores presentes en el examen, no solamente suma los aciertos.
+Es por eso que se recomienda no adivinar las respuestas, en caso de desconocer algo siempre será
+mejor no contestarlo porque los errores podrían bajar la calificación final.
 
 ** Guía de estudio
 
