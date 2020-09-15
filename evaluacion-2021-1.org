@@ -1,0 +1,207 @@
+#+TITLE:        Evaluación Redacción y exposición de temas de ingeniería
+#+AUTHOR:       Edgar Uriel Domínguez Espinoza
+#+EMAIL:        reti AT genomorro DOT name
+#+DATE:         2020
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="styles/orgcss/org.css"/>
+#+LANGUAGE:     es
+
+#+BEGIN_abstract
+#+END_abstract
+
+* Grupos, horarios y fechas importantes
+
+- Grupo 15. Martes y jueves, 11:00 a 13:00. Salón I303.
+- Grupo 35. Lunes y miércoles, 15:00 a 17:00. Salón A202.
+- Grupo 40. Lunes y miércoles, 17:00 a 19:00. Salón A102.
+
+En  cualquier caso:  **Memoriza  tu número  de  grupo**.  El  grupo al  que  perteneces te  será
+solicitado en los exámenes  u otras actividades y no será permitido  preguntarlo ni levantarse a
+ver los horarios en la puerta del salón.
+
+La clase inicia a la hora señalada en los  horarios colocados arriba, en caso de que el profesor
+se retrase  más de quince minutos  la clase iniciará a  los treinta minutos. Si  pasados treinta
+minutos el profesor aun está retrasado, la clase iniciará una hora después del horario oficial.
+
+** Calendario
+
+1. Inicio del semestre: 21 de septiembre 2020
+2. Revisión de actividades optativas: 21 de septiembre 2020 al 9 de enero 2021
+3. Entrega de evidencias finales: 11 de enero 2021 al 6 de febrero 2021
+4. Fin de semestre: 30 de enero 2021
+5. Exámenes finales
+   1. Grupo 15: 2 de febrero 2021 y 9 de febrero 2021
+   2. Grupo 35 y 40: 1 de febrero 2021 y 8 de febrero 2021
+
+* Guía del curso
+
+El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
+el único  que tiene la  obligación de revisar  cuales son dichos  elementos y asegurarte  que el
+profesor los explique durante la clase.
+
+La guía está disponible en  formato [[file:assets/manual.pdf][PDF]] y [[file:manual.html][HTML]]. Es recomendable que tengas  una copia de la guía
+durante la  clase. También  puedes ver  el temario  oficial de  la asignatura  en la  sección de
+[[Lecturas]].
+
+Las fuentes  de este sitio  pueden encontrarse en [[https://gitlab.com/genomorro/manual][gitlab]],  eres libre de  copiarlo, consultarlo,
+modificarlo, corregirlo.
+
+* Elementos de evaluación
+
+Durante  el  semestre  no  se  tomará  en  cuenta  asistencia  ni  puntualidad  como  método  de
+penalización.   Puedes llegar  y marcharte  a la  hora  que quieras.   Sin embargo  el curso  es
+presencial, las participaciones determinan tu calificación. Una participación puede ser:
+
+- Exposición ante el  grupo. Una buena exposición puede sumar  hasta tres participaciones. Puede
+  realizarse durante los primeros minutos de clase (a partir de la llegada del profesor), podrás
+  solicitar  la  palabra  para  exponer   sobre  alguna  lectura  (ver  actividades  optativas).
+  Requisitos para  la participación: Deberás  entregar al profesor un  escrito con el  guión que
+  seguiste para  realizar tu exposición  (una cuartilla), al reverso  de la hoja,  deberán estar
+  impresas las rúbricas R2 y R4.
+- Exámenes y actividades de clase.
+- Aportaciones  en  clase.   Cada  sesión  podrás solicitar  tu  participación.   El  número  de
+  aportaciones será llevado por el profesor.
+- Entregar  actividades optativas  que  fortalezcan tu  aprendizaje. Es  una  lista variable  de
+  tareas.
+
+** Exámenes
+
+Los  exámenes  son  la forma  principal  de  obtener  participaciones.   Cada examen  vale  diez
+participaciones,  positivas o  negativas.   Los exámenes  no  tienen fecha  fija,  pero solo  se
+realizarán al inicio o al final de la sesión. Los exámenes no podrán exceder de tres preguntas o
+diez reactivos y su duración máxima será de  quince minutos, este tiempo incluye la solución del
+examen por parte del profesor.
+
+El alumno  tendrá tantas  participaciones positivas como  aciertos tenga en  el examen  y tantas
+participaciones negativas  como errores tenga  en el examen.  Las preguntas sin  contestar serán
+anuladas y no impactarán en la contabilización de participaciones.
+
+**Debes tomar en  cuenta que la ausencia de  un examen contará como una respuesta  errónea en cada
+pregunta del examen**.
+
+** Actividades optativas
+
+Las actividades optativas  podrán formar parte de  la clase, o bien podrán  ser solicitadas para
+algún examen final.  También serán la única  forma para considerar un aumento de calificación al
+final del semestre.  Entre paréntesis aparece el  número máximo de participaciones  que se puede
+obtener por actividad.
+
+
+1. Leerás el libro:  Real Academia Española y Asociación de Academias de  la Lengua Española, El
+   buen uso  del español. Madrid: Espasa,  2013.  Podrás exponer  un resumen de un  apartado del
+   libro en clase. (3P por exposición)
+
+2. Leerás el libro de ortografía: Real Academia  Española y Asociación de Academias de la Lengua
+   Española,  Ortografía básica  de la  lengua española.  Madrid: Espasa,  2012.  Elaborarás  un
+   acordeón en una hoja blanca.  Un acordeón de calidad puede llevarte varios intentos, por esta
+   razón puedes solicitar la revisión de tu acordeón durante el semestre. (3P)
+
+3. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+   la semana.
+
+*** Revisión de actividades
+
+Todo trabajo puede ser revisado dos veces por el  profesor previo a su entrega (Ver fechas en la
+sección [[Calendario]]). Preferentemente, usa hojas de  reciclaje para las revisiones, tacha siempre
+el lado que no debe ser leído.
+
+Las entregas finales  deben ser impresas en  hojas limpias. No deberán contener  texto escrito a
+mano. No olvides colocar tu nombre y tu grupo.
+
+*** Entrega de actividades
+
+- Crear un archivo comprimido  tipo zip, gz, bz2 o 7z que tenga  el siguiente formato de nombre:
+  NombreApellidos-Grupo, por ejemplo:  /EdgarUrielDominguezEspinoza-Gpo10.tar.gz/.  Este archivo
+  contendrá el material que  el alumno realizó, incluidos los revisados  por el profesor durante
+  el semestre. El archivo  contendrá tres carpetas, una por cada  forma de participar: Exámenes,
+  actividades optativas, exposiciones.
+
+- Los formatos permitidos  para entrega de tareas son preferentemente  formatos libres como PDF,
+  txt, mp3, ogg, odt, ods. También se recibirán archivos doc, docx, avi, etc.
+
+- Los archivos y carpetas deben estar nombrados en [[https://es.wikipedia.org/wiki/Camel_case][formato Camel case]], sin acentos ni espacios.
+
+- Si tu archivo  pesa menos de 30MB,  puedes enviar un correo  a /reti AT genomorro  DOT name/ y
+  adjuntar el archivo.
+
+- Si tu archivo pesa más  de 30MB, puedes usar un servicio para compartirlo  y enviar la liga al
+  correo /reti  AT genomorro DOT name/.   Algunos servicios que  puedes usar son [[https://send.firefox.com/][Firefox  Send]] y
+  [[https://www.opendesktop.org/][OpenDesktop]], ambos basados en  software libre.  También puedes usar los  servicios de Google y
+  Microsoft si lo prefieres.
+
+Las fechas de entrega en la sección [[Calendario]].
+
+** Participaciones negativas
+
+Las participaciones  pueden ser negativas en  caso de un error  total. Un error total  puede ser
+aunque no se limita a un comentario erróneo sobre un tema previamente visto, brindar información
+pérfida al grupo, negarse sin motivo aparente a brindar  ayuda a la clase o brindar un texto con
+numerosos errores (Ver rúbrica R2).
+
+En las exposiciones,  un error o vacío  del expositor evidenciado por un  espectador podrá hacer
+que el espectador gane las participaciones correspondientes.
+
+Ninguna revisión es motivo de una participación negativa.
+
+* Calificación ordinaria durante el semestre
+
+Una vez finalizado el semestre, el  profesor contará las actividades optativas, también validará
+las  calificaciones  de   los  exámenes,  sumará  las  aportaciones  de   clase  y  restará  las
+participaciones negativas, de esta  forma se tendrá la cuantificación total de  cada alumno y se
+procederá  a asignar  las calificaciones  según el  percentil en  el que  se encuentre  (función
+percentil en hoja de cálculo):
+
+|-----------+--------------|
+| Percentil | Calificación |
+|-----------+--------------|
+| >=P20     |            6 |
+| >=P40     |            7 |
+| >=P60     |            8 |
+| >=P80     |            9 |
+| >=P100    |           10 |
+|-----------+--------------|
+
+Podrás ver tu  calificación final una vez  concluido el conteo de  todo el grupo, por  lo que tu
+calificación puede variar antes de esa fecha.
+
+* Exámenes finales
+
+Tienes derecho a dos exámenes finales:
+
+- El primer examen  final corresponde a una prueba  completa de los temas vistos a  lo largo del
+  semestre.   El examen  es a  documento abierto  (libros, apuntes,  copias, etc.),  pero no  se
+  permitirá el  uso de dispositivos  electrónicos.  La calificación  del examen se  obtiene como
+  resultado de sumar los aciertos y restar los errores presentes.
+
+- El segundo  examen final corresponde a  una prueba que  tiene como base la  actividad optativa
+  número uno  y dos. Este  examen es individual  y el único  documento permitido es  el producto
+  obtenido de la realización de dichas  actividades.  **Requisito**: Deberás llevar la actividad
+  optativa número dos en original y copia.
+
+Las fechas de estos exámenes estarán disponibles en la sección [[Calendario]] de este sitio.
+
+* Otros elementos útiles para tu calificación
+
+** Latex
+
+Latex es un lenguaje  de marcado útil para escribir textos. Puedes aprender  Latex por tu cuenta
+viendo videos en internet o leyendo manuales. Si  no quieres instalar Latex en tu computadora te
+recomiendo usar [[https://www.overleaf.com][Overleaf]] que es un buen editor en línea.
+
+Algunos recursos recomendados son:
+
+- [[https://en.wikibooks.org/wiki/LaTeX][Guía de Wikibooks sobre Latex]] (en inglés)
+- Libro: [[file:assets/Edicion_de_textos_cientificos_LaTeX.pdf][Edición de textos científicos con Latex]]
+
+** Lecturas                                                        :REVISAR:
+
+- [[http://www.ingenieria.unam.mx/dcsyhfi/temarios/redaccion_y_exposicion_de_temas_de_ingenieria2016.pdf][Temario oficial de la asignatura]]
+- [[http://www.aapaunam.mx/assets/julio_septiembre_2017_.pdf][Comunicación asertiva]] de Wázcar Verduzco Fragoso y Marlon Enediel Hernández Grijalba.
+- [[https://teorialiteraria2009.files.wordpress.com/2009/06/barthes-la-muerte-del-autor.pdf][La muerte del autor]] de Roland Barthes.
+- [[file:assets/Lecto-escritura.pdf][Manual de Lectoescritura]] de Margarita Alegría de la Colina.
+
+* Seguridad
+
+- La Comisión Local de Seguridad de la FI solicita la lectura de [[file:assets/acciones_cls_fi.pdf][las acciones de la CLS]].
+- [[https://igualdaddegenero.unam.mx/wp-content/uploads/2019/09/nuevo-protocolo-amigable.pdf][Protocolo sobre la violencia (de género) en la UNAM]].
+- [[file:assets/ProtocoloFederal.pdf][Protocolo para la prevención, atención y sanción del hostigamiento sexual y acoso sexual]].
