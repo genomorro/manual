@@ -205,3 +205,4 @@ Algunos recursos recomendados son:
 - La Comisión Local de Seguridad de la FI solicita la lectura de [[file:assets/acciones_cls_fi.pdf][las acciones de la CLS]].
 - [[https://igualdaddegenero.unam.mx/wp-content/uploads/2019/09/nuevo-protocolo-amigable.pdf][Protocolo sobre la violencia (de género) en la UNAM]].
 - [[file:assets/ProtocoloFederal.pdf][Protocolo para la prevención, atención y sanción del hostigamiento sexual y acoso sexual]].
+- [[http://www.ingenieria.unam.mx/pdf/aviso_privacidad_integral.pdf][Aviso de Privacidad integral FI]].
