@@ -108,7 +108,7 @@ el lado que no debe ser leído.
 Las entregas finales  deben ser impresas en  hojas limpias. No deberán contener  texto escrito a
 mano. No olvides colocar tu nombre y tu grupo.
 
-*** Entrega de actividades
+*** Entrega final de actividades
 
 - Crear un archivo comprimido  tipo zip, gz, bz2 o 7z que tenga  el siguiente formato de nombre:
   NombreApellidos-Grupo, por ejemplo:  /EdgarUrielDominguezEspinoza-Gpo10.tar.gz/.  Este archivo
@@ -121,15 +121,15 @@ mano. No olvides colocar tu nombre y tu grupo.
 
 - Los archivos y carpetas deben estar nombrados en [[https://es.wikipedia.org/wiki/Camel_case][formato Camel case]], sin acentos ni espacios.
 
-- Si tu archivo  pesa menos de 30MB,  puedes enviar un correo  a /reti AT genomorro  DOT name/ y
-  adjuntar el archivo.
+- El archivo debe ser entregado en la carpeta que corresponda:
 
-- Si tu archivo pesa más  de 30MB, puedes usar un servicio para compartirlo  y enviar la liga al
-  correo /reti  AT genomorro DOT name/.   Algunos servicios que  puedes usar son [[https://send.firefox.com/][Firefox  Send]] y
-  [[https://www.opendesktop.org/][OpenDesktop]], ambos basados en  software libre.  También puedes usar los  servicios de Google y
-  Microsoft si lo prefieres.
+  - [[https://nc.genomorro.name/index.php/s/kJQ9i3gPYyFqcFG][Salón I303]]
 
-Las fechas de entrega en la sección [[Calendario]].
+  - [[https://nc.genomorro.name/index.php/s/nKmZSpfA3CqxDFQ][Salón A202]]
+
+  - [[https://nc.genomorro.name/index.php/s/cHiATqsJFbgqxdT][Salón A102]]
+
+Las fechas de entrega están en la sección [[Calendario]].
 
 ** Participaciones negativas
 
