@@ -180,6 +180,66 @@ Tienes derecho a dos exámenes finales:
 
 Las fechas de estos exámenes estarán disponibles en la sección [[Calendario]] de este sitio.
 
+* Rúbricas
+*** R1
+
+| Criterio                       | ✓ |
+|--------------------------------+---|
+| Tema justificado correctamente |   |
+| Movimiento 1 del método CARS   |   |
+| Movimiento 2 del método CARS   |   |
+| Movimiento 3 del método CARS   |   |
+| Presentación en Latex          |   |
+
+*** R2
+
+La calificación esta determinada por los errores anotados en la siguiente tabla:
+
+| Criterio                      | Errores | Puntos menos | Otras observaciones acerca la puntuación |
+|-------------------------------+---------+--------------+------------------------------------------|
+| Coherencia y cohesión         |    4    |    -1        |                                          |
+| Longitud                      |         |              |                                          |
+| Oraciones tópico              |         |              |                                          |
+| Léxico (variedad y selección) |         |              |                                          |
+| Referentes                    |         |              |                                          |
+| Concordancias                 |         |              |                                          |
+| Conjugación T.A.M.            |         |              |                                          |
+| Separación sintáctica         |         |              |                                          |
+| Citas y bibliografía          |         |              |                                          |
+| Norma ortográfica             |         |              |                                          |
+
+La calificación máxima es diez.  Si se cometen tres errores en algún criterio se resta un punto,
+por cada error posterior se restará medio punto. Un error puede implicar la existencia de otro.
+
+*** R3
+
+| Criterio                         | ✓ |
+|----------------------------------+---|
+| Tema justificado correctamente   |   |
+| Presentó un guión o escaleta     |   |
+| Presentó un texto de desarrollo  |   |
+| La voz en el video es del alumno |   |
+| El alumno está en el video       |   |
+
+*** R4
+
+La calificación esta determinada por los errores anotados en la siguiente tabla:
+
+| Criterio             | Errores | Puntos menos | Otras observaciones acerca de la puntuación |
+|----------------------+---------+--------------+---------------------------------------------|
+| Presentación         |         |              |                                             |
+| Registro             |         |              |                                             |
+| Dicción y entonación |         |              |                                             |
+| Contexto y material  |         |              |                                             |
+| Información          |         |              |                                             |
+| Relevancia           |         |              |                                             |
+| Claridad             |         |              |                                             |
+| Bibliografía         |         |              |                                             |
+| Edición de video     |         |              |                                             |
+| Cierre               |         |              |                                             |
+
+La calificación máxima es diez.  Si se cometen tres errores en algún criterio se resta un punto,
+por cada error posterior se restará medio punto. Un error puede implicar la existencia de otro.
 * Otros elementos útiles para tu calificación
 
 ** Latex
