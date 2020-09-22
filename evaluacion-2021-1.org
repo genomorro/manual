@@ -103,7 +103,11 @@ obtener por actividad.
 
 Todo trabajo puede ser revisado dos veces por el  profesor previo a su entrega (Ver fechas en la
 sección [[Calendario]]). Preferentemente, usa hojas de  reciclaje para las revisiones, tacha siempre
-el lado que no debe ser leído.
+el lado que no debe ser leído. En caso de entrega en línea, podrás usar el correo electrónico de
+la asignatura.
+
+Solo podrás  entregar una  actividad a  la vez,  con esto se  pretende que  tomes en  cuenta los
+comentarios hechos trabajo a trabajo.
 
 Las entregas finales  deben ser impresas en  hojas limpias. No deberán contener  texto escrito a
 mano. No olvides colocar tu nombre y tu grupo.
@@ -181,7 +185,7 @@ Tienes derecho a dos exámenes finales:
 Las fechas de estos exámenes estarán disponibles en la sección [[Calendario]] de este sitio.
 
 * Rúbricas
-*** R1
+** R1: Aceptación de textos
 
 | Criterio                       | ✓ |
 |--------------------------------+---|
@@ -191,7 +195,7 @@ Las fechas de estos exámenes estarán disponibles en la sección [[Calendario]]
 | Movimiento 3 del método CARS   |   |
 | Presentación en Latex          |   |
 
-*** R2
+** R2: Evaluación de textos
 
 La calificación esta determinada por los errores anotados en la siguiente tabla:
 
@@ -211,7 +215,7 @@ La calificación esta determinada por los errores anotados en la siguiente tabla
 La calificación máxima es diez.  Si se cometen tres errores en algún criterio se resta un punto,
 por cada error posterior se restará medio punto. Un error puede implicar la existencia de otro.
 
-*** R3
+** R3: Aceptación de exposición
 
 | Criterio                         | ✓ |
 |----------------------------------+---|
@@ -221,7 +225,7 @@ por cada error posterior se restará medio punto. Un error puede implicar la exi
 | La voz en el video es del alumno |   |
 | El alumno está en el video       |   |
 
-*** R4
+** R4: Evaluación de exposición
 
 La calificación esta determinada por los errores anotados en la siguiente tabla:
 
