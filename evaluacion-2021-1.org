@@ -11,9 +11,9 @@
 
 * Grupos, horarios y fechas importantes
 
-- Grupo 15. Martes y jueves, 11:00 a 13:00. Salón I303.
-- Grupo 35. Lunes y miércoles, 15:00 a 17:00. Salón A202.
-- Grupo 40. Lunes y miércoles, 17:00 a 19:00. Salón A102.
+- Grupo 15. Martes y jueves, 11:00 a 13:00. Salón [[https://cuaed-unam.zoom.us/j/98982402621?pwd=eldoQ1ZBTjlIZXl0MG9hdSsxOUMvZz09][I303]]. **Solo alumnos de nuevo ingreso**.
+- Grupo 35. Lunes y miércoles, 15:00 a 17:00. Salón [[https://cuaed-unam.zoom.us/j/98134939473?pwd=Vm1XUE91YjVrbythNDNJN0tQNjU2UT09][A202]].
+- Grupo 40. Lunes y miércoles, 17:00 a 19:00. Salón [[https://cuaed-unam.zoom.us/j/93468310227?pwd=ODZlQkpnUjdkd25UWGtXMm1wa3ZQdz09][A102]].
 
 En  cualquier caso:  **Memoriza  tu número  de  grupo**.  El  grupo al  que  perteneces te  será
 solicitado en los exámenes  u otras actividades y no será permitido  preguntarlo ni levantarse a
@@ -29,7 +29,10 @@ minutos el profesor aun está retrasado, la clase iniciará una hora después de
 2. Revisión de actividades optativas: 21 de septiembre 2020 al 9 de enero 2021
 3. Entrega de evidencias finales: 11 de enero 2021 al 6 de febrero 2021
 4. Fin de semestre: 30 de enero 2021
-5. Exámenes finales
+5. Informe sobre la cuenta de participaciones de cada alumno:
+   1. Grupo 15: 28 de enero
+   2. Grupo 35 y 40: 27 de enero
+6. Exámenes finales
    1. Grupo 15: 2 de febrero 2021 y 9 de febrero 2021
    2. Grupo 35 y 40: 1 de febrero 2021 y 8 de febrero 2021
 
@@ -57,12 +60,16 @@ presencial, las participaciones determinan tu calificación. Una participación 
   solicitar  la  palabra  para  exponer   sobre  alguna  lectura  (ver  actividades  optativas).
   Requisitos para  la participación: Deberás  entregar al profesor un  escrito con el  guión que
   seguiste para  realizar tu exposición  (una cuartilla), al reverso  de la hoja,  deberán estar
-  impresas las rúbricas R2 y R4.
+  impresas las rúbricas [[R2: Evaluación de textos][R2]] y [[R4: Evaluación de exposición][R4]].
 - Exámenes y actividades de clase.
 - Aportaciones  en  clase.   Cada  sesión  podrás solicitar  tu  participación.   El  número  de
-  aportaciones será llevado por el profesor.
+  aportaciones será llevado por el profesor. Tus aportaciones solo serán contabilizadas si estás
+  inscrito en el horario donde las hiciste.
 - Entregar  actividades optativas  que  fortalezcan tu  aprendizaje. Es  una  lista variable  de
   tareas.
+
+El  profesor   no  tiene  la   obligación  de  informarte   constantemeste  la  cuenta   de  tus
+actividades. Haz tu trabajo de la mejor forma y al final del semestre tendrás el conteo preciso.
 
 ** Exámenes
 
@@ -76,7 +83,7 @@ El alumno  tendrá tantas  participaciones positivas como  aciertos tenga en  el
 participaciones negativas  como errores tenga  en el examen.  Las preguntas sin  contestar serán
 anuladas y no impactarán en la contabilización de participaciones.
 
-**Debes tomar en  cuenta que la ausencia de  un examen contará como una respuesta  errónea en cada
+**Debes tomar en cuenta que la ausencia de  un examen contará como una respuesta errónea en cada
 pregunta del examen**.
 
 ** Actividades optativas
@@ -103,8 +110,10 @@ obtener por actividad.
 
 Todo trabajo puede ser revisado dos veces por el  profesor previo a su entrega (Ver fechas en la
 sección [[Calendario]]). Preferentemente, usa hojas de  reciclaje para las revisiones, tacha siempre
-el lado que no debe ser leído. En caso de entrega en línea, podrás usar el correo electrónico de
-la asignatura.
+el lado que no debe ser leído.
+
+En caso de entrega en línea, podrás usar  el correo electrónico de la asignatura. Cada actividad
+será revisada lo más pronto posible, no debes preocuparte si no es revisada de inmediato.
 
 Solo podrás  entregar una  actividad a  la vez,  con esto se  pretende que  tomes en  cuenta los
 comentarios hechos trabajo a trabajo.
@@ -113,6 +122,8 @@ Las entregas finales  deben ser impresas en  hojas limpias. No deberán contener
 mano. No olvides colocar tu nombre y tu grupo.
 
 *** Entrega final de actividades
+
+- Será una sola entrega.
 
 - Crear un archivo comprimido  tipo zip, gz, bz2 o 7z que tenga  el siguiente formato de nombre:
   NombreApellidos-Grupo, por ejemplo:  /EdgarUrielDominguezEspinoza-Gpo10.tar.gz/.  Este archivo
@@ -165,6 +176,9 @@ percentil en hoja de cálculo):
 | >=P100    |           10 |
 |-----------+--------------|
 
+Solo si  el número de  participaciones es mayor  o igual a cero  será considerado para  la tabla
+anterior.
+
 Podrás ver tu  calificación final una vez  concluido el conteo de  todo el grupo, por  lo que tu
 calificación puede variar antes de esa fecha.
 
@@ -185,7 +199,7 @@ Tienes derecho a dos exámenes finales:
 Las fechas de estos exámenes estarán disponibles en la sección [[Calendario]] de este sitio.
 
 * Rúbricas
-** R1: Aceptación de textos
+** R1: Admisión de textos
 
 | Criterio                       | ✓ |
 |--------------------------------+---|
@@ -215,7 +229,7 @@ La calificación esta determinada por los errores anotados en la siguiente tabla
 La calificación máxima es diez.  Si se cometen tres errores en algún criterio se resta un punto,
 por cada error posterior se restará medio punto. Un error puede implicar la existencia de otro.
 
-** R3: Aceptación de exposición
+** R3: Admisión de exposición
 
 | Criterio                         | ✓ |
 |----------------------------------+---|
