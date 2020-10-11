@@ -27,12 +27,13 @@ minutos el profesor aun está retrasado, la clase iniciará una hora después de
 
 1. Inicio del semestre: 21 de septiembre 2020
 2. Revisión de actividades optativas: 21 de septiembre 2020 al 9 de enero 2021
-3. Entrega de evidencias finales: 11 de enero 2021 al 6 de febrero 2021
-4. Fin de semestre: 30 de enero 2021
-5. Informe sobre la cuenta de participaciones de cada alumno:
+3. Verificación de usuario y contraseña para exámenes: 2 de noviembre de 2020
+4. Entrega de evidencias finales: 11 de enero 2021 al 6 de febrero 2021
+5. Fin de semestre: 30 de enero 2021
+6. Informe sobre la cuenta de participaciones de cada alumno:
    1. Grupo 15: 28 de enero
    2. Grupo 35 y 40: 27 de enero
-6. Exámenes finales
+7. Exámenes finales
    1. Grupo 15: 2 de febrero 2021 y 9 de febrero 2021
    2. Grupo 35 y 40: 1 de febrero 2021 y 8 de febrero 2021
 
@@ -85,6 +86,183 @@ anuladas y no impactarán en la contabilización de participaciones.
 
 **Debes tomar en cuenta que la ausencia de  un examen contará como una respuesta errónea en cada
 pregunta del examen**.
+*** Procedimiento para exámenes
+
+1. El  alumno  entrará en  [[https://tao.genomorro.name][el  sitio  web  del  examen: tao.genomorro.name]]  para  contestar  el
+  cuestionario.
+2. La  forma de  entrar al  sitio será  con un  nombre de  usuario y  contraseña, los  cuales se
+   obtendrán de la siguiente manera:
+
+   - Nombre de usuario:
+     
+     Al momento de la  inscripción, cada alumno proporcionó un correo  electrónico, el nombre de
+     usuario será  el mismo que  el de dicho  correo, por ejemplo,  si un alumno  proporcionó el
+     correo /edgar.uriel84@gmail.com/ entonces el nombre de usuario será /edgar.uriel84/.
+
+   - Contraseña:
+
+     En esta página, más  abajo encontrarás una sección con tu número de  cuenta y la contraseña
+     de acceso.
+
+3.  Prueba con  anticipación  tu  acceso al  sitio,  si tienes  dudas  podrás  mandar un  correo
+   electrónico al profesor  describiendo el problema. *Evita inconvenientes antes  del examen* y
+   verifica tu acceso al sitio lo antes posible, la fecha límite esta en el [[Calendario][Calendario]].
+** Contraseñas para exámenes
+*** Contraseñas Grupo 15
+
+| No. Cuenta | Contraseña  |
+|------------+-------------|
+|  318114929 | fDOgRYAqnfs |
+|  318335854 | NxhzwwfxYgs |
+|  318067760 | atfPb7EDLrM |
+|  115007042 | ZkxzCOPP0IE |
+|  318112554 | DHOSY/my4vg |
+|  318143859 | u+p2Gj/A2E8 |
+|  318203517 | lolo+3LGdyw |
+|  318193816 | 2CFz9uM0oF8 |
+|  318219330 | Bymk/xYE8XM |
+|  318261126 | XYXXpeIk9jQ |
+|  318720995 | 29qoAdrp4vI |
+|  318025513 | gqD3olgfcWc |
+|  318268015 | SHdpw8Dijqg |
+|  318162384 | SFl8FqJ2QeE |
+|  318199155 | uMvzUFgr9Po |
+|  318213008 | l06ynvaEZp4 |
+|  318014427 | cfPXukgxUA0 |
+|  318134059 | FM33RCwAcsc |
+|  318201245 | Issa1ELHqJQ |
+|  318241254 | zzviRzQPeME |
+|  318025661 | fxZs/4gqukA |
+|  318285618 | 4MPkiINX98Y |
+|  318270438 | NOcY7b4l3lc |
+|  318113070 | AgV7/p5yDg8 |
+|  318132598 | 7T0Lzmu5CKk |
+|  318334424 | 3rrzFwNHIEQ |
+|  318327965 | ia2xGnwbPRw |
+|  318523370 | yQZrexq7mU8 |
+|  318203926 | GrQqIpgNPGE |
+|  318093778 | 4KInrYgyB0s |
+|  318057396 | HiDV3xzVCMc |
+|  318296436 | TMvbK/kvDRg |
+|  318073466 | Qt6cXu5WmNc |
+|  318018133 | Z606O6YTSAs |
+|  318351285 | mTUzMgNmfOA |
+|  318111375 | 1ueHOD0PGcU |
+|  318137672 | ygl4FqR9S3Y |
+|  318257204 | 5DzhzfKPTto |
+|  421033755 | jEBLR2vHRl4 |
+|  318273123 | 2rR3IrMiny8 |
+|  421026399 | vWa2E6aj8D4 |
+|  318305116 | SYr3jxgiTMk |
+|  318272030 | 22lCIZ/lirY |
+|  318207285 | ZuB9TJLpoXc |
+|  421106448 | dUlw5IgL7E4 |
+|  318311836 | CiAfaJgzsUs |
+|  318099512 | KCMi4e63biI |
+|  318278465 | vPiqAp/NRqw |
+|  318358181 | NffrVsoLNwE |
+|  318143581 | 6VvlwltlRyo |
+|  318257424 | jWlV9BWPiRc |
+|  318748083 | nJZYAn2ar5c |
+|  318325363 | 272KpBV6yEU |
+|  318033866 | eDvi7R35UpE |
+|  318084057 | Zop28kUNyP8 |
+|  318356125 | dLOHM/anVBY |
+|  318157551 | l4V6DL4VMTY |
+|  318144533 | Z7SE7klEC54 |
+|  318159335 | r6orO2h0N4w |
+|  318059699 | hWb5jhJNg5k |
+|  318001186 | RCGvzLfWA+w |
+
+*** Contraseñas Grupo 35
+
+| No. Cuenta | Contraseña  |
+|------------+-------------|
+|  313012930 | PZs5HxaxO8E |
+|  317224816 | GOp4xFc3A04 |
+|  314231802 | ijuJrjWGG+o |
+|  315173172 | 2mntEEpKLsw |
+|  312079642 | s+3aAAQtbHk |
+|  317011588 | tKnw8EezXvk |
+|  317193796 | grE8n1ibSUU |
+|  316010739 | JtF96mn8zLY |
+|  315083556 | Aowm5Xmz450 |
+|  317356490 | 0NKMtMoBN2Q |
+|  311320271 | lpo/SAB6UbY |
+|  314180937 | G6cYw2EKAZs |
+|  315178263 | Uyl7qMsMt9A |
+|  316061195 | FGSQclFGraE |
+|  315037724 | BRezrNiyz24 |
+|  316013565 | TgqfWW7kEmA |
+|  311247767 | 7GJGx8JX5Dc |
+|  316254654 | D7sNG/pNsGU |
+|  317252866 | AUZ4+1pZEHg |
+|  316013510 | 59SqaL0u8n0 |
+|  317179211 | alcyKLLtWjU |
+|  317175220 | EXbrzimCWDY |
+|  312289546 | K6MCOCrAcXQ |
+|  317722154 | wiKlfRWuFHs |
+|  419048190 | DE88Y5KMkZs |
+|  314244590 | AU1CfbsJKaI |
+|  315202542 | JouOxabpOVs |
+|  420055130 | hE5ADfqEorQ |
+|  317306426 | aGNjzNkrShA |
+|  315298242 | dskmf7L1bWc |
+|  317242258 | PSsVRbw+uSg |
+|  317309812 | j5JTxrVhejY |
+|  419050269 | Ka6o3YFF9cg |
+|  316023829 | UwTuFG8tc5M |
+|  314269230 | BZO43BgcK7I |
+|  317172511 | PhguWTgBnWA |
+|  313150739 | LYKRMxSiFwg |
+|  418046162 | RgJJSPN4WTc |
+|  317030800 | FqEJM3fiIbI |
+|  317309025 | yOzFv8RZcCM |
+|  316078300 | GZXLyV7njmo |
+
+*** Contraseñas Grupo 40
+
+| No. Cuenta | Contraseña  |
+|------------+-------------|
+|  420054607 | IRVejqfB4oQ |
+|  419047801 | htswimGlF0M |
+|  317262450 | hsBiom75rDE |
+|  317758715 | zrdwsDQB5CU |
+|  316242341 | A2g8xMQgwg0 |
+|  317020333 | +BOIGONtnss |
+|  317178283 | o6p3AXX+sI0 |
+|  316195065 | oX7KiBm1DC4 |
+|  315192085 | 9w632z+io1s |
+|  317358906 | cUkwmcDIxys |
+|  317314638 | 2CA5v2f0XPM |
+|  316136624 | xDjkNKN1tPM |
+|  314265696 | BSUAgTs3aZ4 |
+|  316036926 | Mf+yPdl9Ico |
+|  315292350 | GzYK4CPCs7c |
+|  419047090 | P7ICllruQuY |
+|  312289467 | DW9Cpu6pAp8 |
+|  315698666 | PYl+8udBjZA |
+|  316062264 | zPeJFWtH+gQ |
+|  420055989 | apAnDkgqmM4 |
+|  314182546 | KCof88V+mvs |
+|  316068060 | 8nAA0pCz0dk |
+|  317024207 | 0ktk9YguGkQ |
+|  316579302 | ARFeZGDhZWo |
+|  317291225 | RK6YFwDESZ0 |
+|  314223827 | MwhLanLhe/c |
+|  313279168 | x3J9q5gxVdM |
+|  317015012 | nzuh8qV8btA |
+|  316242365 | zZCNfA9vj3Y |
+|  317349773 | WlTG9c5A3BM |
+|  310267722 | EvFG8O/C/qI |
+|  317301517 | rc0ndz39TcY |
+|  316259123 | meZiwvR/x6U |
+|  312027753 | b94DmRIqN9Q |
+|  316191782 | NrrrJaBeLDY |
+|  419138558 | uv/Btg0CcAI |
+|  314167301 | FVeR0pdzWxU |
+|  317144808 | wY1MtbhGNvg |
+|  312249142 | 02+0Qik0lMU |
 
 ** Actividades optativas
 
@@ -228,7 +406,7 @@ La calificación esta determinada por los errores anotados en la siguiente tabla
 
 | Criterio                      | Errores | Puntos menos | Otras observaciones acerca la puntuación |
 |-------------------------------+---------+--------------+------------------------------------------|
-| Coherencia y cohesión         |    4    |    -1        |                                          |
+| Coherencia y cohesión         |    4    |    -1.5      |                                          |
 | Longitud                      |         |              |                                          |
 | Oraciones tópico              |         |              |                                          |
 | Léxico (variedad y selección) |         |              |                                          |
