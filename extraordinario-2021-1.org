@@ -1,4 +1,4 @@
-#+TITLE:        Evaluación Redacción y exposición de temas de ingeniería
+#+TITLE:        Examen extraordinario de Redacción y exposición de temas de ingeniería
 #+AUTHOR:       Edgar Uriel Domínguez Espinoza
 #+EMAIL:        edgar_uriel84 AT genomorro DOT name
 #+DATE:         2020
