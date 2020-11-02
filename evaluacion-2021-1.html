@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<!-- 2020-10-11 dom 15:36 -->
+<!-- 2020-11-01 dom 22:06 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Evaluación Redacción y exposición de temas de ingeniería</title>
@@ -38,7 +38,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -193,50 +193,26 @@
 </style>
 <link rel="stylesheet" type="text/css" href="styles/orgcss/org.css"/>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -246,61 +222,61 @@ for the JavaScript code in this tag.
 <h2>&Iacute;ndice</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgfe7cb17">1. Grupos, horarios y fechas importantes</a>
+<li><a href="#orgccbdef4">1. Grupos, horarios y fechas importantes</a>
 <ul>
-<li><a href="#orgfa98bbd">1.1. Calendario</a></li>
+<li><a href="#orgafd6732">1.1. Calendario</a></li>
 </ul>
 </li>
-<li><a href="#org3f7f6c4">2. Guía del curso</a></li>
-<li><a href="#org2f6c72f">3. Elementos de evaluación</a>
+<li><a href="#orga6be6b1">2. Guía del curso</a></li>
+<li><a href="#orgaab8cb1">3. Elementos de evaluación</a>
 <ul>
-<li><a href="#org75b7cf9">3.1. Exámenes</a>
+<li><a href="#org69f5e1e">3.1. Exámenes</a>
 <ul>
-<li><a href="#org0187e7b">3.1.1. Procedimiento para exámenes</a></li>
+<li><a href="#org2a8f14b">3.1.1. Procedimiento para exámenes</a></li>
 </ul>
 </li>
-<li><a href="#org00f2778">3.2. Contraseñas para exámenes</a>
+<li><a href="#orgd7f1285">3.2. Contraseñas para exámenes</a>
 <ul>
-<li><a href="#org23d3e3c">3.2.1. Contraseñas Grupo 15</a></li>
-<li><a href="#org94882d2">3.2.2. Contraseñas Grupo 35</a></li>
-<li><a href="#org379ecd8">3.2.3. Contraseñas Grupo 40</a></li>
+<li><a href="#orgc33d57f">3.2.1. Contraseñas Grupo 15</a></li>
+<li><a href="#org1462c06">3.2.2. Contraseñas Grupo 35</a></li>
+<li><a href="#org1ef7588">3.2.3. Contraseñas Grupo 40</a></li>
 </ul>
 </li>
-<li><a href="#orgdbef9e8">3.3. Actividades optativas</a>
+<li><a href="#orge76028d">3.3. Actividades optativas</a>
 <ul>
-<li><a href="#org4fc21e2">3.3.1. Revisión de actividades</a></li>
-<li><a href="#org27ad837">3.3.2. Entrega final de actividades</a></li>
+<li><a href="#org0bede43">3.3.1. Revisión de actividades</a></li>
+<li><a href="#org372ae17">3.3.2. Entrega final de actividades</a></li>
 </ul>
 </li>
-<li><a href="#org58c38df">3.4. Participaciones negativas</a></li>
+<li><a href="#org5294fdb">3.4. Participaciones negativas</a></li>
 </ul>
 </li>
-<li><a href="#org74a7d33">4. Calificación ordinaria durante el semestre</a></li>
-<li><a href="#orgb6bed8f">5. Exámenes finales</a></li>
-<li><a href="#org003b71f">6. Rúbricas</a>
+<li><a href="#org398e06a">4. Calificación ordinaria durante el semestre</a></li>
+<li><a href="#orgc871d16">5. Exámenes finales</a></li>
+<li><a href="#org617d71b">6. Rúbricas</a>
 <ul>
-<li><a href="#org5efe57a">6.1. R1: Admisión de textos</a></li>
-<li><a href="#org2af03f0">6.2. R2: Evaluación de textos</a></li>
-<li><a href="#orgd82e64e">6.3. R3: Admisión de exposición</a></li>
-<li><a href="#org59e0fb8">6.4. R4: Evaluación de exposición</a></li>
+<li><a href="#org734f45e">6.1. R1: Admisión de textos</a></li>
+<li><a href="#org61ee2cb">6.2. R2: Evaluación de textos</a></li>
+<li><a href="#org5b8c1c2">6.3. R3: Admisión de exposición</a></li>
+<li><a href="#org5f0c50d">6.4. R4: Evaluación de exposición</a></li>
 </ul>
 </li>
-<li><a href="#orgcf9bbf1">7. Otros elementos útiles para tu calificación</a>
+<li><a href="#org96057cd">7. Otros elementos útiles para tu calificación</a>
 <ul>
-<li><a href="#org919cb40">7.1. Latex</a></li>
-<li><a href="#org9bf1cc2">7.2. Lecturas&#xa0;&#xa0;&#xa0;<span class="tag"><span class="REVISAR">REVISAR</span></span></a></li>
+<li><a href="#org90ac74f">7.1. Latex</a></li>
+<li><a href="#orgf16d72b">7.2. Lecturas&#xa0;&#xa0;&#xa0;<span class="tag"><span class="REVISAR">REVISAR</span></span></a></li>
 </ul>
 </li>
-<li><a href="#org2dad285">8. Seguridad</a></li>
+<li><a href="#orgc09c46d">8. Seguridad</a></li>
 </ul>
 </div>
 </div>
-<div class="abstract">
+<div class="abstract" id="org1a0425e">
 
 </div>
 
-<div id="outline-container-orgfe7cb17" class="outline-2">
-<h2 id="orgfe7cb17"><span class="section-number-2">1</span> Grupos, horarios y fechas importantes</h2>
+<div id="outline-container-orgccbdef4" class="outline-2">
+<h2 id="orgccbdef4"><span class="section-number-2">1</span> Grupos, horarios y fechas importantes</h2>
 <div class="outline-text-2" id="text-1">
 <ul class="org-ul">
 <li>Grupo 15. Martes y jueves, 11:00 a 13:00. Salón <a href="https://cuaed-unam.zoom.us/j/98982402621?pwd=eldoQ1ZBTjlIZXl0MG9hdSsxOUMvZz09">I303</a>. <b><b>Solo alumnos de nuevo ingreso</b></b>.</li>
@@ -321,8 +297,8 @@ minutos el profesor aun está retrasado, la clase iniciará una hora después de
 </p>
 </div>
 
-<div id="outline-container-orgfa98bbd" class="outline-3">
-<h3 id="orgfa98bbd"><span class="section-number-3">1.1</span> Calendario</h3>
+<div id="outline-container-orgafd6732" class="outline-3">
+<h3 id="orgafd6732"><span class="section-number-3">1.1</span> Calendario</h3>
 <div class="outline-text-3" id="text-1-1">
 <ol class="org-ol">
 <li>Inicio del semestre: 21 de septiembre 2020</li>
@@ -345,8 +321,8 @@ minutos el profesor aun está retrasado, la clase iniciará una hora después de
 </div>
 </div>
 
-<div id="outline-container-org3f7f6c4" class="outline-2">
-<h2 id="org3f7f6c4"><span class="section-number-2">2</span> Guía del curso</h2>
+<div id="outline-container-orga6be6b1" class="outline-2">
+<h2 id="orga6be6b1"><span class="section-number-2">2</span> Guía del curso</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
@@ -357,7 +333,7 @@ profesor los explique durante la clase.
 <p>
 La guía está disponible en  formato <a href="assets/manual.pdf">PDF</a> y <a href="manual.html">HTML</a>. Es recomendable que tengas  una copia de la guía
 durante la  clase. También  puedes ver  el temario  oficial de  la asignatura  en la  sección de
-<a href="#org9bf1cc2">7.2</a>.
+<a href="#orgf16d72b">7.2</a>.
 </p>
 
 <p>
@@ -367,8 +343,8 @@ modificarlo, corregirlo.
 </div>
 </div>
 
-<div id="outline-container-org2f6c72f" class="outline-2">
-<h2 id="org2f6c72f"><span class="section-number-2">3</span> Elementos de evaluación</h2>
+<div id="outline-container-orgaab8cb1" class="outline-2">
+<h2 id="orgaab8cb1"><span class="section-number-2">3</span> Elementos de evaluación</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 Durante  el  semestre  no  se  tomará  en  cuenta  asistencia  ni  puntualidad  como  método  de
@@ -382,7 +358,7 @@ realizarse durante los primeros minutos de clase (a partir de la llegada del pro
 solicitar  la  palabra  para  exponer   sobre  alguna  lectura  (ver  actividades  optativas).
 Requisitos para  la participación: Deberás  entregar al profesor un  escrito con el  guión que
 seguiste para  realizar tu exposición  (una cuartilla), al reverso  de la hoja,  deberán estar
-impresas las rúbricas <a href="#org2af03f0">R2</a> y <a href="#org59e0fb8">R4</a>.</li>
+impresas las rúbricas <a href="#org61ee2cb">R2</a> y <a href="#org5f0c50d">R4</a>.</li>
 <li>Exámenes y actividades de clase.</li>
 <li>Aportaciones  en  clase.   Cada  sesión  podrás solicitar  tu  participación.   El  número  de
 aportaciones será llevado por el profesor. Tus aportaciones solo serán contabilizadas si estás
@@ -397,8 +373,8 @@ actividades. Haz tu trabajo de la mejor forma y al final del semestre tendrás e
 </p>
 </div>
 
-<div id="outline-container-org75b7cf9" class="outline-3">
-<h3 id="org75b7cf9"><span class="section-number-3">3.1</span> Exámenes</h3>
+<div id="outline-container-org69f5e1e" class="outline-3">
+<h3 id="org69f5e1e"><span class="section-number-3">3.1</span> Exámenes</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 Los  exámenes  son  la forma  principal  de  obtener  participaciones.   Cada examen  vale  diez
@@ -419,8 +395,8 @@ anuladas y no impactarán en la contabilización de participaciones.
 pregunta del examen</b></b>.
 </p>
 </div>
-<div id="outline-container-org0187e7b" class="outline-4">
-<h4 id="org0187e7b"><span class="section-number-4">3.1.1</span> Procedimiento para exámenes</h4>
+<div id="outline-container-org2a8f14b" class="outline-4">
+<h4 id="org2a8f14b"><span class="section-number-4">3.1.1</span> Procedimiento para exámenes</h4>
 <div class="outline-text-4" id="text-3-1-1">
 <ol class="org-ol">
 <li>El  alumno  entrará en  <a href="https://tao.genomorro.name">el  sitio  web  del  examen: tao.genomorro.name</a>  para  contestar  el
@@ -451,17 +427,17 @@ de acceso.
 
 <li>Prueba con  anticipación  tu  acceso al  sitio,  si tienes  dudas  podrás  mandar un  correo
 electrónico al profesor  describiendo el problema. <b>Evita inconvenientes antes  del examen</b> y
-verifica tu acceso al sitio lo antes posible, la fecha límite esta en el <a href="#orgfa98bbd">Calendario</a>.</li>
+verifica tu acceso al sitio lo antes posible, la fecha límite esta en el <a href="#orgafd6732">Calendario</a>.</li>
 </ol>
 </div>
 </div>
 </div>
-<div id="outline-container-org00f2778" class="outline-3">
-<h3 id="org00f2778"><span class="section-number-3">3.2</span> Contraseñas para exámenes</h3>
+<div id="outline-container-orgd7f1285" class="outline-3">
+<h3 id="orgd7f1285"><span class="section-number-3">3.2</span> Contraseñas para exámenes</h3>
 <div class="outline-text-3" id="text-3-2">
 </div>
-<div id="outline-container-org23d3e3c" class="outline-4">
-<h4 id="org23d3e3c"><span class="section-number-4">3.2.1</span> Contraseñas Grupo 15</h4>
+<div id="outline-container-orgc33d57f" class="outline-4">
+<h4 id="orgc33d57f"><span class="section-number-4">3.2.1</span> Contraseñas Grupo 15</h4>
 <div class="outline-text-4" id="text-3-2-1">
 <table>
 
@@ -787,8 +763,8 @@ verifica tu acceso al sitio lo antes posible, la fecha límite esta en el <a hre
 </div>
 </div>
 
-<div id="outline-container-org94882d2" class="outline-4">
-<h4 id="org94882d2"><span class="section-number-4">3.2.2</span> Contraseñas Grupo 35</h4>
+<div id="outline-container-org1462c06" class="outline-4">
+<h4 id="org1462c06"><span class="section-number-4">3.2.2</span> Contraseñas Grupo 35</h4>
 <div class="outline-text-4" id="text-3-2-2">
 <table>
 
@@ -1014,8 +990,8 @@ verifica tu acceso al sitio lo antes posible, la fecha límite esta en el <a hre
 </div>
 </div>
 
-<div id="outline-container-org379ecd8" class="outline-4">
-<h4 id="org379ecd8"><span class="section-number-4">3.2.3</span> Contraseñas Grupo 40</h4>
+<div id="outline-container-org1ef7588" class="outline-4">
+<h4 id="org1ef7588"><span class="section-number-4">3.2.3</span> Contraseñas Grupo 40</h4>
 <div class="outline-text-4" id="text-3-2-3">
 <table>
 
@@ -1232,8 +1208,8 @@ verifica tu acceso al sitio lo antes posible, la fecha límite esta en el <a hre
 </div>
 </div>
 
-<div id="outline-container-orgdbef9e8" class="outline-3">
-<h3 id="orgdbef9e8"><span class="section-number-3">3.3</span> Actividades optativas</h3>
+<div id="outline-container-orge76028d" class="outline-3">
+<h3 id="orge76028d"><span class="section-number-3">3.3</span> Actividades optativas</h3>
 <div class="outline-text-3" id="text-3-3">
 <p>
 Las actividades optativas  podrán formar parte de  la clase, o bien podrán  ser solicitadas para
@@ -1259,9 +1235,10 @@ Jakobson,  Austin, Searle  y  Grice  que se  vieron  en clase  para  describir  
 habla. (2P cada video)
 
 <ul class="org-ul">
-<li><a href="https://invidious.snopyta.org/watch?v=PI0OPXnBbBs">Video 1.</a> Pistas adicionales: Revisa los contextos,  ¿Quién es juzgado?  ¿Quién está a favor
+<li><a href="https://invidious.snopyta.org/watch?v=FZX2fGs3UbI">Video 1.</a> Pistas adicionales: Revisa los contextos,  ¿Quién es juzgado?  ¿Quién está a favor
 y quién en contra?</li>
-<li><a href="https://invidious.snopyta.org/watch?v=1hZmWYh5aJg">Video 2.</a> Pistas adicionales: ¿Cuál es el trato? ¿Porqué se llega a él?</li>
+<li><a href="https://invidious.snopyta.org/watch?v=1hZmWYh5aJg">Video 2.</a> <a href="https://invidious.snopyta.org/watch?v=jl1u1U37BLo">Alternativo (En inglés)</a> Pistas adicionales:  ¿Cuál es el trato? ¿Porqué se llega a
+él?</li>
 <li><a href="https://invidious.snopyta.org/watch?v=FIer5Skcs4o">Video 3.</a>  Pistas adicionales: ¿Porqué no se cumple el trato? ¿Cómo reacciona el acusado con
 el último testigo? ¿Qué dice el testigo para provocar la reacción del acusado?</li>
 <li><a href="https://invidious.snopyta.org/watch?v=pgdxUe2pQFM">Video  4.</a> Pistas  adicionales: ¿Porqué  su amigo  no lo  defenderá?  ¿Porqué  Oberyn si  lo
@@ -1273,12 +1250,12 @@ la semana.</li>
 </ol>
 </div>
 
-<div id="outline-container-org4fc21e2" class="outline-4">
-<h4 id="org4fc21e2"><span class="section-number-4">3.3.1</span> Revisión de actividades</h4>
+<div id="outline-container-org0bede43" class="outline-4">
+<h4 id="org0bede43"><span class="section-number-4">3.3.1</span> Revisión de actividades</h4>
 <div class="outline-text-4" id="text-3-3-1">
 <p>
 Todo trabajo puede ser revisado dos veces por el  profesor previo a su entrega (Ver fechas en la
-sección <a href="#orgfa98bbd">1.1</a>). Preferentemente, usa hojas de  reciclaje para las revisiones, tacha siempre
+sección <a href="#orgafd6732">1.1</a>). Preferentemente, usa hojas de  reciclaje para las revisiones, tacha siempre
 el lado que no debe ser leído.
 </p>
 
@@ -1299,8 +1276,8 @@ mano. No olvides colocar tu nombre y tu grupo.
 </div>
 </div>
 
-<div id="outline-container-org27ad837" class="outline-4">
-<h4 id="org27ad837"><span class="section-number-4">3.3.2</span> Entrega final de actividades</h4>
+<div id="outline-container-org372ae17" class="outline-4">
+<h4 id="org372ae17"><span class="section-number-4">3.3.2</span> Entrega final de actividades</h4>
 <div class="outline-text-4" id="text-3-3-2">
 <ul class="org-ul">
 <li>Será una sola entrega.</li>
@@ -1328,14 +1305,14 @@ txt, mp3, ogg, odt, ods. También se recibirán archivos doc, docx, avi, etc.</l
 </ul>
 
 <p>
-Las fechas de entrega están en la sección <a href="#orgfa98bbd">1.1</a>.
+Las fechas de entrega están en la sección <a href="#orgafd6732">1.1</a>.
 </p>
 </div>
 </div>
 </div>
 
-<div id="outline-container-org58c38df" class="outline-3">
-<h3 id="org58c38df"><span class="section-number-3">3.4</span> Participaciones negativas</h3>
+<div id="outline-container-org5294fdb" class="outline-3">
+<h3 id="org5294fdb"><span class="section-number-3">3.4</span> Participaciones negativas</h3>
 <div class="outline-text-3" id="text-3-4">
 <p>
 Las participaciones  pueden ser negativas en  caso de un error  total. Un error total  puede ser
@@ -1356,8 +1333,8 @@ Ninguna revisión es motivo de una participación negativa.
 </div>
 </div>
 
-<div id="outline-container-org74a7d33" class="outline-2">
-<h2 id="org74a7d33"><span class="section-number-2">4</span> Calificación ordinaria durante el semestre</h2>
+<div id="outline-container-org398e06a" class="outline-2">
+<h2 id="org398e06a"><span class="section-number-2">4</span> Calificación ordinaria durante el semestre</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 Una vez finalizado el semestre, el  profesor contará las actividades optativas, también validará
@@ -1421,8 +1398,8 @@ calificación puede variar antes de esa fecha.
 </div>
 </div>
 
-<div id="outline-container-orgb6bed8f" class="outline-2">
-<h2 id="orgb6bed8f"><span class="section-number-2">5</span> Exámenes finales</h2>
+<div id="outline-container-orgc871d16" class="outline-2">
+<h2 id="orgc871d16"><span class="section-number-2">5</span> Exámenes finales</h2>
 <div class="outline-text-2" id="text-5">
 <p>
 Tienes derecho a dos exámenes finales:
@@ -1441,17 +1418,17 @@ optativa número dos en original y copia.</li>
 </ul>
 
 <p>
-Las fechas de estos exámenes estarán disponibles en la sección <a href="#orgfa98bbd">1.1</a> de este sitio.
+Las fechas de estos exámenes estarán disponibles en la sección <a href="#orgafd6732">1.1</a> de este sitio.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org003b71f" class="outline-2">
-<h2 id="org003b71f"><span class="section-number-2">6</span> Rúbricas</h2>
+<div id="outline-container-org617d71b" class="outline-2">
+<h2 id="org617d71b"><span class="section-number-2">6</span> Rúbricas</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-org5efe57a" class="outline-3">
-<h3 id="org5efe57a"><span class="section-number-3">6.1</span> R1: Admisión de textos</h3>
+<div id="outline-container-org734f45e" class="outline-3">
+<h3 id="org734f45e"><span class="section-number-3">6.1</span> R1: Admisión de textos</h3>
 <div class="outline-text-3" id="text-6-1">
 <table>
 
@@ -1497,8 +1474,8 @@ Las fechas de estos exámenes estarán disponibles en la sección <a href="#orgf
 </div>
 </div>
 
-<div id="outline-container-org2af03f0" class="outline-3">
-<h3 id="org2af03f0"><span class="section-number-3">6.2</span> R2: Evaluación de textos</h3>
+<div id="outline-container-org61ee2cb" class="outline-3">
+<h3 id="org61ee2cb"><span class="section-number-3">6.2</span> R2: Evaluación de textos</h3>
 <div class="outline-text-3" id="text-6-2">
 <p>
 La calificación esta determinada por los errores anotados en la siguiente tabla:
@@ -1604,8 +1581,8 @@ por cada error posterior se restará medio punto. Un error puede implicar la exi
 </div>
 </div>
 
-<div id="outline-container-orgd82e64e" class="outline-3">
-<h3 id="orgd82e64e"><span class="section-number-3">6.3</span> R3: Admisión de exposición</h3>
+<div id="outline-container-org5b8c1c2" class="outline-3">
+<h3 id="org5b8c1c2"><span class="section-number-3">6.3</span> R3: Admisión de exposición</h3>
 <div class="outline-text-3" id="text-6-3">
 <table>
 
@@ -1651,8 +1628,8 @@ por cada error posterior se restará medio punto. Un error puede implicar la exi
 </div>
 </div>
 
-<div id="outline-container-org59e0fb8" class="outline-3">
-<h3 id="org59e0fb8"><span class="section-number-3">6.4</span> R4: Evaluación de exposición</h3>
+<div id="outline-container-org5f0c50d" class="outline-3">
+<h3 id="org5f0c50d"><span class="section-number-3">6.4</span> R4: Evaluación de exposición</h3>
 <div class="outline-text-3" id="text-6-4">
 <p>
 La calificación esta determinada por los errores anotados en la siguiente tabla:
@@ -1758,12 +1735,12 @@ por cada error posterior se restará medio punto. Un error puede implicar la exi
 </div>
 </div>
 </div>
-<div id="outline-container-orgcf9bbf1" class="outline-2">
-<h2 id="orgcf9bbf1"><span class="section-number-2">7</span> Otros elementos útiles para tu calificación</h2>
+<div id="outline-container-org96057cd" class="outline-2">
+<h2 id="org96057cd"><span class="section-number-2">7</span> Otros elementos útiles para tu calificación</h2>
 <div class="outline-text-2" id="text-7">
 </div>
-<div id="outline-container-org919cb40" class="outline-3">
-<h3 id="org919cb40"><span class="section-number-3">7.1</span> Latex</h3>
+<div id="outline-container-org90ac74f" class="outline-3">
+<h3 id="org90ac74f"><span class="section-number-3">7.1</span> Latex</h3>
 <div class="outline-text-3" id="text-7-1">
 <p>
 Latex es un lenguaje  de marcado útil para escribir textos. Puedes aprender  Latex por tu cuenta
@@ -1782,8 +1759,8 @@ Algunos recursos recomendados son:
 </div>
 </div>
 
-<div id="outline-container-org9bf1cc2" class="outline-3">
-<h3 id="org9bf1cc2"><span class="section-number-3">7.2</span> Lecturas&#xa0;&#xa0;&#xa0;<span class="tag"><span class="REVISAR">REVISAR</span></span></h3>
+<div id="outline-container-orgf16d72b" class="outline-3">
+<h3 id="orgf16d72b"><span class="section-number-3">7.2</span> Lecturas&#xa0;&#xa0;&#xa0;<span class="tag"><span class="REVISAR">REVISAR</span></span></h3>
 <div class="outline-text-3" id="text-7-2">
 <ul class="org-ul">
 <li><a href="http://www.ingenieria.unam.mx/dcsyhfi/temarios/redaccion_y_exposicion_de_temas_de_ingenieria2016.pdf">Temario oficial de la asignatura</a></li>
@@ -1795,8 +1772,8 @@ Algunos recursos recomendados son:
 </div>
 </div>
 
-<div id="outline-container-org2dad285" class="outline-2">
-<h2 id="org2dad285"><span class="section-number-2">8</span> Seguridad</h2>
+<div id="outline-container-orgc09c46d" class="outline-2">
+<h2 id="orgc09c46d"><span class="section-number-2">8</span> Seguridad</h2>
 <div class="outline-text-2" id="text-8">
 <ul class="org-ul">
 <li>La Comisión Local de Seguridad de la FI solicita la lectura de <a href="assets/acciones_cls_fi.pdf">las acciones de la CLS</a>.</li>
@@ -1810,7 +1787,7 @@ Algunos recursos recomendados son:
 <div id="postamble" class="status">
 <p class="date">Fecha: 2020</p>
 <p class="author">Autor: Edgar Uriel Domínguez Espinoza</p>
-<p class="date">Created: 2020-10-11 dom 15:36</p>
+<p class="date">Created: 2020-11-01 dom 22:06</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
