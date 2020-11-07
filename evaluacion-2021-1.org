@@ -295,7 +295,11 @@ obtener por actividad.
    - [[https://invidious.snopyta.org/watch?v=pgdxUe2pQFM][Video  4.]] Pistas  adicionales: ¿Porqué  su amigo  no lo  defenderá?  ¿Porqué  Oberyn si  lo
      defenderá?
 
-4. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+4. Lee "la  sombra sobre Innsmouth" (sección  de lecturas).  Cuenta la historia  con tus propias
+   palabras,  graba la  narración  que realices  en  audio  o video.   Puedes  ayudarte con  una
+   presentación elaborada por ti. (3P)
+
+5. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
    la semana.
 
 *** Revisión de actividades
@@ -469,6 +473,7 @@ Algunos recursos recomendados son:
 - [[http://www.aapaunam.mx/assets/julio_septiembre_2017_.pdf][Comunicación asertiva]] de Wázcar Verduzco Fragoso y Marlon Enediel Hernández Grijalba.
 - [[https://teorialiteraria2009.files.wordpress.com/2009/06/barthes-la-muerte-del-autor.pdf][La muerte del autor]] de Roland Barthes.
 - [[file:assets/Lecto-escritura.pdf][Manual de Lectoescritura]] de Margarita Alegría de la Colina.
+- [[https://b-ok.lat/book/1386113/8892c2][La sombra sobre Innsmouth]] de H.P. Lovecraft.
 
 * Seguridad
 
