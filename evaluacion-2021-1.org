@@ -302,10 +302,13 @@ obtener por actividad.
 5. Lee la [[https://genius.com/Fito-paez-11-y-6-lyrics][letra de  la canción 11 y 6]], identifica los tipos de  palabra de la canción completa,
   puedes usar colores para cada tipo de palabra o bien listas de cada tipo de palabra. (3P)
 
+6.  Descarga [[file:assets/parrafo_ejercicio.txt.pdf][el  ejercicio]].  Por  cada párrafo  presente deberás  identificar la  oración tópico
+   (subraya o escribe según sea el caso), el tipo de oración tópico y el tipo de párrafo. (2P)
+
 # 6.  Lee la [[https://genius.com/Fito-paez-11-y-6-lyrics][letra  de la canción 11 y 6]],  escribe la historia en prosa, describe  cada uno de los
 #    eventos con total claridad. (2P)
 
-6. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
+7. Podrán agregarse actividades  o tareas a lo largo del semestre, revisa  esta página una vez a
    la semana.
 
 *** Revisión de actividades
