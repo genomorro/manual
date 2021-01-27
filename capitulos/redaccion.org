@@ -14,7 +14,7 @@
 ** Operaciones básicas para la configuración de textos: descripción, narración, exposición y argumentación
 *** Derechos de autor
 
-En México, la [[http://www.diputados.gob.mx/LeyesBiblio/pdf/122_240120.pdf][Ley Federal de Derechos de Autor]] establece cuales son los derechos que los autores
+En México, la [[http://www.diputados.gob.mx/LeyesBiblio/pdf/122_010720.pdf][Ley Federal de Derechos de Autor]] establece cuales son los derechos que los autores
 tienen al crear su obra cultural. Algunos de los puntos principales de la ley son:
 
 - Artículo 3, 4, 13 y 14. Menciona los tipos de creaciones que son objeto de los derechos de autor.
