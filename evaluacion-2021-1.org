@@ -7,6 +7,10 @@
 #+LANGUAGE:     es
 
 #+BEGIN_abstract
+Desde este momento estará  disponible un documento con la [[file:assets/Lista_2021-1.ods][lista  de calificaciones]]. El documento
+tiene tres  pestañas, una por  cada grupo. La inforamción  es pública porque  las calificaciones
+dependen del  rendimiento del  grupo en  general.  En cuanto  se llenen  las actas  finales este
+documento será retirado.
 #+END_abstract
 
 * Grupos, horarios y fechas importantes
