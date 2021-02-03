@@ -7,10 +7,10 @@
 #+LANGUAGE:     es
 
 #+BEGIN_abstract
-Desde este momento estará  disponible un documento con la [[file:assets/Lista_2021-1.ods][lista  de calificaciones]]. El documento
-tiene tres  pestañas, una por  cada grupo. La información  es pública porque  las calificaciones
-dependen del  rendimiento del  grupo en  general.  En cuanto  se llenen  las actas  finales este
-documento será retirado.
+Desde este momento estará disponible un documento con la [[file:assets/Lista_2021-1.ods][lista de calificaciones]] ([[https://nc.genomorro.name/index.php/s/j5RosyWBkgT4XrB][Vista en línea
+no editable]]). El  documento tiene tres pestañas,  una por cada grupo. La  información es pública
+porque las calificaciones  dependen del rendimiento del  grupo en general.  En  cuanto se llenen
+las actas finales este documento será retirado.
 
 Exámenes finales se realizarán en las fechas acordadas  en la sección de [[Calendario]] a la hora de
 la clase. Es posible verificar dicha información en [[https://tao.genomorro.name][la página de exámenes]].
