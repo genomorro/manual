@@ -378,11 +378,11 @@ mano. No olvides colocar tu nombre y tu grupo.
 
 - El archivo debe ser entregado en la carpeta que corresponda:
 
-  - [[https://nc.genomorro.name/index.php/s/kJQ9i3gPYyFqcFG][Salón I303]]
+  - [[https://nc.genomorro.name/index.php/s/3Kf9bY4erMecDST][Salón I303]]
 
-  - [[https://nc.genomorro.name/index.php/s/nKmZSpfA3CqxDFQ][Salón A202]]
+  - [[https://nc.genomorro.name/index.php/s/o3wn2WRm7JFGaTs][Salón A202]]
 
-  - [[https://nc.genomorro.name/index.php/s/cHiATqsJFbgqxdT][Salón A102]]
+  - [[https://nc.genomorro.name/index.php/s/KtHGGRaywnBcwE7][Salón A102]]
 
 Las fechas de entrega están en la sección [[Calendario]].
 
