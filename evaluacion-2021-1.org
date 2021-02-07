@@ -13,7 +13,7 @@ porque las calificaciones  dependen del rendimiento del  grupo en general.  En  
 las actas finales este documento será retirado.
 
 **Los grupos 35 y 40 han sido calificados.  Aquellos alumnos que no estén aprobados pueden hacer
-el segundo final el 8 de febrero**.
+el segundo final el 8 de febrero, verifica el requisito**.
 
 Exámenes finales se realizarán en las fechas acordadas  en la sección de [[Calendario]] a la hora de
 la clase. Es posible verificar dicha información en [[https://tao.genomorro.name][la página de exámenes]].
@@ -437,7 +437,8 @@ Tienes derecho a dos exámenes finales:
 - El segundo  examen final corresponde a  una prueba que  tiene como base la  actividad optativa
   número uno  y dos. Este  examen es individual  y el único  documento permitido es  el producto
   obtenido de la realización de dichas  actividades.  **Requisito**: Deberás llevar la actividad
-  optativa número dos en original y copia.
+  optativa número dos en original y copia. **Se  pedirá la copia digital antes de tener acceso a
+  las preguntas, para colocar una calificación aprobatoria se revisará dicha copia**.
 
 Las fechas de estos exámenes estarán disponibles en la sección [[Calendario]] de este sitio.
 
