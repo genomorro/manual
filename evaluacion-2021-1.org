@@ -12,8 +12,14 @@ no editable]]). El  documento tiene tres pestañas,  una por cada grupo. La  inf
 porque las calificaciones  dependen del rendimiento del  grupo en general.  En  cuanto se llenen
 las actas finales este documento será retirado.
 
-**Los grupos 35 y 40 han sido calificados.  Aquellos alumnos que no estén aprobados pueden hacer
-el segundo final el 8 de febrero, verifica el requisito**.
+Todos  los grupos  han sido  calificados. Solo  queda pendiente  la fecha  del segundo  final.
+Es posible  verificar las  notas, atenderé  preguntas por  correo el lunes  y martes  (8 y  9 de
+febrero).
+
+Aquellos alumnos que no estén aprobados pueden hacer el segundo final el 8 y 9 de febrero (según
+corresponda), verifiquen el requisito.
+
+El miércoles 10 de febrero la calificación final estará en el acta**.
 
 Exámenes finales se realizarán en las fechas acordadas  en la sección de [[Calendario]] a la hora de
 la clase. Es posible verificar dicha información en [[https://tao.genomorro.name][la página de exámenes]].
