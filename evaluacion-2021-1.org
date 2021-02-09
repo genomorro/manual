@@ -15,7 +15,8 @@ las actas finales este documento será retirado.
 Todos los  grupos han sido  calificados. Es posible verificar  las notas, atenderé  preguntas por
 correo el lunes y martes (8 y 9 de febrero).
 
-El miércoles 10 de febrero la calificación final estará en el acta**.
+El miércoles 10 de febrero la calificación final  estará en el acta. **El miércoles por la noche
+esta página dejará de estar disponible**.
 #+END_abstract
 
 * Grupos, horarios y fechas importantes
