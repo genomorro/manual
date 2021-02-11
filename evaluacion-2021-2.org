@@ -1,0 +1,10 @@
+#+TITLE:        Evaluación Redacción y exposición de temas de ingeniería
+#+AUTHOR:       Edgar Uriel Domínguez Espinoza
+#+EMAIL:        reti AT genomorro DOT name
+#+DATE:         2020
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD:    <link rel="stylesheet" type="text/css" href="styles/orgcss/org.css"/>
+#+LANGUAGE:     es
+
+#+BEGIN_abstract
+#+END_abstract
