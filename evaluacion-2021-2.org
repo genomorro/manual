@@ -9,43 +9,74 @@
 #+BEGIN_abstract
 #+END_abstract
 
-* Calendario
+* Grupos, horarios y fechas importantes
+
+El  curso  consiste  de  16  semanas,  treinta  y  dos  clases  posibles,  dos  días  de  asueto
+confirmado. Tres clases serán destinadas a hablar  sobre los procedimientos del curso y la forma
+de evaluar.
+
+- Grupo . Lunes y viernes, 11:00 a 13:00. Salón [[https://cuaed-unam.zoom.us/j/98982402621?pwd=eldoQ1ZBTjlIZXl0MG9hdSsxOUMvZz09][I303]].
+- Grupo . Lunes y miércoles, 17:00 a 19:00. Salón [[https://cuaed-unam.zoom.us/j/98134939473?pwd=Vm1XUE91YjVrbythNDNJN0tQNjU2UT09][A202]].
+
+En  cualquier caso:  **Memoriza  tu número  de  grupo**.  El  grupo al  que  perteneces te  será
+solicitado en los exámenes  u otras actividades y no será permitido  preguntarlo ni levantarse a
+ver los horarios en la puerta del salón.
+
+La clase inicia a la hora señalada en los  horarios colocados arriba, en caso de que el profesor
+se retrase  más de quince minutos  la clase iniciará a  los treinta minutos. Si  pasados treinta
+minutos el profesor aun está retrasado, la clase iniciará una hora después del horario oficial.
+
+** Calendario
+
+1. Inicio del semestre: 
+2. Revisión de actividades:
+3. Verificación de usuario y contraseña para exámenes finales: 
+4. Límite de entrega de evidencias finales: 
+5. Fin de semestre: 
+6. Informe sobre la cuenta de participaciones de cada alumno:
+   1. Grupo : 
+   2. Grupo : 
+7. Exámenes finales
+   1. Grupo : 
+   2. Grupo :
+
+* Guía del curso
+
+El curso tiene una guía de elementos mínimos  que debes conocer para aprobar la asignatura. Eres
+el único  que tiene la  obligación de revisar  cuales son dichos  elementos y asegurarte  que el
+profesor los explique durante la clase.
+
+La guía está disponible en formato [[file:assets/manual.pdf][PDF]] y [[file:manual.html][HTML]], te ayudará para tu evaluación. También puedes ver
+el temario oficial de la asignatura en la sección de [[Lecturas]].
+
+Las fuentes  de este sitio  pueden encontrarse en [[https://gitlab.com/genomorro/manual][gitlab]],  eres libre de  copiarlo, consultarlo,
+modificarlo, corregirlo.
+
+* Formato del curso.
+
+En las primeras clases del curso el profesor expondrá los siguientes temas:
+
+- El reporte académico.
+- El método CARS.
+- Referencias en un reporte académico.
+- Guía básica sobre la exposición oral.
+- La argumentación y la justificación.
+- Lenguaje de marcado Latex.
+
+Una vez concluidos dichos temas el alumnado expondrá los puntos restantes del curso. En total se
+consideran tres exposiciones por  cada clase. Se ha considerado una  exposición por alumno donde
+lo más importante  es el tiempo. Cada  exposición deberá durar estrictamente  quince minutos. La
+segunda mitad de la clase será destinada a la discusión en grupo y brindar correcciones teorícas
+por parte del profesor y resolver dudas sobre exposiciones próximas.
+
+Si algún alumno no atiende a la exposición asignada, el tema será abordado por el profesor en la
+segunda parte de la clase.
+
+A continuación se presentan los temas a exponer y las fechas tentativas.
+
 ** TODO Clase 1
-<2021-02-22 lun>
-
-Presentación.
-** TODO Clase 2
-<2021-02-24 mié> y <2021-02-26 vie>
-
-Explicación de evaluación.
-** TODO Clase 3
-<2021-03-01 lun>
-
-Profesor: El reporte académico.
-** TODO Clase 4
-<2021-03-03 mié> y <2021-03-05 vie>
-
-Profesor: El método CARS.
-** TODO Clase 5
-<2021-03-08 lun>
-
-Profesor: Referencias en un reporte académico.
-** TODO Clase 6
-<2021-03-10 mié> y <2021-03-12 vie>
-
-Profesor: Notas sobre la exposición oral.
-** TODO Clase 7
-<2021-03-15 lun>
-
-Asueto.
-** TODO Clase 8
-<2021-03-17 mié> y <2021-03-19 vie>
-
-Profesor: Argumentación y justificación.
-** TODO Clase 9
 <2021-03-22 lun>
 
-Equipo 1:
 - El circuito de la comunicación.
   Lingüística y poética. Roman Jakobson, 1983.
   + Elementos del circuito.
@@ -59,10 +90,9 @@ Equipo 1:
   + Definición de acto de habla.
   + Acto de emisión, proposición e ilocución.
 
-** TODO Clase 10
+** TODO Clase 2
 <2021-03-24 mié> y <2021-03-26 vie>
 
-Equipo 1:
 - El principio de cooperación.
   Lógica y conversación. Paul Grice, 1975.
   + Definición del principio de cooperación.
@@ -71,10 +101,9 @@ Equipo 1:
   + Comunicación asertiva. Wázcar Verduzco y Marlón Hernández, 2017. 
 - El método Gronholm como filtro laboral.
   Aplicación del tema.
-** TODO Clase 11
+** TODO Clase 3
 <2021-04-05 lun>
 
-Equipo 2:
 - El lenguaje, la lengua y el habla.
   Hacia los conceptos de lengua, dialecto y hablas. Manuel Alvar, 1961.
   Fundamentos de lingüística. Raffaele Simone, 2001.
@@ -82,10 +111,9 @@ Equipo 2:
   Fundamentos de lingüística. Raffaele Simone, 2001.
 - El caso de Ginie Wiley.
   Aplicación del tema.
-** TODO Clase 12
+** TODO Clase 4
 <2021-04-07 mié> y <2021-04-09 vie>
 
-Equipo 2:
 - Competencia comunicativa y registros de lengua.
   El lenguaje (Capítulo 15, 19). George Yule, 2007
   + Concepto de competencia lingüística (gramatical).
@@ -97,10 +125,9 @@ Equipo 2:
   + El Catálogo de lenguas indígenas nacionales.
 - Cultura organizacional.
   + Aplicación de tema.
-** TODO Clase 13
+** TODO Clase 5
 <2021-04-12 lun>
 
-Equipo 3:
 - La escritura.
   Las consecuencias de la escritura alfabética en la teoría lingüística. Celia Zamudio, 2010.
   + Diferencias entre escritura y oralidad.
@@ -111,10 +138,9 @@ Equipo 3:
   + Ejemplos aplicables para un texto de ingeniería.
 - El papel del lector.
   La muerte del autor. Roland Barthes, 1987.
-** TODO Clase 14
+** TODO Clase 6
 <2021-04-14 mié> y <2021-04-16 vie>
 
-Equipo 3:
 - La gramática.
   Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
   + Fonología y fonema.
@@ -127,10 +153,9 @@ Equipo 3:
   + Palabra fonológica, morfológica, léxica y gráfica.
 - El problema de la escritura alfabética.
   Aplicación de tema.
-** TODO Clase 15
+** TODO Clase 7
 <2021-04-19 lun>
 
-Equipo 4:
 - Nombres y determinantes.
 - Verbos.
 - Adjetivos.
@@ -138,10 +163,9 @@ Equipo 4:
 Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
-** TODO Clase 16
+** TODO Clase 8
 <2021-04-21 mié> y <2021-04-23 vie>
 
-Equipo 4:
 - Adverbios.
 - Preposiciones.
 - Conjunciones.
@@ -149,10 +173,9 @@ Equipo 4:
 Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
-** TODO Clase 17
+** TODO Clase 9
 <2021-04-26 lun>
 
-Equipo 5:
 - Tipos de verbos.
   + Impersonales, intransitivos, transitivos y bitransitivos.
 - Las oraciones.
@@ -166,10 +189,9 @@ Equipo 5:
 Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
-** TODO Clase 18
+** TODO Clase 10
 <2021-04-28 mié> y <2021-04-30 vie>
 
-Equipo 5:
 - Sujeto.
   + Definición.
   + Pronombres.
@@ -183,10 +205,9 @@ Equipo 5:
 Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
-** TODO Clase 19
+** TODO Clase 11
 <2021-05-03 lun>
 
-Equipo 6:
 - Ambigüedad.
   Aplicación de tema.
 - Algoritmo CKY.
@@ -196,44 +217,85 @@ Equipo 6:
 
 Bibliografía común:
 + Speech and Language Processing.  Daniel Jurafsky & James H. Martin. Capítulo 13.  
-** TODO Clase 20
+** TODO Clase 12
 <2021-05-05 mié> y <2021-05-07 vie>
 
-Equipo 6:
 - El párrafo.
   + Definición.
   + Características.
 - Oraciones tópico.
 - Orden dentro de los párrafos.
-** TODO Clase 21
-<2021-05-10 lun>
 
-Asueto
-** TODO Clase 22
-<2021-05-12 mié> y <2021-05-14 vie>
+Bibliografía: Manual del curso.
+* Evaluación
+** Evidencias
 
-** TODO Clase 23
-<2021-05-17 lun>
-** TODO Clase 24
-<2021-05-19 mié> y <2021-05-21 vie>
+En el  curso el  alumno deberá  entregar hasta tres  evidencias que  serán consideradas  para su
+calificación:
 
-** TODO Clase 25
-<2021-05-24 lun>
-** TODO Clase 26
-<2021-05-26 mié> y <2021-05-28 vie>
+- Una exposición  oral en clase  con tema  previamente asignado.  En  este punto habrá  solo dos
+  calificaciones posibles:  cero o  diez. Será  motivo de  reprobación principalmente:  Falta de
+  dominio  del  tema, no  presentar  la  exposición y  sobrepasar  el  tiempo permitido  (quince
+  minutos).
+- Un video explicación sobre  el mismo tema. Tendrá quince minutos de  duración, si sobrepasa el
+  tiempo, se considerará como  un error cada minuto adicional. Se recomienda  el uso de software
+  libre en  su elaboración, por ejemplo:  Openshot, Avidemux, Shotcut o  Kdenlive. Será aceptado
+  para su calificación según la rúbrica R3 y será calificado según la rúbrica R4. Se califica en
+  un intervalo de cero a diez.
+- Un trabajo escrito sobre el mismo tema. Será aceptado para su calificación según la rúbrica R1
+  y será calificado según la rúbrica R4. Se califica en un intervalo de cero a diez.
 
-** TODO Clase 27
-<2021-05-31 lun>
-** TODO Clase 28
-<2021-06-02 mié> y <2021-06-04 vie>
+** Entregas
 
-** TODO Clase 29
-<2021-06-07 lun>
-** TODO Clase 30
-<2021-06-09 mié> y <2021-06-11 vie>
+Toda evidencia se  trabajará durante el tiempo que  dure el semestre. De esta  forma se pretende
+que el alumno mejore su trabajo y pregunte sus dudas según vaya avanzando el curso.
 
-** TODO Clase 31
-<2021-06-14 lun>
-** TODO Clase 32
-<2021-06-16 mié> y <2021-06-18 vie>
-Fin de semestre
+Por lo tanto, las evidencias tendrán una entrega final con los siguientes pasos:
+
+- Crear un archivo comprimido  tipo zip, gz, bz2 o 7z que tenga  el siguiente formato de nombre:
+  NombreApellidos-Grupo, por ejemplo:  /EdgarUrielDominguezEspinoza-Gpo10.tar.gz/.  Este archivo
+  contendrá el material que  el alumno realizó, incluidos los revisados  por el profesor durante
+  el semestre. El archivo  contendrá tres carpetas, una por cada  forma de participar: Exámenes,
+  actividades optativas, exposiciones.
+
+- Los formatos permitidos  para entrega de tareas son preferentemente  formatos libres como PDF,
+  txt, mp3, ogg, odt, ods. También se recibirán archivos doc, docx, avi, etc.
+
+- Los archivos y carpetas deben estar nombrados en [[https://es.wikipedia.org/wiki/Camel_case][formato Camel case]], sin acentos ni espacios.
+
+- El archivo debe ser entregado en la carpeta que corresponda:
+
+  -
+  -
+      
+Las fechas de entrega están en la sección [[Calendario]].
+
+** Participaciones
+
+
+* Otros elementos útiles para tu calificación
+
+** Latex
+
+Latex es un lenguaje  de marcado útil para escribir textos. Puedes aprender  Latex por tu cuenta
+viendo videos en internet o leyendo manuales. Si  no quieres instalar Latex en tu computadora te
+recomiendo usar [[https://www.overleaf.com][Overleaf]] que es un buen editor en línea.
+
+Algunos recursos recomendados son:
+
+- [[https://en.wikibooks.org/wiki/LaTeX][Guía de Wikibooks sobre Latex]] (en inglés)
+- Libro: [[file:assets/Edicion_de_textos_cientificos_LaTeX.pdf][Edición de textos científicos con Latex]]
+
+** Lecturas                                                        :REVISAR:
+
+- [[http://www.ingenieria.unam.mx/dcsyhfi/temarios/redaccion_y_exposicion_de_temas_de_ingenieria2016.pdf][Temario oficial de la asignatura]]
+- [[http://www.aapaunam.mx/assets/julio_septiembre_2017_.pdf][Comunicación asertiva]] de Wázcar Verduzco Fragoso y Marlon Enediel Hernández Grijalba.
+- [[https://teorialiteraria2009.files.wordpress.com/2009/06/barthes-la-muerte-del-autor.pdf][La muerte del autor]] de Roland Barthes.
+- [[file:assets/Lecto-escritura.pdf][Manual de Lectoescritura]] de Margarita Alegría de la Colina.
+
+* Seguridad
+
+- La Comisión Local de Seguridad de la FI solicita la lectura de [[file:assets/acciones_cls_fi.pdf][las acciones de la CLS]].
+- [[https://igualdaddegenero.unam.mx/wp-content/uploads/2019/09/nuevo-protocolo-amigable.pdf][Protocolo sobre la violencia (de género) en la UNAM]].
+- [[file:assets/ProtocoloFederal.pdf][Protocolo para la prevención, atención y sanción del hostigamiento sexual y acoso sexual]].
+- [[http://www.ingenieria.unam.mx/pdf/aviso_privacidad_integral.pdf][Aviso de Privacidad integral FI]].
