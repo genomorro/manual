@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<!-- 2021-02-17 mié 21:59 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Evaluación Redacción y exposición de temas de ingeniería</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Edgar Uriel Domínguez Espinoza">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="styles/orgcss/org.css"/>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Evaluación Redacción y exposición de temas de ingeniería</h1>
+<div id="table-of-contents">
+<h2>&Iacute;ndice</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org69329ab">1. Calendario</a>
+<ul>
+<li><a href="#orgc9d8ebf">1.1. <span class="todo TODO">TODO</span> Clase 1</a></li>
+<li><a href="#org443559d">1.2. <span class="todo TODO">TODO</span> Clase 2</a></li>
+<li><a href="#org96e5a6b">1.3. <span class="todo TODO">TODO</span> Clase 3</a></li>
+<li><a href="#orgbfc9e21">1.4. <span class="todo TODO">TODO</span> Clase 4</a></li>
+<li><a href="#org7de8a3a">1.5. <span class="todo TODO">TODO</span> Clase 5</a></li>
+<li><a href="#org6490498">1.6. <span class="todo TODO">TODO</span> Clase 6</a></li>
+<li><a href="#org17cf4d8">1.7. <span class="todo TODO">TODO</span> Clase 7</a></li>
+<li><a href="#org7339af6">1.8. <span class="todo TODO">TODO</span> Clase 8</a></li>
+<li><a href="#org55441d0">1.9. <span class="todo TODO">TODO</span> Clase 9</a></li>
+<li><a href="#orgc7d6325">1.10. <span class="todo TODO">TODO</span> Clase 10</a></li>
+<li><a href="#org3e24ce2">1.11. <span class="todo TODO">TODO</span> Clase 11</a></li>
+<li><a href="#org5fa305c">1.12. <span class="todo TODO">TODO</span> Clase 12</a></li>
+<li><a href="#org611faa3">1.13. <span class="todo TODO">TODO</span> Clase 13</a></li>
+<li><a href="#orgaffc6c9">1.14. <span class="todo TODO">TODO</span> Clase 14</a></li>
+<li><a href="#orga8c3a11">1.15. <span class="todo TODO">TODO</span> Clase 15</a></li>
+<li><a href="#org1d3483f">1.16. <span class="todo TODO">TODO</span> Clase 16</a></li>
+<li><a href="#org28120e6">1.17. <span class="todo TODO">TODO</span> Clase 17</a></li>
+<li><a href="#org10f88ef">1.18. <span class="todo TODO">TODO</span> Clase 18</a></li>
+<li><a href="#orgdc0edc2">1.19. <span class="todo TODO">TODO</span> Clase 19</a></li>
+<li><a href="#orgfb36256">1.20. <span class="todo TODO">TODO</span> Clase 20</a></li>
+<li><a href="#org5547016">1.21. <span class="todo TODO">TODO</span> Clase 21</a></li>
+<li><a href="#org46780b7">1.22. <span class="todo TODO">TODO</span> Clase 22</a></li>
+<li><a href="#org82fee1f">1.23. <span class="todo TODO">TODO</span> Clase 23</a></li>
+<li><a href="#org6ec6d51">1.24. <span class="todo TODO">TODO</span> Clase 24</a></li>
+<li><a href="#org8ef980e">1.25. <span class="todo TODO">TODO</span> Clase 25</a></li>
+<li><a href="#org20ae0d4">1.26. <span class="todo TODO">TODO</span> Clase 26</a></li>
+<li><a href="#org9e30f84">1.27. <span class="todo TODO">TODO</span> Clase 27</a></li>
+<li><a href="#orgd9f05f6">1.28. <span class="todo TODO">TODO</span> Clase 28</a></li>
+<li><a href="#org950f82c">1.29. <span class="todo TODO">TODO</span> Clase 29</a></li>
+<li><a href="#org12a8f8e">1.30. <span class="todo TODO">TODO</span> Clase 30</a></li>
+<li><a href="#orgf58ad08">1.31. <span class="todo TODO">TODO</span> Clase 31</a></li>
+<li><a href="#org2550ac6">1.32. <span class="todo TODO">TODO</span> Clase 32</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="abstract" id="org1023e65">
+
+</div>
+
+<div id="outline-container-org69329ab" class="outline-2">
+<h2 id="org69329ab"><span class="section-number-2">1</span> Calendario</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgc9d8ebf" class="outline-3">
+<h3 id="orgc9d8ebf"><span class="section-number-3">1.1</span> <span class="todo TODO">TODO</span> Clase 1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-02-22 lun&gt;</span></span>
+</p>
+
+<p>
+Presentación.
+</p>
+</div>
+</div>
+<div id="outline-container-org443559d" class="outline-3">
+<h3 id="org443559d"><span class="section-number-3">1.2</span> <span class="todo TODO">TODO</span> Clase 2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-02-24 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-02-26 vie&gt;</span></span>
+</p>
+
+<p>
+Explicación de evaluación.
+</p>
+</div>
+</div>
+<div id="outline-container-org96e5a6b" class="outline-3">
+<h3 id="org96e5a6b"><span class="section-number-3">1.3</span> <span class="todo TODO">TODO</span> Clase 3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-01 lun&gt;</span></span>
+</p>
+
+<p>
+Profesor: El reporte académico.
+</p>
+</div>
+</div>
+<div id="outline-container-orgbfc9e21" class="outline-3">
+<h3 id="orgbfc9e21"><span class="section-number-3">1.4</span> <span class="todo TODO">TODO</span> Clase 4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-03 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-05 vie&gt;</span></span>
+</p>
+
+<p>
+Profesor: El método CARS.
+</p>
+</div>
+</div>
+<div id="outline-container-org7de8a3a" class="outline-3">
+<h3 id="org7de8a3a"><span class="section-number-3">1.5</span> <span class="todo TODO">TODO</span> Clase 5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-08 lun&gt;</span></span>
+</p>
+
+<p>
+Profesor: Referencias en un reporte académico.
+</p>
+</div>
+</div>
+<div id="outline-container-org6490498" class="outline-3">
+<h3 id="org6490498"><span class="section-number-3">1.6</span> <span class="todo TODO">TODO</span> Clase 6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-10 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-12 vie&gt;</span></span>
+</p>
+
+<p>
+Profesor: Notas sobre la exposición oral.
+</p>
+</div>
+</div>
+<div id="outline-container-org17cf4d8" class="outline-3">
+<h3 id="org17cf4d8"><span class="section-number-3">1.7</span> <span class="todo TODO">TODO</span> Clase 7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-15 lun&gt;</span></span>
+</p>
+
+<p>
+Asueto.
+</p>
+</div>
+</div>
+<div id="outline-container-org7339af6" class="outline-3">
+<h3 id="org7339af6"><span class="section-number-3">1.8</span> <span class="todo TODO">TODO</span> Clase 8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-17 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-19 vie&gt;</span></span>
+</p>
+
+<p>
+Profesor: Argumentación y justificación.
+</p>
+</div>
+</div>
+<div id="outline-container-org55441d0" class="outline-3">
+<h3 id="org55441d0"><span class="section-number-3">1.9</span> <span class="todo TODO">TODO</span> Clase 9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-22 lun&gt;</span></span>
+</p>
+
+<p>
+Equipo 1:
+</p>
+<ul class="org-ul">
+<li>El circuito de la comunicación.
+Lingǘística y poética. Roman Jakobson, 1983.
+<ul class="org-ul">
+<li>Elementos del circuito.</li>
+<li>Funciones de los elementos del circuito.</li>
+</ul></li>
+<li>La teoría de los infortunios.
+Como hacer cosas con las palabras (Conferencias I, II, III). John Austin.
+<ul class="org-ul">
+<li>El abuso y el desacierto.</li>
+<li>Condiciones de felicidad.</li>
+</ul></li>
+<li>La teoría de los actos de habla.
+Teoría de los actos de habla (Capítulo I y II). John Searle.
+<ul class="org-ul">
+<li>Definición de acto de habla.</li>
+<li>Acto de emisión, proposición e ilocución.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc7d6325" class="outline-3">
+<h3 id="orgc7d6325"><span class="section-number-3">1.10</span> <span class="todo TODO">TODO</span> Clase 10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-24 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-26 vie&gt;</span></span>
+</p>
+
+<p>
+Equipo 1:
+</p>
+<ul class="org-ul">
+<li>El principio de cooperación.
+Lógica y conversación. Paul Grice, 1975.
+<ul class="org-ul">
+<li>Definición del principio de cooperación.</li>
+<li>Máximas del principio de cooperación.</li>
+</ul></li>
+<li>La comunicación asertiva.
+<ul class="org-ul">
+<li>Comunicación asertiva. Wázcar Verduzco y Marlón Hernández, 2017.</li>
+</ul></li>
+<li>El método Gronholm como filtro laboral.
+Aplicación del tema.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3e24ce2" class="outline-3">
+<h3 id="org3e24ce2"><span class="section-number-3">1.11</span> <span class="todo TODO">TODO</span> Clase 11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-05 lun&gt;</span></span>
+</p>
+
+<p>
+Equipo 2:
+</p>
+<ul class="org-ul">
+<li>El lenguaje, la lengua y el habla.
+Hacia los conceptos de lengua, dialecto y hablas. Manuel Alvar, 1961.
+Fundamentos de lingüística. Raffaele Simone, 2001.</li>
+<li>Características del lenguaje.
+Fundamentos de lingüística. Raffaele Simone, 2001.</li>
+<li>El caso de Ginie Wiley.
+Aplicación del tema.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5fa305c" class="outline-3">
+<h3 id="org5fa305c"><span class="section-number-3">1.12</span> <span class="todo TODO">TODO</span> Clase 12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-07 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-09 vie&gt;</span></span>
+</p>
+
+<p>
+Equipo 2:
+</p>
+<ul class="org-ul">
+<li>Competencia comunicativa y registros de lengua.
+El lenguaje (Capítulo 15, 19). George Yule, 2007
+<ul class="org-ul">
+<li>Concepto de competencia lingüística (gramatical).</li>
+<li>Concepto de competencia comunicativa.</li>
+<li>Concepto de registro de lengua.</li>
+</ul></li>
+<li>Las lenguas de México.
+<ul class="org-ul">
+<li>Clasificación de las lenguas de México.</li>
+<li>Legislación mexicana.</li>
+<li>El Catálogo de lenguas indígenas nacionales.</li>
+</ul></li>
+<li>Cultura organizacional.
+<ul class="org-ul">
+<li>Aplicación de tema.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org611faa3" class="outline-3">
+<h3 id="org611faa3"><span class="section-number-3">1.13</span> <span class="todo TODO">TODO</span> Clase 13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-12 lun&gt;</span></span>
+</p>
+
+<p>
+Equipo 3:
+</p>
+<ul class="org-ul">
+<li>La escritura.
+Las consecuencias de la escritura alfabética en la teoría lingüística. Celia Zamudio, 2010.
+<ul class="org-ul">
+<li>Diferencias entre escritura y oralidad.</li>
+<li>Definición de la escritura.</li>
+</ul></li>
+<li>La ortografía.
+Ortografía de la lengua española.
+<ul class="org-ul">
+<li>Definición de ortografía.</li>
+<li>Ejemplos aplicables para un texto de ingeniería.</li>
+</ul></li>
+<li>El papel del lector.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgaffc6c9" class="outline-3">
+<h3 id="orgaffc6c9"><span class="section-number-3">1.14</span> <span class="todo TODO">TODO</span> Clase 14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-14 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-16 vie&gt;</span></span>
+</p>
+
+<p>
+Equipo 3:
+</p>
+<ul class="org-ul">
+<li>La gramática.</li>
+<li>Definición de palabra.</li>
+<li>El problema de la escritura alfabética.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga8c3a11" class="outline-3">
+<h3 id="orga8c3a11"><span class="section-number-3">1.15</span> <span class="todo TODO">TODO</span> Clase 15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-19 lun&gt;</span></span>
+</p>
+
+<p>
+Equipo 4:
+</p>
+<ul class="org-ul">
+<li>Nombres y determinantes.</li>
+<li>Verbos.</li>
+<li>Adjetivos.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org1d3483f" class="outline-3">
+<h3 id="org1d3483f"><span class="section-number-3">1.16</span> <span class="todo TODO">TODO</span> Clase 16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-21 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-23 vie&gt;</span></span>
+</p>
+
+<p>
+Equipo 4:
+</p>
+<ul class="org-ul">
+<li>Adverbios.</li>
+<li>Preposiciones.</li>
+<li>Conjunciones.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org28120e6" class="outline-3">
+<h3 id="org28120e6"><span class="section-number-3">1.17</span> <span class="todo TODO">TODO</span> Clase 17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-26 lun&gt;</span></span>
+</p>
+
+<p>
+Equipo 5:
+</p>
+<ul class="org-ul">
+<li>Complementantes.</li>
+<li>Tipos de verbos.</li>
+<li>Las oraciones.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org10f88ef" class="outline-3">
+<h3 id="org10f88ef"><span class="section-number-3">1.18</span> <span class="todo TODO">TODO</span> Clase 18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-28 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-30 vie&gt;</span></span>
+</p>
+
+<p>
+Equipo 5:
+</p>
+<ul class="org-ul">
+<li>Sujeto.</li>
+<li>Objeto.</li>
+<li>Oblicuos.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdc0edc2" class="outline-3">
+<h3 id="orgdc0edc2"><span class="section-number-3">1.19</span> <span class="todo TODO">TODO</span> Clase 19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-03 lun&gt;</span></span>
+</p>
+
+<p>
+Equipo 6:
+</p>
+<ul class="org-ul">
+<li>Ambigüedad.</li>
+<li>Algoritmo CKY.</li>
+<li>Parcial Parsing.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgfb36256" class="outline-3">
+<h3 id="orgfb36256"><span class="section-number-3">1.20</span> <span class="todo TODO">TODO</span> Clase 20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-05 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-07 vie&gt;</span></span>
+</p>
+
+<p>
+Equipo 6:
+</p>
+<ul class="org-ul">
+<li>El párrafo.</li>
+<li>Oraciones tópico.</li>
+<li>Orden dentro de los párafos.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5547016" class="outline-3">
+<h3 id="org5547016"><span class="section-number-3">1.21</span> <span class="todo TODO">TODO</span> Clase 21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-10 lun&gt;</span></span>
+</p>
+
+<p>
+Asueto
+</p>
+</div>
+</div>
+<div id="outline-container-org46780b7" class="outline-3">
+<h3 id="org46780b7"><span class="section-number-3">1.22</span> <span class="todo TODO">TODO</span> Clase 22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-12 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-14 vie&gt;</span></span>
+</p>
+
+<p>
+Equipo 7:
+Ejemplos.
+</p>
+</div>
+</div>
+<div id="outline-container-org82fee1f" class="outline-3">
+<h3 id="org82fee1f"><span class="section-number-3">1.23</span> <span class="todo TODO">TODO</span> Clase 23</h3>
+<div class="outline-text-3" id="text-1-23">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-17 lun&gt;</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org6ec6d51" class="outline-3">
+<h3 id="org6ec6d51"><span class="section-number-3">1.24</span> <span class="todo TODO">TODO</span> Clase 24</h3>
+<div class="outline-text-3" id="text-1-24">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-19 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-21 vie&gt;</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ef980e" class="outline-3">
+<h3 id="org8ef980e"><span class="section-number-3">1.25</span> <span class="todo TODO">TODO</span> Clase 25</h3>
+<div class="outline-text-3" id="text-1-25">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-24 lun&gt;</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org20ae0d4" class="outline-3">
+<h3 id="org20ae0d4"><span class="section-number-3">1.26</span> <span class="todo TODO">TODO</span> Clase 26</h3>
+<div class="outline-text-3" id="text-1-26">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-26 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-28 vie&gt;</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e30f84" class="outline-3">
+<h3 id="org9e30f84"><span class="section-number-3">1.27</span> <span class="todo TODO">TODO</span> Clase 27</h3>
+<div class="outline-text-3" id="text-1-27">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-05-31 lun&gt;</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-orgd9f05f6" class="outline-3">
+<h3 id="orgd9f05f6"><span class="section-number-3">1.28</span> <span class="todo TODO">TODO</span> Clase 28</h3>
+<div class="outline-text-3" id="text-1-28">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-06-02 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-06-04 vie&gt;</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org950f82c" class="outline-3">
+<h3 id="org950f82c"><span class="section-number-3">1.29</span> <span class="todo TODO">TODO</span> Clase 29</h3>
+<div class="outline-text-3" id="text-1-29">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-06-07 lun&gt;</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org12a8f8e" class="outline-3">
+<h3 id="org12a8f8e"><span class="section-number-3">1.30</span> <span class="todo TODO">TODO</span> Clase 30</h3>
+<div class="outline-text-3" id="text-1-30">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-06-09 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-06-11 vie&gt;</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf58ad08" class="outline-3">
+<h3 id="orgf58ad08"><span class="section-number-3">1.31</span> <span class="todo TODO">TODO</span> Clase 31</h3>
+<div class="outline-text-3" id="text-1-31">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-06-14 lun&gt;</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org2550ac6" class="outline-3">
+<h3 id="org2550ac6"><span class="section-number-3">1.32</span> <span class="todo TODO">TODO</span> Clase 32</h3>
+<div class="outline-text-3" id="text-1-32">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-06-16 mié&gt; </span></span> y <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-06-18 vie&gt;</span></span>
+Fin de semestre
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Fecha: 2020</p>
+<p class="author">Autor: Edgar Uriel Domínguez Espinoza</p>
+<p class="date">Created: 2021-02-17 mié 21:59</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
