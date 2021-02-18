@@ -10,3 +10,230 @@
 #+END_abstract
 
 * Calendario
+** TODO Clase 1
+<2021-02-22 lun>
+
+Presentación.
+** TODO Clase 2
+<2021-02-24 mié> y <2021-02-26 vie>
+
+Explicación de evaluación.
+** TODO Clase 3
+<2021-03-01 lun>
+
+Profesor: El reporte académico.
+** TODO Clase 4
+<2021-03-03 mié> y <2021-03-05 vie>
+
+Profesor: El método CARS.
+** TODO Clase 5
+<2021-03-08 lun>
+
+Profesor: Referencias en un reporte académico.
+** TODO Clase 6
+<2021-03-10 mié> y <2021-03-12 vie>
+
+Profesor: Notas sobre la exposición oral.
+** TODO Clase 7
+<2021-03-15 lun>
+
+Asueto.
+** TODO Clase 8
+<2021-03-17 mié> y <2021-03-19 vie>
+
+Profesor: Argumentación y justificación.
+** TODO Clase 9
+<2021-03-22 lun>
+
+Equipo 1:
+- El circuito de la comunicación.
+  Lingüística y poética. Roman Jakobson, 1983.
+  + Elementos del circuito.
+  + Funciones de los elementos del circuito.
+- La teoría de los infortunios.
+  Como hacer cosas con las palabras (Conferencias I, II, III). John Austin.
+  + El abuso y el desacierto.
+  + Condiciones de felicidad.
+- La teoría de los actos de habla.
+  Teoría de los actos de habla (Capítulo I y II). John Searle.
+  + Definición de acto de habla.
+  + Acto de emisión, proposición e ilocución.
+
+** TODO Clase 10
+<2021-03-24 mié> y <2021-03-26 vie>
+
+Equipo 1:
+- El principio de cooperación.
+  Lógica y conversación. Paul Grice, 1975.
+  + Definición del principio de cooperación.
+  + Máximas del principio de cooperación.
+- La comunicación asertiva.
+  + Comunicación asertiva. Wázcar Verduzco y Marlón Hernández, 2017. 
+- El método Gronholm como filtro laboral.
+  Aplicación del tema.
+** TODO Clase 11
+<2021-04-05 lun>
+
+Equipo 2:
+- El lenguaje, la lengua y el habla.
+  Hacia los conceptos de lengua, dialecto y hablas. Manuel Alvar, 1961.
+  Fundamentos de lingüística. Raffaele Simone, 2001.
+- Características del lenguaje.
+  Fundamentos de lingüística. Raffaele Simone, 2001.
+- El caso de Ginie Wiley.
+  Aplicación del tema.
+** TODO Clase 12
+<2021-04-07 mié> y <2021-04-09 vie>
+
+Equipo 2:
+- Competencia comunicativa y registros de lengua.
+  El lenguaje (Capítulo 15, 19). George Yule, 2007
+  + Concepto de competencia lingüística (gramatical).
+  + Concepto de competencia comunicativa.
+  + Concepto de registro de lengua.
+- Las lenguas de México.
+  + Clasificación de las lenguas de México.
+  + Legislación mexicana.
+  + El Catálogo de lenguas indígenas nacionales.
+- Cultura organizacional.
+  + Aplicación de tema.
+** TODO Clase 13
+<2021-04-12 lun>
+
+Equipo 3:
+- La escritura.
+  Las consecuencias de la escritura alfabética en la teoría lingüística. Celia Zamudio, 2010.
+  + Diferencias entre escritura y oralidad.
+  + Definición de la escritura.
+- La ortografía.
+  Ortografía de la lengua española. Asociación de Academias de la Lengua Española, 2010.
+  + Definición de ortografía.
+  + Ejemplos aplicables para un texto de ingeniería.
+- El papel del lector.
+  La muerte del autor. Roland Barthes, 1987.
+** TODO Clase 14
+<2021-04-14 mié> y <2021-04-16 vie>
+
+Equipo 3:
+- La gramática.
+  Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
+  + Fonología y fonema.
+  + Morfología y morfema.
+  + Sintaxis y lexema.
+  + Semántica y el significado.
+  + Otros niveles.
+- Definición de palabra.
+  Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
+  + Palabra fonológica, morfológica, léxica y gráfica.
+- El problema de la escritura alfabética.
+  Aplicación de tema.
+** TODO Clase 15
+<2021-04-19 lun>
+
+Equipo 4:
+- Nombres y determinantes.
+- Verbos.
+- Adjetivos.
+
+Bibliografía común:
++ Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
++ Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
+** TODO Clase 16
+<2021-04-21 mié> y <2021-04-23 vie>
+
+Equipo 4:
+- Adverbios.
+- Preposiciones.
+- Conjunciones.
+
+Bibliografía común:
++ Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
++ Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
+** TODO Clase 17
+<2021-04-26 lun>
+
+Equipo 5:
+- Tipos de verbos.
+  + Impersonales, intransitivos, transitivos y bitransitivos.
+- Las oraciones.
+  + Orden básico del español.
+  + Oración activa y pasiva.
+- Complementantes.
+  ESTAR + FC en el castellano peruano. Víctor Martel, 2019.
+  + Oraciones subordinadas.
+  + Oraciones interrogativas WH o QU.
+
+Bibliografía común:
++ Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
++ Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
+** TODO Clase 18
+<2021-04-28 mié> y <2021-04-30 vie>
+
+Equipo 5:
+- Sujeto.
+  + Definición.
+  + Pronombres.
+- Objeto.
+  + Definición.
+  + Pronombres o clíticos.
+- Oblicuos.
+  + Complementos circunstanciales.
+  + Objeto indirecto.
+
+Bibliografía común:
++ Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
++ Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
+** TODO Clase 19
+<2021-05-03 lun>
+
+Equipo 6:
+- Ambigüedad.
+  Aplicación de tema.
+- Algoritmo CKY.
+  Aplicación de tema.
+- Parcial Parsing.
+  Aplicación de tema.
+
+Bibliografía común:
++ Speech and Language Processing.  Daniel Jurafsky & James H. Martin. Capítulo 13.  
+** TODO Clase 20
+<2021-05-05 mié> y <2021-05-07 vie>
+
+Equipo 6:
+- El párrafo.
+  + Definición.
+  + Características.
+- Oraciones tópico.
+- Orden dentro de los párrafos.
+** TODO Clase 21
+<2021-05-10 lun>
+
+Asueto
+** TODO Clase 22
+<2021-05-12 mié> y <2021-05-14 vie>
+
+** TODO Clase 23
+<2021-05-17 lun>
+** TODO Clase 24
+<2021-05-19 mié> y <2021-05-21 vie>
+
+** TODO Clase 25
+<2021-05-24 lun>
+** TODO Clase 26
+<2021-05-26 mié> y <2021-05-28 vie>
+
+** TODO Clase 27
+<2021-05-31 lun>
+** TODO Clase 28
+<2021-06-02 mié> y <2021-06-04 vie>
+
+** TODO Clase 29
+<2021-06-07 lun>
+** TODO Clase 30
+<2021-06-09 mié> y <2021-06-11 vie>
+
+** TODO Clase 31
+<2021-06-14 lun>
+** TODO Clase 32
+<2021-06-16 mié> y <2021-06-18 vie>
+Fin de semestre
