@@ -68,20 +68,20 @@ por parte del profesor, así com a resolver dudas sobre exposiciones próximas y
 Si no atiendes a la exposición que te fue  asignada, el tema será abordado por el profesor en la
 segunda parte de la clase.
 
-A continuación se presentan los temas a exponer y las fechas tentativas[fn:1].
+A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1].
 
 ** TODO Clase 1
 <2021-03-22 lun>
 
-1. El circuito de la comunicación.
+1. El circuito de la comunicación.\\
    Lingüística y poética. Roman Jakobson, 1983.
    - Elementos del circuito.
    - Funciones de los elementos del circuito.
-2. La teoría de los infortunios.
+2. La teoría de los infortunios.\\
    Como hacer cosas con las palabras (Conferencias I, II, III). John Austin.
    - El abuso y el desacierto.
    - Condiciones de felicidad.
-3. La teoría de los actos de habla.
+3. La teoría de los actos de habla.\\
    Teoría de los actos de habla (Capítulo I y II). John Searle.
    - Definición de acto de habla.
    - Acto de emisión, proposición e ilocución.
@@ -89,23 +89,23 @@ A continuación se presentan los temas a exponer y las fechas tentativas[fn:1].
 ** TODO Clase 2
 <2021-03-24 mié> y <2021-03-26 vie>
 
-1. El principio de cooperación.
+1. El principio de cooperación.\\
    Lógica y conversación. Paul Grice, 1975.
    - Definición del principio de cooperación.
    - Máximas del principio de cooperación.
-2. La comunicación asertiva.
+2. La comunicación asertiva.\\
    - Comunicación asertiva. Wázcar Verduzco y Marlón Hernández, 2017. 
-3. El método Gronholm como filtro laboral.
+3. El método Gronholm como filtro laboral.\\
    - Aplicación del tema.
 ** TODO Clase 3
 <2021-04-05 lun>
 
-1. El lenguaje, la lengua y el habla.
-   Hacia los conceptos de lengua, dialecto y hablas. Manuel Alvar, 1961.
+1. El lenguaje, la lengua y el habla.\\
+   Hacia los conceptos de lengua, dialecto y hablas. Manuel Alvar, 1961.\\
    Fundamentos de lingüística. Raffaele Simone, 2001.
    - Definición.
    - Relación de conceptos.
-2. Características del lenguaje.
+2. Características del lenguaje.\\
    Fundamentos de lingüística. Raffaele Simone, 2001.
    - Ver manual del curso.
 3. El caso de Ginie Wiley.
@@ -113,7 +113,7 @@ A continuación se presentan los temas a exponer y las fechas tentativas[fn:1].
 ** TODO Clase 4
 <2021-04-07 mié> y <2021-04-09 vie>
 
-1. Competencia comunicativa y registros de lengua.
+1. Competencia comunicativa y registros de lengua.\\
    El lenguaje (Capítulo 15, 19). George Yule, 2007
    - Concepto de competencia lingüística (gramatical).
    - Concepto de competencia comunicativa.
@@ -127,27 +127,27 @@ A continuación se presentan los temas a exponer y las fechas tentativas[fn:1].
 ** TODO Clase 5
 <2021-04-12 lun>
 
-1. La escritura.
+1. La escritura.\\
    Las consecuencias de la escritura alfabética en la teoría lingüística. Celia Zamudio, 2010.
    - Diferencias entre escritura y oralidad.
    - Definición de la escritura.
-2. La ortografía.
+2. La ortografía.\\
    Ortografía de la lengua española. Asociación de Academias de la Lengua Española, 2010.
    - Definición de ortografía.
    - Ejemplos aplicables para un texto de ingeniería.
-3. El papel del lector.
+3. El papel del lector.\\
    La muerte del autor. Roland Barthes, 1987.
 ** TODO Clase 6
 <2021-04-14 mié> y <2021-04-16 vie>
 
-1. La gramática.
+1. La gramática.\\
    Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
    - Fonología y fonema.
    - Morfología y morfema.
    - Sintaxis y lexema.
    - Semántica y el significado.
    - Otros niveles.
-2. Definición de palabra.
+2. Definición de palabra.\\
    Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
    - Palabra fonológica, morfológica, léxica y gráfica.
 3. El problema de la escritura alfabética.
@@ -176,11 +176,11 @@ Bibliografía común:
 <2021-04-26 lun>
 
 1. Tipos de verbos.
-   * Impersonales, intransitivos, transitivos y bitransitivos.
+   - Impersonales, intransitivos, transitivos y bitransitivos.
 2. Las oraciones.
    - Orden básico del español.
    - Oración activa y pasiva.
-3. Complementantes.
+3. Complementantes.\\
    ESTAR + FC en el castellano peruano. Víctor Martel, 2019.
    - Oraciones subordinadas.
    - Oraciones interrogativas WH o QU.
@@ -208,11 +208,11 @@ Bibliografía común:
 <2021-05-03 lun>
 
 1. Ambigüedad.
-   Aplicación de tema.
+   - Aplicación de tema.
 2. Algoritmo CKY.
-   Aplicación de tema.
+   - Aplicación de tema.
 3. Parcial Parsing.
-   Aplicación de tema.
+   - Aplicación de tema.
 
 Bibliografía común:
 + Speech and Language Processing.  Daniel Jurafsky & James H. Martin. Capítulo 13.  
