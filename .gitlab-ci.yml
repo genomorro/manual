@@ -3,8 +3,8 @@ pages:
    script:
    - mkdir .public
    - cp -r assets im styles .public
-   - cp main.html .public/manual.html
-   # - cp evaluacion-2021-2.html .public/index.html
+   #- cp main.html .public/manual.html
+   - cp evaluacion-2021-2.html .public/index.html
    # - cp extraordinario-2021-1.html .public/extra.html
    - cp main.html .public/index.html
    - cp papers*.html .public
