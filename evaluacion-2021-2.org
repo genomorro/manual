@@ -394,7 +394,7 @@ Tienes derecho  a dos exámenes  finales.
      expliques el tema con claridad.  El video deberá aprobar la rúbrica R3 y será calificado con
      la rúbrica R4, las cuales deben estar impresas junto con el trabajo.
 
-El segundo examen se  entregará como indica la sección [[Entregas]] tomando el  cuenta que el combre
+El segundo examen se  entregará como indica la sección [[Entregas]] tomando el  cuenta que el nombre
 de    archivo   debe    indicar    que   se    trata   del    examen    final,   por    ejemplo:
 /EdgarUrielDominguezEspinoza-Gpo10-SegundoFinal.tar.gz/
 
