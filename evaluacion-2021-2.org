@@ -129,7 +129,7 @@ A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1
 
 1. La escritura.\\
    Las consecuencias de la escritura alfabética en la teoría lingüística. Celia Zamudio, 2010.
-   - Diferencias entre escritura y oralidad.
+   - Diferencia entre escritura y oralidad.
    - Definición de la escritura.
 2. La ortografía.\\
    Ortografía de la lengua española. Asociación de Academias de la Lengua Española, 2010.
@@ -229,6 +229,20 @@ Bibliografía común:
    - Clasificación.
 
 Bibliografía: Manual del curso.
+** TODO Clase 13
+<2021-05-12 mié> y <2021-05-14 vie>
+
+1. El ensayo.
+2. La reseña.
+3. El resumen.
+4. El comentario.
+
+Bibliografía común:
++ Manual de lecto-escritura. Margarita Alegría de la Colina, 2003.
+# ** TODO Clase 14
+# <2021-05-12 lun>
+# 1. El conflicto constructivo.
+# 2. Figuras de propiedad intelectual.
 * Evaluación
 ** Evidencias
 
