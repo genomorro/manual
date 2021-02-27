@@ -276,7 +276,7 @@ Por lo tanto, las evidencias tendrán una entrega final con los siguientes pasos
 - Los archivos y carpetas deben estar nombrados en [[https://es.wikipedia.org/wiki/Camel_case][formato Camel case]], sin acentos ni espacios.
 - El archivo debe ser entregado en la carpeta que corresponda:
 
-  + [[https://nc.genomorro.name/index.php/s/zaspjd7nj9fbHQF][Grupo 9]]
+  + [[https://nc.genomorro.name/index.php/s/zaspjd7nj9fbHQF][Grupo 09]]
   + [[https://nc.genomorro.name/index.php/s/DGne2JHq9xaZtPn][Grupo 23]]
       
 Las fechas de entrega están en la sección [[Calendario]].
