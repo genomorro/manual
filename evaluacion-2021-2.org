@@ -43,7 +43,7 @@ el único  que tiene la  obligación de revisar  cuales son dichos  elementos y 
 profesor los explique durante la clase.
 
 La guía está disponible en formato [[file:assets/manual.pdf][PDF]] y [[file:manual.html][HTML]], te ayudará para tu evaluación. También puedes ver
-el temario oficial de la asignatura en la sección de [[Lecturas]].
+el temario oficial de la asignatura en la sección de [[Lecturas][Lecturas]].
 
 Las fuentes  de este sitio  pueden encontrarse en [[https://gitlab.com/genomorro/manual][gitlab]],  eres libre de  copiarlo, consultarlo,
 modificarlo, corregirlo.
@@ -393,9 +393,9 @@ Tienes derecho  a dos exámenes  finales.
    acordeón en una hoja blanca.  Un acordeón de calidad puede llevarte varios intentos, por esta
    razón  puedes solicitar  la revisión  de tu  acordeón durante  el semestre.   Este examen  es
    individual y  el único  documento permitido es  el acordeón elaborado  en solamente  una hoja
-   blanca.  **Requisito**: Deberás llevar el acordeón en  original y copia. **Se pedirá la copia
+   blanca.  **Requisito**: Deberás llevar  el acordeón en original y copia.   Se pedirá la copia
    digital antes de tener  acceso a las preguntas, para colocar  una calificación aprobatoria se
-   revisará dicha copia**.
+   revisará dicha copia.
 
 2. El segundo examen final tiene dos etapas:
    - Trabajo  escrito. Escogerás  un tema  relacionado con las  materias que  haz aprobado  o que
@@ -408,11 +408,11 @@ Tienes derecho  a dos exámenes  finales.
      expliques el tema con claridad.  El video deberá aprobar la rúbrica R3 y será calificado con
      la rúbrica R4, las cuales deben estar impresas junto con el trabajo.
 
-El segundo examen se  entregará como indica la sección [[Entregas]] tomando el  cuenta que el nombre
+El segundo examen se  entregará como indica la sección [[Entregas][Entregas]] tomando el  cuenta que el nombre
 de    archivo   debe    indicar    que   se    trata   del    examen    final,   por    ejemplo:
 /EdgarUrielDominguezEspinoza-Gpo10-SegundoFinal.tar.gz/
 
-Las fechas de estos exámenes estarán disponibles en la sección [[Calendario]] de este sitio.
+Las fechas de estos exámenes estarán disponibles en la sección [[Calendario][Calendario]] de este sitio.
 
 ** Procedimiento para el primer examen final
 
