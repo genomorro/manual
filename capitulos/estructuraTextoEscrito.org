@@ -201,7 +201,7 @@ optativos, debe seleccionarse al menos uno.
 - Paso 2 :: Hacer generalizaciones sobre el tema.
 - Paso 3 :: Revisar elementos de investigaciones previas.
 **** Movimiento 2: Establecer un nicho
-Se refiere a establecer el  problema que se atenderá en el escrito. Consiste  en un solo paso de
+Se refiere a establecer el problema que se atenderá  en el escrito. Consiste en un solo paso que
 puede abordarse de cuatro maneras diferentes. Debe escogerse solo una de estas opciones.
 
 - Paso 1A :: Encontrar un contraejemplo.
