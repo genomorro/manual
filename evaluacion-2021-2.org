@@ -7,7 +7,7 @@
 #+LANGUAGE:     es
 
 #+BEGIN_abstract
-Está disponible la lista  de [[https://nc.genomorro.name/index.php/s/Ws6fgBHqyxKn8L7][alumnos y sus exposiciones]]. Es un solo  archivo con dos hojas, cada
+Está disponible la lista  de [[https://nc.genomorro.name/index.php/s/CaZSM2ZroEd8Q3C][alumnos y sus exposiciones]]. Es un solo  archivo con dos hojas, cada
 hoja corresponde  a un  grupo. En  la columna  de notas  podrán ver  la palabra  "asignado", que
 significa que el alumno no escogió esa exposición, por  lo tanto, es más probable que no este al
 corriente en cuanto a esta información.
