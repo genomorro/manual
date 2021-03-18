@@ -21,7 +21,7 @@ examen en la fecha y horario pertinente bajo las siguientes instrucciones.
 
 ** Antes del examen
 
-1. El examen tendrá lugar el 30 de octubre de 2020 en un horario de 11:00 a 13:00.
+1. El examen tendrá lugar el 21 de mayo de 2021 en un horario de 13:00 a 15:00.
 2.  El  alumno  entrará en  [[https://tao.genomorro.name][el  sitio  web  del  examen: tao.genomorro.name]]  para  contestar  el
    cuestionario.
 3. La  forma de  entrar al  sitio será  con un  nombre de  usuario y  contraseña, los  cuales se
@@ -39,15 +39,15 @@ examen en la fecha y horario pertinente bajo las siguientes instrucciones.
      Cada alumno debe buscar su número de cuenta en la siguiente tabla y copiar su contraseña:
      |      N.C. | Contraseña  |
      |-----------+-------------|
-     | 317278905 | jRoGdONl6W8 |
-     | 314354662 | /ZuxzVQ9Ykg |
-     | 314081119 | 3bYVaghGxj4 |
-     | 316125057 | lHojUThAlcw |
-     | 316200204 | nO4mdBzyUmY |
-     | 317296859 | bTYrVigCA5Y |
-     | 315087073 | KoRyZ1fllEs |
-     | 315020533 | EHFC58SX3xs |
-     | 312136859 | Ga3z9EqmTCA |
+     # | 317278905 | jRoGdONl6W8 |
+     # | 314354662 | /ZuxzVQ9Ykg |
+     # | 314081119 | 3bYVaghGxj4 |
+     # | 316125057 | lHojUThAlcw |
+     # | 316200204 | nO4mdBzyUmY |
+     # | 317296859 | bTYrVigCA5Y |
+     # | 315087073 | KoRyZ1fllEs |
+     # | 315020533 | EHFC58SX3xs |
+     # | 312136859 | Ga3z9EqmTCA |
 
 4.  Prueba  con anticipación tu  acceso al  sitio, si tienes  problemas podrás mandar  un [[mailto:reti@genomorro.name.NOSPAM][correo
    electrónico]] describiendo el problema.  *Evita inconvenientes  antes del examen* y verifica tu
@@ -89,9 +89,10 @@ llamado *Examen extraordinario*.  Las siguientes consideraciones son importantes
 3.  El  sistema califica  de  forma  automática el  examen,  sin  embargo, el  sinodal  revisará
    manualmente  cada examen,  con el  objetivo de  evitar errores  producto de  una programación
    anómala.
-4.    La  calificación del examen estará  disponible en el  expediente del alumno tan  pronto [[https://www.dgae-siae.unam.mx/www_gate.php][el
-   sistema de  la UNAM]] permita el  llenado del acta. El  alumno podrá ver su  calificación final
-   entonces, idealmente al siguiente día de haberse realizado el examen.
+4.     La calificación  del examen  estará disponible  en el  expediente del  alumno tan  pronto
+   [[https://www.dgae-siae.unam.mx/www_gate.php][el sistema de la  UNAM]] permita el llenado del
+   acta. El  alumno podrá  ver su calificación  final entonces, idealmente  al siguiente  día de
+   haberse realizado el examen.
 
 *NOTA*: El sistema considera los errores presentes en el examen, no solamente suma los aciertos.
 Es por eso que se recomienda no adivinar las respuestas, en caso de desconocer algo siempre será
@@ -107,8 +108,7 @@ permitirle al alumno optimizar su tiempo en determinados temas de estudio.
 
 *** Conocimientos a evaluar
 
-- El alumno conocerá  de forma básica las  teorías pragmáticas de la  comunicación: John Austin,
-  John Searle y Paul Grice.
+- El alumno conocerá  el circuito de la comunicación de Roman Jakobson.
 
 - El alumno dominará los conceptos sobre el lenguaje, lengua y habla.
 
@@ -116,13 +116,17 @@ permitirle al alumno optimizar su tiempo en determinados temas de estudio.
   sus funciones. Otras palabras  útiles para su búsqueda: partes de la  oración, part of speech,
   PoS.
 
+- El  alumno  conocerá  los elementos  que  forman  una  conjugación  verbal: tiempo  aspecto  y
+  modo.  Además podrá  diferenciar  con precisión  las características  semánticas  de un  verbo
+  conjugado.
+
 - El alumno  identificará y diferenciará los  signos de puntuación, signos  diacríticos y signos
   auxiliares  para  emplearlos  de forma  correcta,  según  el  sentido  que se  quiera  dar  la
   oración.  Las normas  de ortografía  con  las cuales  se  evaluará el  examen corresponden  al
   año 2010.
 
-- El alumno  identificará el gerundio,  sus usos  ilícitos y los  tres errores más  comunes para
-  detectar cuándo y cómo emplearlo de manera correcta.
+- El alumno identificará el gerundio, sus usos  ilícitos y los errores más comunes para detectar
+  cuándo y cómo emplearlo de manera correcta.
 
 - El alumno conocerá el  párrafo como unidad estructural de un  texto escrito. Deberá distinguir
   los tipos de párrafo existentes, orden, coherencia y argumentación.
@@ -131,6 +135,8 @@ permitirle al alumno optimizar su tiempo en determinados temas de estudio.
   estilo. Conocerá, al menos, las pautas básicas del estilo APA.
 
 *** Bibliografía específica
+
+- Lingüística y poética. Roman Jakobson. 1983.
 
 - Ortografía básica de la lengua española. Real Academia Española. Asociación de Academias de la
   Lengua Española. 2012.
