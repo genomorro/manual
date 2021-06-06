@@ -7,12 +7,12 @@
 #+LANGUAGE:     es
 
 #+BEGIN_abstract
-Estimados alumnos:  El día de hoy  ho recibido un comunicado  de parte del Consejo  Técnico y el
+Estimados alumnos:  El día de hoy  he recibido un comunicado  de parte del Consejo  Técnico y el
 Director de la Facultad de Ingeniería. En este comunicado se reanudan las clases el próximo 7 de
 junio. El comunicado pueden verlo en [[https://www.ingenieria.unam.mx/][el sitio web de la FI]].
 
-Debido  a lo  anterior es  necesario nos  reunamos el  lunes 7  de junio  para hablar  sobre la
-continuación  del curso,  opciones,  aplazamientos y  temas relevantes.  El  lunes es  imposible
+Debido a  lo anterior es necesario  que nos reunamos  el lunes 7  de junio para hablar  sobre la
+continuación  del curso,  opciones, aplazamientos  y temas  relevantes.  El  lunes es  imposible
 iniciar  las exposiciones,  solicito la  asistencia de  todos, independientemente  de sus  ideas
 respecto al paro.
 
