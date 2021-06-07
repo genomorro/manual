@@ -325,6 +325,9 @@ Si tienes la oportunidad de exponer más de una vez, solo se tomará en cuenta l
 alta considerando la lista  de alumnos del 13 de marzo de 2021.  De lo contrario, se promediarán
 las evidencias correspondientes.
 
+**NOTA:** Si  un alumno falta a  su exposición y es  sustituído por un compañero,  la exposición
+cuenta para la evaluación del rendimiento del grupo.
+
 *** Ajuste de calificación.
 
 Las  participaciones servirán  para realizar  un ajuste  a la  calificación final.  Será posible
