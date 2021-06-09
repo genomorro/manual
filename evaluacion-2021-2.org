@@ -88,7 +88,8 @@ segunda parte de la clase.
 A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1].
 
 ** TODO Clase 1
-<2021-06-09 mié> y <2021-06-11 vie>
+Grupo 9:<2021-06-11 vie>
+Grupo 23: <2021-06-14 lun>
 
 1. El circuito de la comunicación.\\
    Lingüística y poética. Roman Jakobson, 1983.
@@ -104,7 +105,8 @@ A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1
    - Acto de emisión, proposición e ilocución.
 
 ** TODO Clase 2
-<2021-06-09 mié> y <2021-06-11 vie>
+Grupo 9: <2021-06-11 vie>
+Grupo 23: <2021-06-14 lun>
 
 1. El principio de cooperación.\\
    Lógica y conversación. Paul Grice, 1975.
@@ -115,7 +117,8 @@ A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1
 3. El método Gronholm como filtro laboral.\\
    - Aplicación del tema.
 ** TODO Clase 3
-<2021-06-14 lun>
+Grupo 9: <2021-06-14 lun>
+Grupo 23: <2021-06-16 mié>
 
 1. El lenguaje, la lengua y el habla.\\
    Hacia los conceptos de lengua, dialecto y hablas. Manuel Alvar, 1961.\\
@@ -128,7 +131,8 @@ A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1
 3. El caso de Ginie Wiley.
    - Aplicación del tema.
 ** TODO Clase 4
-<2021-06-14 lun>
+Grupo 9: <2021-06-14 lun>
+Grupo 23: <2021-06-16 mié>
 
 1. Competencia comunicativa y registros de lengua.\\
    El lenguaje (Capítulo 15, 19). George Yule, 2007
@@ -142,7 +146,8 @@ A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1
 3. Cultura organizacional.
    - Aplicación de tema.
 ** TODO Clase 5
-<2021-06-16 mié> y <2021-06-18 vie>
+Grupo 9: <2021-06-18 vie>
+Grupo 23: <2021-06-21 lun>
 
 1. La escritura.\\
    Las consecuencias de la escritura alfabética en la teoría lingüística. Celia Zamudio, 2010.
@@ -155,7 +160,8 @@ A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1
 3. El papel del lector.\\
    La muerte del autor. Roland Barthes, 1987.
 ** TODO Clase 6
-<2021-06-16 mié> y <2021-06-18 vie>
+Grupo 9: <2021-06-18 vie>
+Grupo 23: <2021-06-21 lun>
 
 1. La gramática.\\
    Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
@@ -170,8 +176,8 @@ A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1
 3. El problema de la escritura alfabética.
    - Aplicación de tema.
 ** TODO Clase 7
-<2021-06-21 lun>
-
+Grupo 9: <2021-06-21 lun>
+Grupo 23: <2021-06-23 mié>
 1. Nombres y determinantes.
 2. Verbos.
 3. Adjetivos.
@@ -180,7 +186,8 @@ Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
 ** TODO Clase 8
-<2021-06-21 lun>
+Grupo 9: <2021-06-21 lun>
+Grupo 23: <2021-06-23 mié>
 
 1. Adverbios.
 2. Preposiciones.
@@ -190,8 +197,8 @@ Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
 ** TODO Clase 9
-<2021-06-23 mié> y <2021-06-25 vie>
-
+Grupo 9: <2021-06-25 vie>
+Grupo 23: <2021-06-28 lun>
 1. Tipos de verbos.
    - Impersonales, intransitivos, transitivos y bitransitivos.
 2. Las oraciones.
@@ -206,7 +213,8 @@ Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
 ** TODO Clase 10
-<2021-06-23 mié> y <2021-06-25 vie>
+Grupo 9: <2021-06-25 vie>
+Grupo 23: <2021-06-28 lun>
 
 1. Sujeto.
    - Definición.
@@ -222,7 +230,8 @@ Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
 ** TODO Clase 11
-<2021-06-28 lun>
+Grupo 9: <2021-06-28 lun>
+Grupo 23: <2021-06-30 mié>
 
 1. Ambigüedad.
    - Aplicación de tema.
@@ -234,7 +243,8 @@ Bibliografía común:
 Bibliografía común:
 + Speech and Language Processing.  Daniel Jurafsky & James H. Martin. Capítulo 13.  
 ** TODO Clase 12
-<2021-06-28 lun>
+Grupo 9: <2021-06-28 lun>
+Grupo 23: <2021-06-30 mié>
 
 1. El párrafo.
    - Definición.
@@ -247,7 +257,8 @@ Bibliografía común:
 
 Bibliografía: Manual del curso.
 ** TODO Clase 13
-<2021-06-30 mié> y <2021-06-02 vie>
+Grupo 9: <2021-07-02 vie>
+Grupo 23: <2021-07-26 lun>
 
 1. El ensayo.
 2. La reseña.
