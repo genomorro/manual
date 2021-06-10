@@ -88,7 +88,7 @@ segunda parte de la clase.
 A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1].
 
 ** TODO Clase 1
-Grupo 9:<2021-06-11 vie>
+Grupo 9: <2021-06-11 vie>
 Grupo 23: <2021-06-14 lun>
 
 1. El circuito de la comunicación.\\
