@@ -88,7 +88,7 @@ segunda parte de la clase.
 A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1].
 
 ** TODO Clase 1
-Grupo 9: <2021-06-11 vie>
+Grupo 9: <2021-06-14 lun>
 Grupo 23: <2021-06-14 lun>
 
 1. El circuito de la comunicación.\\
@@ -105,7 +105,7 @@ Grupo 23: <2021-06-14 lun>
    - Acto de emisión, proposición e ilocución.
 
 ** TODO Clase 2
-Grupo 9: <2021-06-11 vie>
+Grupo 9: <2021-06-14 lun>
 Grupo 23: <2021-06-14 lun>
 
 1. El principio de cooperación.\\
@@ -117,7 +117,7 @@ Grupo 23: <2021-06-14 lun>
 3. El método Gronholm como filtro laboral.\\
    - Aplicación del tema.
 ** TODO Clase 3
-Grupo 9: <2021-06-14 lun>
+Grupo 9: <2021-06-18 vie>
 Grupo 23: <2021-06-16 mié>
 
 1. El lenguaje, la lengua y el habla.\\
@@ -131,7 +131,7 @@ Grupo 23: <2021-06-16 mié>
 3. El caso de Ginie Wiley.
    - Aplicación del tema.
 ** TODO Clase 4
-Grupo 9: <2021-06-14 lun>
+Grupo 9: <2021-06-18 vie>
 Grupo 23: <2021-06-16 mié>
 
 1. Competencia comunicativa y registros de lengua.\\
@@ -146,7 +146,7 @@ Grupo 23: <2021-06-16 mié>
 3. Cultura organizacional.
    - Aplicación de tema.
 ** TODO Clase 5
-Grupo 9: <2021-06-18 vie>
+Grupo 9: <2021-06-21 lun>
 Grupo 23: <2021-06-21 lun>
 
 1. La escritura.\\
@@ -160,7 +160,7 @@ Grupo 23: <2021-06-21 lun>
 3. El papel del lector.\\
    La muerte del autor. Roland Barthes, 1987.
 ** TODO Clase 6
-Grupo 9: <2021-06-18 vie>
+Grupo 9: <2021-06-21 lun>
 Grupo 23: <2021-06-21 lun>
 
 1. La gramática.\\
@@ -176,7 +176,7 @@ Grupo 23: <2021-06-21 lun>
 3. El problema de la escritura alfabética.
    - Aplicación de tema.
 ** TODO Clase 7
-Grupo 9: <2021-06-21 lun>
+Grupo 9: <2021-06-25 mié>
 Grupo 23: <2021-06-23 mié>
 1. Nombres y determinantes.
 2. Verbos.
@@ -186,7 +186,7 @@ Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
 ** TODO Clase 8
-Grupo 9: <2021-06-21 lun>
+Grupo 9: <2021-06-25 mié>
 Grupo 23: <2021-06-23 mié>
 
 1. Adverbios.
@@ -197,7 +197,7 @@ Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
 ** TODO Clase 9
-Grupo 9: <2021-06-25 vie>
+Grupo 9: <2021-06-28 lun>
 Grupo 23: <2021-06-28 lun>
 1. Tipos de verbos.
    - Impersonales, intransitivos, transitivos y bitransitivos.
@@ -213,7 +213,7 @@ Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
 ** TODO Clase 10
-Grupo 9: <2021-06-25 vie>
+Grupo 9: <2021-06-28 lun>
 Grupo 23: <2021-06-28 lun>
 
 1. Sujeto.
@@ -230,7 +230,7 @@ Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
 ** TODO Clase 11
-Grupo 9: <2021-06-28 lun>
+Grupo 9: <2021-06-02 vie>
 Grupo 23: <2021-06-30 mié>
 
 1. Ambigüedad.
@@ -243,7 +243,7 @@ Grupo 23: <2021-06-30 mié>
 Bibliografía común:
 + Speech and Language Processing.  Daniel Jurafsky & James H. Martin. Capítulo 13.  
 ** TODO Clase 12
-Grupo 9: <2021-06-28 lun>
+Grupo 9: <2021-06-02 vie>
 Grupo 23: <2021-06-30 mié>
 
 1. El párrafo.
@@ -257,7 +257,7 @@ Grupo 23: <2021-06-30 mié>
 
 Bibliografía: Manual del curso.
 ** TODO Clase 13
-Grupo 9: <2021-07-02 vie>
+Grupo 9: <2021-07-26 lun>
 Grupo 23: <2021-07-26 lun>
 
 1. El ensayo.
