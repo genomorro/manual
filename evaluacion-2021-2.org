@@ -311,14 +311,12 @@ Las fechas de entrega están en la sección [[Calendario]].
 
 ** Participaciones
 
-En  cada  sesión   podrás  solicitar  tu  participación  si  así   corresponde.   El  número  de
-participaciones será  llevado por  el profesor.  Tus aportaciones  solo serán  contabilizadas si
-estás  inscrito  en   el  horario  donde  las  hiciste.  Es   tu  responsabilidad  solicitar  tu
-participación.
+Al  final del  semestre se  aplicará un  examen de  conocimientos sobre  todo el  temario de  la
+asignatura. Este examen se calificará entre -10 a 10. Las calificaciones negativas serán tomadas
+como participaciones negativas, se hará lo propio con las calificaciones positivas.
 
-Las participaciones  pueden ser negativas en  caso de un error  total. Un error total  puede ser
-aunque no se limita a un comentario erróneo sobre un tema previamente visto, brindar información
-pérfida al grupo, negarse sin motivo aparente a brindar  ayuda a la clase.
+Este  examen es  optativo,  por lo  que el  alumno  lo presentará  solo  si desea  un ajuste  de
+calificación. Este examen es independiente a los examenes finales.
 
 ** Calificación
 
