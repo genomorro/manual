@@ -87,7 +87,8 @@ segunda parte de la clase.
 
 A continuación  se presentan los  temas a exponer y  las fechas tentativas[fn:1].
 
-** TODO Clase 1
+** DONE Clase 1
+CLOSED: [2021-06-21 lun 11:00]
 Grupo 9: <2021-06-14 lun>
 Grupo 23: <2021-06-14 lun>
 
@@ -104,7 +105,8 @@ Grupo 23: <2021-06-14 lun>
    - Definición de acto de habla.
    - Acto de emisión, proposición e ilocución.
 
-** TODO Clase 2
+** DONE Clase 2
+CLOSED: [2021-06-21 lun 11:01]
 Grupo 9: <2021-06-14 lun>
 Grupo 23: <2021-06-14 lun>
 
@@ -116,7 +118,8 @@ Grupo 23: <2021-06-14 lun>
    - Comunicación asertiva. Wázcar Verduzco y Marlón Hernández, 2017. 
 3. El método Gronholm como filtro laboral.\\
    - Aplicación del tema.
-** TODO Clase 3
+** DONE Clase 3
+CLOSED: [2021-06-21 lun 11:01]
 Grupo 9: <2021-06-18 vie>
 Grupo 23: <2021-06-16 mié>
 
@@ -130,7 +133,8 @@ Grupo 23: <2021-06-16 mié>
    - Ver manual del curso.
 3. El caso de Ginie Wiley.
    - Aplicación del tema.
-** TODO Clase 4
+** DONE Clase 4
+CLOSED: [2021-06-21 lun 11:01]
 Grupo 9: <2021-06-18 vie>
 Grupo 23: <2021-06-16 mié>
 
@@ -145,7 +149,7 @@ Grupo 23: <2021-06-16 mié>
    - El Catálogo de lenguas indígenas nacionales.
 3. Cultura organizacional.
    - Aplicación de tema.
-** TODO Clase 5
+** IN-PROGRESS Clase 5
 Grupo 9: <2021-06-21 lun>
 Grupo 23: <2021-06-21 lun>
 
@@ -159,7 +163,7 @@ Grupo 23: <2021-06-21 lun>
    - Ejemplos aplicables para un texto de ingeniería.
 3. El papel del lector.\\
    La muerte del autor. Roland Barthes, 1987.
-** TODO Clase 6
+** IN-PROGRESS Clase 6
 Grupo 9: <2021-06-21 lun>
 Grupo 23: <2021-06-21 lun>
 
