@@ -149,7 +149,8 @@ Grupo 23: <2021-06-16 mié>
    - El Catálogo de lenguas indígenas nacionales.
 3. Cultura organizacional.
    - Aplicación de tema.
-** IN-PROGRESS Clase 5
+** DONE Clase 5
+CLOSED: [2021-06-21 lun 20:22]
 Grupo 9: <2021-06-21 lun>
 Grupo 23: <2021-06-21 lun>
 
@@ -163,7 +164,8 @@ Grupo 23: <2021-06-21 lun>
    - Ejemplos aplicables para un texto de ingeniería.
 3. El papel del lector.\\
    La muerte del autor. Roland Barthes, 1987.
-** IN-PROGRESS Clase 6
+** DONE Clase 6
+CLOSED: [2021-06-21 lun 20:22]
 Grupo 9: <2021-06-21 lun>
 Grupo 23: <2021-06-21 lun>
 
@@ -179,7 +181,7 @@ Grupo 23: <2021-06-21 lun>
    - Palabra fonológica, morfológica, léxica y gráfica.
 3. El problema de la escritura alfabética.
    - Aplicación de tema.
-** TODO Clase 7
+** IN-PROGRESS Clase 7
 Grupo 9: <2021-06-25 mié>
 Grupo 23: <2021-06-23 mié>
 1. Nombres y determinantes.
@@ -189,7 +191,7 @@ Grupo 23: <2021-06-23 mié>
 Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
-** TODO Clase 8
+** IN-PROGRESS Clase 8
 Grupo 9: <2021-06-25 mié>
 Grupo 23: <2021-06-23 mié>
 
