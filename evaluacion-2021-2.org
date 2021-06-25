@@ -181,7 +181,8 @@ Grupo 23: <2021-06-21 lun>
    - Palabra fonológica, morfológica, léxica y gráfica.
 3. El problema de la escritura alfabética.
    - Aplicación de tema.
-** IN-PROGRESS Clase 7
+** DONE Clase 7
+CLOSED: [2021-06-25 vie 13:59]
 Grupo 9: <2021-06-25 mié>
 Grupo 23: <2021-06-23 mié>
 1. Nombres y determinantes.
@@ -191,7 +192,8 @@ Grupo 23: <2021-06-23 mié>
 Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
-** IN-PROGRESS Clase 8
+** DONE Clase 8
+CLOSED: [2021-06-25 vie 13:59]
 Grupo 9: <2021-06-25 mié>
 Grupo 23: <2021-06-23 mié>
 
@@ -202,7 +204,7 @@ Grupo 23: <2021-06-23 mié>
 Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
-** TODO Clase 9
+** IN-PROGRESS Clase 9
 Grupo 9: <2021-06-28 lun>
 Grupo 23: <2021-06-28 lun>
 1. Tipos de verbos.
@@ -218,7 +220,7 @@ Grupo 23: <2021-06-28 lun>
 Bibliografía común:
 + Nueva gramática de la lengua española. Asociación de Academias de la Lengua Española, 2010.
 + Gramática descriptiva de la lengua española. Ignacio Bosque & Violeta Demonte, 1999.
-** TODO Clase 10
+** IN-PROGRESS Clase 10
 Grupo 9: <2021-06-28 lun>
 Grupo 23: <2021-06-28 lun>
 
