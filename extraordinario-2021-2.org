@@ -84,9 +84,9 @@ llamado *Examen extraordinario*.  Las siguientes consideraciones son importantes
    examen diferente.
 2. Debido a que el  alumno no tendrá supervisión a la hora del examen,  el único control a tener
    en cuenta es el tiempo: la duración máxima del examen es de dos horas, aunque el alumno puede
-   comenzar el examen en cualquier minuto a partir de las 11:00 del 30 de octubre, el sistema se
-   cerrará automáticamente a  las 13:00. Todo examen  está programado para ser  suspendido a las
-   13:00, sin excepción.
+   comenzar el examen en  cualquier minuto a partir de la hora de  inicio, el sistema se cerrará
+   automáticamente a  la hora señalada.  Todo examen está programado  para ser suspendido  a las
+   15:00 y 19:00 según corresponda, sin excepción.
 3.  El  sistema califica  de  forma  automática el  examen,  sin  embargo, el  sinodal  revisará
    manualmente  cada examen,  con el  objetivo de  evitar errores  producto de  una programación
    anómala.
