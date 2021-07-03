@@ -22,7 +22,7 @@ examen en la fecha y horario pertinente bajo las siguientes instrucciones.
 ** Antes del examen
 
 1. El examen  tendrá lugar el 2  de julio de 2021  en un horario de  13:00 a 15:00 y  de 17:00 a
-   19:00.
+   19:00. Verifica el horario con anticipación dentro de la plataforma.
 2.  El  alumno  entrará en  [[https://tao.genomorro.name][el  sitio  web  del  examen: tao.genomorro.name]]  para  contestar  el
    cuestionario.
 3. La  forma de  entrar al  sitio será  con un  nombre de  usuario y  contraseña, los  cuales se
@@ -40,15 +40,17 @@ examen en la fecha y horario pertinente bajo las siguientes instrucciones.
      Cada alumno debe buscar su número de cuenta en la siguiente tabla y copiar su contraseña:
      |      N.C. | Contraseña  |
      |-----------+-------------|
-     # | 317278905 | jRoGdONl6W8 |
-     # | 314354662 | /ZuxzVQ9Ykg |
-     # | 314081119 | 3bYVaghGxj4 |
-     # | 316125057 | lHojUThAlcw |
-     # | 316200204 | nO4mdBzyUmY |
-     # | 317296859 | bTYrVigCA5Y |
-     # | 315087073 | KoRyZ1fllEs |
-     # | 315020533 | EHFC58SX3xs |
-     # | 312136859 | Ga3z9EqmTCA |
+     | 312092388 | 7Bbw8UnCVIk |
+     | 306314298 | Tuwjgcl7YEI |
+     | 318023320 | kkz8iKVVdQg |
+     | 318187505 | gO5x8L3jYKo |
+     | 315280085 | Hi9Uou0zWw8 |
+     | 317263550 | iJupDUq8ME8 |
+     | 318157245 | gkuZpm7RlQ0 |
+     | 316310077 | CpyLfM3gqOE |
+     | 316134163 | kq71H4xDPIM |
+     | 315121496 | Wy5fRWlGNG4 |
+     | 312136859 | Ga3z9EqmTCA |
 
 4.   Prueba  con  anticipación  tu  acceso  al sitio,  si  tienes  problemas  podrás  mandar  un
    [[mailto:edgar.dominguez@fi.unam.edu.NOSPAM][correo  electrónico]] describiendo  el problema.
@@ -90,7 +92,10 @@ llamado *Examen extraordinario*.  Las siguientes consideraciones son importantes
 3.  El  sistema califica  de  forma  automática el  examen,  sin  embargo, el  sinodal  revisará
    manualmente  cada examen,  con el  objetivo de  evitar errores  producto de  una programación
    anómala.
-4.     La calificación  del examen  estará disponible  en el  expediente del  alumno tan  pronto
+4. Al  final del examen  el sistema mostrará  tu calificación automática  en un rango  de [0,1],
+   pudes multiplicar por  diez ese resultado para  obtener un número más claro,  por ejemplo: un
+   resultado de 0.8 será igual a un 8 de calificación en el examen.
+5.     La calificación  del examen  estará disponible  en el  expediente del  alumno tan  pronto
    [[https://www.dgae-siae.unam.mx/www_gate.php][el sistema de la  UNAM]] permita el llenado del
    acta. El  alumno podrá  ver su calificación  final entonces, idealmente  al siguiente  día de
    haberse realizado el examen.
